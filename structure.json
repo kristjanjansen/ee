@@ -18,6 +18,231 @@
         "title": "Õpilase lõputunnistused",
         "url": "https://www.eesti.ee/est/teenused/kodanik/haridus_ja_teadus/opilase_loputunnistused",
         "domain": "haridus_ja_teadus"
+      },
+      {
+        "title": "Ahtme kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/ida_virumaa_1/ahtme_kool",
+        "domain": "koolid"
+      },
+      {
+        "title": "G. Otsa nim Tallinna muusikakool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/muusikakoolid/g_otsa_nim_tallinna_muusikakool",
+        "domain": "muusikakoolid"
+      },
+      {
+        "title": "Ida-Virumaa kutsehariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/ida_virumaa_kutsehariduskeskus",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Kallemäe kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/saaremaa_1/kallemae_kool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Kammeri kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/kammeri_kool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Keeleamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/keeleinspektsioon",
+        "domain": "riigiametid"
+      },
+      {
+        "title": "Kehtna kutsehariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/kehtna_majandus_ja_tehnoloogiakool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Kiigemetsa kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/jogevamaa_1/kiigemetsa_kool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Kohtla-Järve gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/ida_virumaa_1/kohtla_jarve_gumnaasium",
+        "domain": "koolid"
+      },
+      {
+        "title": "Konstantin Pätsi Vabaõhukool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/harjumaa_1/tallinna_konstantin_patsi_vabaohukool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Kuressaare ametikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/kuressaare_ametikool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Kõrgem Kunstikool Pallas",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/tartu_korgem_kunstikool",
+        "domain": "korgkoolid"
+      },
+      {
+        "title": "Maarjamaa hariduskolleegium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/kaagvere_erikool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Maarjamaa hariduskolleegiumi Valgejõe õppekeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/laane_virumaa_1/tapa_erikool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Olustvere teenindus- ja maamajanduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/olustvere_teenindus_ja_maamajanduskool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Raikküla kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/raplamaa_1/raikkula_kool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Rakvere ametikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/rakvere_ametikool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "riigikantselei"
+      },
+      {
+        "title": "Räpina aianduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/rapina_aianduskool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna balletikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_balletikool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna ehituskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_ehituskool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna Lasnamäe mehaanikakool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_lasnamae_mehaanikakool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna majanduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_majanduskool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna muusikakeskkool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/harjumaa_1/tallinna_muusikakeskkool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Tallinna polütehnikum",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_polutehnikum",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna teeninduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_teeninduskool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna Tehnikakõrgkool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/tallinna_tehnikakorgkool",
+        "domain": "korgkoolid"
+      },
+      {
+        "title": "Tallinna Tervishoiu Kõrgkool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/tallinna_tervishoiu_korgkool",
+        "domain": "korgkoolid"
+      },
+      {
+        "title": "Tallinna transpordikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_transpordikool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna tööstushariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_toostushariduskeskus",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tartu Emajõe kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/tartu_emajoe_kool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Tartu Hiie kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/tartu_hiie_kool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Tartu kunstikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/muusikakoolid/tartu_kunstikool",
+        "domain": "muusikakoolid"
+      },
+      {
+        "title": "Tartu Tamme gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/tartu_tamme_gumnaasium",
+        "domain": "koolid"
+      },
+      {
+        "title": "Tartu Tervishoiu Kõrgkool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/tartu_tervishoiu_korgkool",
+        "domain": "korgkoolid"
+      },
+      {
+        "title": "Vaeküla kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/laane_virumaa_1/vaekula_kool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Valga gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/valgamaa_1/valga_gumnaasium",
+        "domain": "koolid"
+      },
+      {
+        "title": "Valga Jaanikese kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/valgamaa_1/valga_jaanikese_kool",
+        "domain": "koolid"
+      },
+      {
+        "title": "Valgamaa kutseõppekeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/valgamaa_kutseoppekeskus",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Vana-Vigala tehnika- ja teeninduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/vana_vigala_tehnika_ja_teeninduskool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Viimsi gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/harjumaa_1/viimsi_gumnaasium",
+        "domain": "koolid"
+      },
+      {
+        "title": "Viljandi gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/viljandimaa_1/viljandi_gumnaasium",
+        "domain": "koolid"
+      },
+      {
+        "title": "Viljandi kutseõppekeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/viljandi_uhendatud_kutsekeskkool",
+        "domain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Võru gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/vorumaa_1/voru_gumnaasium",
+        "domain": "koolid"
+      },
+      {
+        "title": "Võrumaa kutsehariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/vorumaa_kutsehariduskeskus",
+        "domain": "kutsehariduskeskused"
       }
     ],
     "related": [
@@ -501,7 +726,78 @@
     "title": "Justiitsministeerium",
     "url": "http://www.just.ee/",
     "address": "Suur-Ameerika 1 15006 Tallinn Harju maakond",
-    "services": [],
+    "services": [
+      {
+        "title": "Kinnistusraamatu teadete vaatamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/puudutatud_isiku_teadete_paring",
+        "domain": "eluase"
+      },
+      {
+        "title": "Kodaniku kinnistud",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/kodaniku_kinnistud_1",
+        "domain": "eluase"
+      },
+      {
+        "title": "Menetluses olevad kinnistamisavaldused",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/mind_puudutavad_menetluses_olevad_kinnistamisavaldused",
+        "domain": "eluase"
+      },
+      {
+        "title": "Pärandvara hoiumeetmete kanne",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/oigusabi_2/parandvara_hoiumeetmete_kanne",
+        "domain": "oigusabi_2"
+      },
+      {
+        "title": "Pärimismenetluse algatamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/oigusabi_2/parimismenetluse_algatamise_kanne",
+        "domain": "oigusabi_2"
+      },
+      {
+        "title": "Pärimistunnistuse tõestamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/oigusabi_2/parimistunnistuse_kanne",
+        "domain": "oigusabi_2"
+      },
+      {
+        "title": "Testamendi või pärimislepingu tõestamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/oigusabi_2/testament_parimisleping",
+        "domain": "oigusabi_2"
+      },
+      {
+        "title": "Andmekaitse inspektsioon",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/inspektsioonid_1/andmekaitse_inspektsioon",
+        "domain": "inspektsioonid"
+      },
+      {
+        "title": "AS Eesti Vanglatööstus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_vanglatoostus",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Harku ja Murru vangla",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/vanglad/harku_ja_murru_vangla",
+        "domain": "vanglad"
+      },
+      {
+        "title": "Patendiamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/patendiamet",
+        "domain": "riigiametid"
+      },
+      {
+        "title": "Prokuratuur",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/prokuratuur",
+        "domain": "prokuratuur"
+      },
+      {
+        "title": "Tallinna vangla",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/vanglad/tallinna_vangla",
+        "domain": "vanglad"
+      },
+      {
+        "title": "Tartu vangla",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/vanglad/tartu_vangla",
+        "domain": "vanglad"
+      }
+    ],
     "related": [
       {
         "title": "Andmekaitse inspektsioon",
@@ -1013,7 +1309,143 @@
     "title": "Majandus- ja kommunikatsiooniministeerium",
     "url": "https://www.mkm.ee",
     "address": "Suur-Ameerika 1 10122 Tallinn Harju maakond",
-    "services": [],
+    "services": [
+      {
+        "title": "Minuga seotud dokumendid ehitisregistris",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/isikuga_seotud_dokumendid_ehitisregistris_2",
+        "domain": "eluase"
+      },
+      {
+        "title": "Minuga seotud vallasvara ehitisregistris",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/registreeritud_vallasvara_andmeid_ehitisregistris",
+        "domain": "eluase"
+      },
+      {
+        "title": "Minu kinnistul paiknevad ehitised ehitisregistris",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/ehitised_katastriuksustel_alamparing",
+        "domain": "eluase"
+      },
+      {
+        "title": "Isiklike sõidukite päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/liiklus_ja_liiklusvahendid/paring1",
+        "domain": "liiklus_ja_liiklusvahendid"
+      },
+      {
+        "title": "Juhilubade ja tunnistuste kehtivuse kontrollimine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/liiklus_ja_liiklusvahendid/kod_muu_dok",
+        "domain": "liiklus_ja_liiklusvahendid"
+      },
+      {
+        "title": "Juhilubade päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/liiklus_ja_liiklusvahendid/jlparing1",
+        "domain": "liiklus_ja_liiklusvahendid"
+      },
+      {
+        "title": "Kodaniku väikelaevade päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/liiklus_ja_liiklusvahendid/vlaev_kod",
+        "domain": "liiklus_ja_liiklusvahendid"
+      },
+      {
+        "title": "AS A. L. A. R. A.",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_a_l_a_r_a",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Liinirongid",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_eesti_liinirongid",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Loots",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_loots",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Post (Omniva)",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_post",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Raudtee",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_raudtee",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Teed",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_teed",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Vedelkütusevaru Agentuur",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_eesti_vedelkutusevaru_agentuur",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Metrosert",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_metrosert",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Nordic Aviation Group",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_nordic_aviation_group",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Operail",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_evr_cargo",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Saarte Liinid",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_saarte_liinid",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Tallinna Lennujaam",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_tallinna_lennujaam",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Tallinna Sadam",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_tallinna_sadam",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Teede Tehnokeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_teede_tehnokeskus",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Kredex Krediidikindlustus AS",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/kredex_krediidikindlustus_aktsiaselts",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "OÜ Transpordi Varahaldus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/ou_transpordi_varahaldus",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "SA Eesti Akrediteerimiskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_eesti_akrediteerimiskeskus",
+        "domain": "sihtasutused"
+      },
+      {
+        "title": "SA Ida-Virumaa Tööstusalade Arendus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_ida_virumaa_toostusalade_arendus",
+        "domain": "sihtasutused"
+      },
+      {
+        "title": "SA KredEx",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/krediidi_ja_ekspordi_garanteerimise_sihtasutus_kredex",
+        "domain": "sihtasutused"
+      },
+      {
+        "title": "SA Tallinna Teaduspark Tehnopol",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_tallinna_teaduspark_tehnopol",
+        "domain": "sihtasutused"
+      }
+    ],
     "related": [
       {
         "title": "AS A. L. A. R. A.",
@@ -1343,7 +1775,93 @@
     "title": "Siseministeerium",
     "url": "http://www.siseministeerium.ee",
     "address": "Pikk 61 15065 Tallinn Harju maakond",
-    "services": [],
+    "services": [
+      {
+        "title": "Elukohateate esitamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/rahvastikuregister_elukohateade",
+        "domain": "eluase"
+      },
+      {
+        "title": "Eluruumi omaniku õigustatud nõudmine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/eluruumi_omaniku_oigustatud_noudmine_1",
+        "domain": "eluase"
+      },
+      {
+        "title": "Enda andmete päring (rahvastikuregister)",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/enda_andmete_paring_1",
+        "domain": "eluase"
+      },
+      {
+        "title": "Enda ja oma alaealiste laste andmete päring (rahvastikuregister)",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/isikkodanik",
+        "domain": "eluase"
+      },
+      {
+        "title": "Enda andmete muutmine rahvastikuregistris",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/riik_ja_kodanik/kodaniku_voimalus_teavitada_oma_statistiliste_andmete_rahvus_emakeel_haridus_tegevusala_muutumisest",
+        "domain": "riik_ja_kodanik"
+      },
+      {
+        "title": "Isikut tõendavate dokumentide päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/riik_ja_kodanik/isikukaart",
+        "domain": "riik_ja_kodanik"
+      },
+      {
+        "title": "Vea leidmine rahvastikuregistri andmetest",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/riik_ja_kodanik/vea_leidmine_rahvastikuregistri_andmetest",
+        "domain": "riik_ja_kodanik"
+      },
+      {
+        "title": "Aadressi päring (RR partnerile)",
+        "url": "https://www.eesti.ee/est/teenused/ametnik/rr_partnerile/aadressiparing",
+        "domain": "rr_partnerile"
+      },
+      {
+        "title": "Dokumentide päring (RR partnerile)",
+        "url": "https://www.eesti.ee/est/teenused/ametnik/rr_partnerile/dokumendiparing",
+        "domain": "rr_partnerile"
+      },
+      {
+        "title": "Isikuandmete päring (RR partnerile)",
+        "url": "https://www.eesti.ee/est/teenused/ametnik/rr_partnerile/isikuandmete_paring",
+        "domain": "rr_partnerile"
+      },
+      {
+        "title": "Isikut tõendava dokumendi kehtivuse kontroll (RR partnerile)",
+        "url": "https://www.eesti.ee/est/teenused/ametnik/rr_partnerile/rr_dokumendi_kehtivuse_kontroll",
+        "domain": "rr_partnerile"
+      },
+      {
+        "title": "Minu tehtud päringud rahvastikuregistris (RR partnerile)",
+        "url": "https://www.eesti.ee/est/teenused/ametnik/rr_partnerile/rr_minu_tehtud_paringud",
+        "domain": "rr_partnerile"
+      },
+      {
+        "title": "Eesti Siseturvalisuse Muuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_siseturvalisuse_muuseum",
+        "domain": "muuseumid"
+      },
+      {
+        "title": "Politsei- ja piirivalveamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/politsei_ja_piirivalveamet",
+        "domain": "riigiametid"
+      },
+      {
+        "title": "Päästeamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/paasteamet_1",
+        "domain": "riigiametid"
+      },
+      {
+        "title": "Sisekaitseakadeemia",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/sisekaitseakadeemia",
+        "domain": "korgkoolid"
+      },
+      {
+        "title": "Siseministeeriumi infotehnoloogia- ja arenduskeskus (SMIT)",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/siseministeeriumi_infotehnoloogia_ja_arenduskeskus",
+        "domain": "keskused"
+      }
+    ],
     "related": [
       {
         "title": "Eesti Siseturvalisuse Muuseum",
@@ -1393,7 +1911,93 @@
     "title": "Sotsiaalministeerium",
     "url": "https://www.sm.ee",
     "address": "Suur-Ameerika 1 10122 Tallinn Harju maakond",
-    "services": [],
+    "services": [
+      {
+        "title": "Sisenemine ohutu tööelu andmekogusse (Tööbik)",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/too_ja_toosuhted/sisenemine_ohutu_tooelu_andmekogusse",
+        "domain": "too_ja_toosuhted"
+      },
+      {
+        "title": "AS Hoolekandeteenused",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_hoolekandeteenused",
+        "domain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Ida-Tallinna Keskhaigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_ida_tallinna_keskhaigla",
+        "domain": "haiglad"
+      },
+      {
+        "title": "AS Järvamaa Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_jarvamaa_haigla",
+        "domain": "haiglad"
+      },
+      {
+        "title": "AS Lõuna-Eesti Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_louna_eesti_haigla",
+        "domain": "haiglad"
+      },
+      {
+        "title": "AS Lääne-Tallinna Keskhaigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_laane_tallinna_keskhaigla",
+        "domain": "haiglad"
+      },
+      {
+        "title": "AS Põlva Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_polva_haigla",
+        "domain": "haiglad"
+      },
+      {
+        "title": "AS Rakvere Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_rakvere_haigla",
+        "domain": "haiglad"
+      },
+      {
+        "title": "Astangu Kutserehabilitatsiooni Keskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/astangu_kutserehabilitatsiooni_keskus",
+        "domain": "keskused"
+      },
+      {
+        "title": "AS Valga Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_valga_haigla",
+        "domain": "haiglad"
+      },
+      {
+        "title": "Ravimiamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/ravimiamet",
+        "domain": "riigiametid"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "riigikantselei"
+      },
+      {
+        "title": "Riikliku lepitaja kantselei",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/riikliku_lepitaja_kantselei",
+        "domain": "riikliku_lepitaja_kantselei"
+      },
+      {
+        "title": "Terviseamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/terviseamet",
+        "domain": "riigiametid"
+      },
+      {
+        "title": "Tervise Arengu Instituut",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/instituudid/tervise_arengu_instituut",
+        "domain": "instituudid"
+      },
+      {
+        "title": "Tervise ja Heaolu Infosüsteemide Keskus (TEHIK)",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/tervise_ja_heaolu_infosusteemide_keskus",
+        "domain": "keskused"
+      },
+      {
+        "title": "Tööinspektsioon",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/inspektsioonid_1/tooinspektsioon",
+        "domain": "inspektsioonid"
+      }
+    ],
     "related": [
       {
         "title": "AS Hoolekandeteenused",

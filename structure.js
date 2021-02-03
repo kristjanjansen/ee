@@ -34,19 +34,26 @@ const url = (min) =>
           .querySelector(".box07-a address")
           .textContent.trim();
 
-        const services = Array.from(
-          document.querySelectorAll(".tab-content-a ul li.target_KALN a")
-        ).map((el) => {
-          const path = el
-            .getAttribute("href")
-            .split("/")
-            .map((i) => i.replace("_1", ""));
-          return {
-            title: el.innerText.trim(),
-            url: `https://www.eesti.ee${el.getAttribute("href")}`,
-            domain: path[4],
-          };
-        });
+        let services = [];
+        if (
+          document
+            .querySelector(".tabs li:first-child")
+            .getAttribute("class") === "active"
+        ) {
+          services = Array.from(
+            document.querySelectorAll(".tab-content-a ul li a")
+          ).map((el) => {
+            const path = el
+              .getAttribute("href")
+              .split("/")
+              .map((i) => i.replace("_1", ""));
+            return {
+              title: el.innerText.trim(),
+              url: `https://www.eesti.ee${el.getAttribute("href")}`,
+              domain: path[4],
+            };
+          });
+        }
 
         const related = Array.from(
           document.querySelectorAll(".box05-b ul li a")
