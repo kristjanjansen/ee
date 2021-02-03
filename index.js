@@ -133,11 +133,12 @@ const App = {
 
     //watchEffect(() => console.log(elements.value));
 
-    return { elements, width, height, zoom };
+    const area2radius = (area) => Math.sqrt(area / Math.PI);
+    return { elements, width, height, zoom, area2radius };
   },
   template: `
   <div :style="{transform: 'scale(' + zoom + ')', transformOrigin: '0 0'}">
-  <svg :width="width" :height="height">
+  <svg :width="width + 1000" :height="height">
     <path 
       v-for="el in elements"
       :d="el.path"
@@ -146,6 +147,15 @@ const App = {
       fill="none"
       opacity="0.2"
 
+    />
+    <circle 
+      v-for="el in elements"
+      :cx="el.y + 7"
+      :cy="el.x"
+      :r="el.data.stats ? Math.min(area2radius(el.data.stats) + 2, 500) : 0"
+      :fill="el.data.color"
+      opacity="0.2"
+      style="mix-blend-mode: multiply"
     />
   </svg>
   <div
@@ -160,7 +170,7 @@ const App = {
     }"
   >
     <component :is="el.data.url ? 'a' : 'div'" :href="el.data.url" target="_blank">
-    <span :style="{color: el.data.color}">{{ el.data.service ? '✋' : el.data.name.endsWith('ministeerium') ? '🕋' : '🏢'}}</span> {{ el.data.name ? el.data.name : el.data }} {{ el.data.stats}}
+      <div><span :style="{color: el.data.color}">{{ el.data.service ? '✋' : el.data.name.endsWith('ministeerium') ? '🕋' : '🏢'}}</span>{{ el.data.name ? el.data.name : el.data }} <span :style="{color: el.data.color, opacity: 0.75}">{{ el.data.stats }}</span></div>
     </component>
   </div>
   </div>
