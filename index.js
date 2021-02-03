@@ -13,6 +13,7 @@ export const unique = (arr) => [...new Set(arr)];
 const App = {
   setup() {
     const zoom = ref(0.6);
+    const fade = ref(0);
 
     const width = ref(1500);
     const height = ref(15000);
@@ -60,9 +61,8 @@ const App = {
               color: color(d.title),
               url: service.url,
               service: true,
-              stats:
-                service.serviceStatistics[0].availableChannel[0]
-                  .channelStatistics.transaction,
+              stats: service.serviceStatistics[0].availableChannel.reverse()[0]
+                .channelStatistics.transaction,
             };
           });
 
@@ -154,7 +154,7 @@ const App = {
     //watchEffect(() => console.log(elements.value));
 
     const area2radius = (area) => Math.sqrt(area / Math.PI);
-    return { elements, width, height, zoom, area2radius };
+    return { elements, width, height, zoom, area2radius, fade };
   },
   template: `
   <div :style="{transform: 'scale(' + zoom + ')', transformOrigin: '0 0'}">
@@ -174,7 +174,7 @@ const App = {
       :cy="el.x"
       :r="el.data.stats ? Math.min(area2radius(el.data.stats) + 2, 250) : 0"
       :fill="el.data.color"
-      opacity="0.2"
+      :opacity="fade"
       style="mix-blend-mode: multiply"
     />
   </svg>
@@ -195,11 +195,19 @@ const App = {
   </div>
   </div>
   <input
-    style="position: fixed; top: 10px; left: 10px"
+    style="position: fixed; top: 20px; left: 20px; width: 100px"
     type="range"
     v-model="zoom"
     min="0.05"
     max="1"
+    step="0.001"
+  />
+  <input
+    style="position: fixed; top: 20px; right: 20px; width: 100px"
+    type="range"
+    v-model="fade"
+    min="0"
+    max="0.2"
     step="0.001"
   />
   `,
