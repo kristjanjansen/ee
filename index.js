@@ -137,11 +137,17 @@ const App = {
                       };
                     });
 
+                  const clean = (str) =>
+                    str
+                      .replace(" (RMK)", "")
+                      .replace(" Aktsiaselts", "")
+                      .replace(" AS", "")
+                      .toLowerCase();
+
                   const systems = rihaData.value
                     .filter(
                       (system) =>
-                        system.details.owner.name.toLowerCase() ===
-                        r.title.replace(" (RMK)", "").toLowerCase()
+                        clean(system.details.owner.name) === clean(r.title)
                     )
                     .map((system) => {
                       return {
