@@ -31,17 +31,24 @@ const App = {
     const tree = d3.tree().size([height.value, width.value]);
 
     const data = computed(() => {
+      const color = d3
+        .scaleOrdinal(d3.schemeCategory10)
+        .domain(sourceData.value.map((min) => min.title));
+
       const children = sourceData.value.map((d) => {
+        console.log(color(d.title));
         const domains = unique(d.related.map((r) => r.subdomain));
         return {
           name: d.title,
           url: d.url,
+          color: color(d.title),
           children: domains.map((domain) => {
             const relatedDomains = d.related.filter(
               (r) => r.subdomain === domain
             );
             return {
               name: domain,
+              color: color(d.title),
               children: relatedDomains.map((r) => {
                 const services = servicesData.value
                   .filter(
@@ -50,11 +57,16 @@ const App = {
                       r.title.toLowerCase()
                   )
                   .map((service) => {
-                    return { name: service.name, url: service.url };
+                    return {
+                      name: service.name,
+                      color: color(d.title),
+                      url: service.url,
+                    };
                   });
                 return {
                   name: r.title,
                   url: r.url,
+                  color: color(d.title),
                   children: services,
                 };
               }),
@@ -92,8 +104,9 @@ const App = {
     <path 
       v-for="el in elements"
       :d="el.path"
-      stroke="#ddd"
+      :stroke="el.data.color"
       fill="none"
+      opacity="0.2"
     />
   </svg>
   <div
@@ -104,11 +117,11 @@ const App = {
       top: el.x + 'px',
       whiteSpace: 'nowrap',
       textShadow: '1px white',
-      transform: 'translateY(-0.6em)'
+      transform: 'translateY(-0.6em)',
     }"
   >
     <component :is="el.data.url ? 'a' : 'div'" :href="el.data.url" target="_blank">
-    {{ el.data.name ? el.data.name : el.data }}
+    <span :style="{color: el.data.color}">•</span> {{ el.data.name ? el.data.name : el.data }}
     </component>
   </div>
   `,
