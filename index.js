@@ -38,7 +38,9 @@ const App = {
         .domain(sourceData.value.map((min) => min.title));
 
       const children = sourceData.value.map((d) => {
-        const domains = unique(d.related.map((r) => r.subdomain));
+        const domains = unique(d.related.map((r) => r.subdomain)).filter(
+          (d) => d !== "riigikantselei"
+        );
         const services = d.services.map((s) => {
           return {
             name: s.title,
@@ -60,7 +62,11 @@ const App = {
             },
             ...domains.map((domain) => {
               const relatedDomains = d.related.filter(
-                (r) => r.subdomain === domain
+                (r) =>
+                  r.subdomain === domain &&
+                  d.title !== "Kaitseliit" &&
+                  d.title !== "Patendivolinike Koda" &&
+                  d.title !== "SA Keskkonnainvesteeringute Keskus"
               );
               return {
                 name: domain,
@@ -103,7 +109,7 @@ const App = {
       });
 
       return d3.hierarchy({
-        name: "Ministeeriumid",
+        name: "Eesti riik",
         children,
       });
     });
@@ -151,7 +157,7 @@ const App = {
     }"
   >
     <component :is="el.data.url ? 'a' : 'div'" :href="el.data.url" target="_blank">
-    <span :style="{color: el.data.color}">{{ el.data.service ? '✋' : '🏢'}}</span> {{ el.data.name ? el.data.name : el.data }}
+    <span :style="{color: el.data.color}">{{ el.data.service ? '✋' : el.data.name.endsWith('ministeerium') ? '🕋' : '🏢'}}</span> {{ el.data.name ? el.data.name : el.data }}
     </component>
   </div>
   </div>

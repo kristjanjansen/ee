@@ -19,6 +19,13 @@ const minUrls = mins.map(
 );
 
 const pis = [
+  "asutuse_kontaktid/vabariigi_presidendi_kantselei",
+  "asutuse_kontaktid/riigikogu_kantselei",
+  "asutuse_kontaktid/oiguskantsleri_kantselei",
+  "asutuse_kontaktid/riigikontroll_1",
+  //"asutuse_kontaktid/kohtud",
+  "asutuse_kontaktid/eesti_pank_1",
+  "asutuse_kontaktid/sihtasutus_keskkonnainvesteeringute_keskus",
   "audiitorkogu",
   "eesti_advokatuur",
   "eesti_arengufond",
@@ -55,24 +62,24 @@ const piUrls = pis.map((pi) => `https://www.eesti.ee/est/kontaktid/${pi}`);
       await page.goto(url, { waitUntil: "networkidle0" });
 
       return await page.evaluate(() => {
-        const title = document.querySelector(".box05-a h1").textContent.trim();
+        const title = document.querySelector(".box05-a h1")?.textContent.trim();
 
-        const url = document.querySelector(".box07-c a").getAttribute("href");
+        const url = document.querySelector?.(".box07-c a").getAttribute("href");
 
         const address = document
-          .querySelector(".box07-a address")
+          .querySelector?.(".box07-a address")
           .textContent.trim();
 
         const services = Array.from(
           document.querySelectorAll("#tab-content-teenused ul li a")
         ).map((el) => {
           const path = el
-            .getAttribute("href")
+            .getAttribute?.("href")
             .split("/")
             .map((i) => i.replace("_1", ""));
           return {
             title: el.innerText.trim(),
-            url: `https://www.eesti.ee${el.getAttribute("href")}`,
+            url: `https://www.eesti.ee${el?.getAttribute("href")}`,
             domain: path[4],
           };
         });
@@ -81,12 +88,12 @@ const piUrls = pis.map((pi) => `https://www.eesti.ee/est/kontaktid/${pi}`);
           document.querySelectorAll(".box05-b ul li a")
         ).map((el) => {
           const path = el
-            .getAttribute("href")
+            .getAttribute?.("href")
             .split("/")
             .map((i) => i.replace("_1", ""));
           return {
             title: el.innerText.trim(),
-            url: `https://www.eesti.ee${el.getAttribute("href")}`,
+            url: `https://www.eesti.ee${el.getAttribute?.("href")}`,
             domain: path[3],
             subdomain: path[4],
           };

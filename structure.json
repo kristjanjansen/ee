@@ -1797,6 +1797,68 @@
     ]
   },
   {
+    "title": "Vabariigi Presidendi kantselei",
+    "url": "https://www.kadriorg.ee",
+    "address": "A. Weizenbergi 39 15050 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "SA Eesti Koostöö Kogu",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_eesti_koostoo_kogu",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Vabariigi Presidendi Kultuurirahastu",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_vabariigi_presidendi_kultuurirahastu",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      }
+    ]
+  },
+  {
+    "title": "Riigikogu",
+    "url": "http://www.riigikogu.ee",
+    "address": "Lossi plats 1a 15165 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Õiguskantsler",
+    "url": "http://oiguskantsler.ee/",
+    "address": "Kohtu 8 15193 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Riigikontroll",
+    "url": "http://www.riigikontroll.ee",
+    "address": "Kiriku 2/4 15013 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Eesti Pank",
+    "url": "http://www.eestipank.ee",
+    "address": "Estonia pst 13 15095 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "SA Keskkonnainvesteeringute Keskus",
+    "url": "http://www.kik.ee",
+    "address": "Narva mnt 7A 10117 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Keskkonnaministeerium",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/ministeeriumid_1/keskkonnaministeerium",
+        "domain": "valitsusasutused",
+        "subdomain": "ministeeriumid"
+      }
+    ]
+  },
+  {
     "title": "Audiitorkogu",
     "url": "http://www.audiitorkogu.ee/?p=1&sd=d099deb8945c06fec0f07aeb2c061abe",
     "address": "Tartu mnt 50 10111 Tallinn Harju maakond",
