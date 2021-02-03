@@ -108,8 +108,9 @@ const App = {
       v-for="el in elements"
       :d="el.path"
       :stroke="el.data.color"
+      stroke-width="2"
       fill="none"
-      :opacity="1 - zoom + 0.2"
+      opacity="0.2"
 
     />
   </svg>
