@@ -1795,5 +1795,300 @@
         "subdomain": "riigikantselei"
       }
     ]
+  },
+  {
+    "title": "Audiitorkogu",
+    "url": "http://www.audiitorkogu.ee/?p=1&sd=d099deb8945c06fec0f07aeb2c061abe",
+    "address": "Tartu mnt 50 10111 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Eesti Advokatuur",
+    "url": "http://www.advokatuur.ee/?id=2",
+    "address": "Rävala pst 3 10143 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Eesti Arengufond",
+    "url": "http://www.arengufond.ee/",
+    "address": "Rotermanni 8 10145 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Eesti Haigekassa",
+    "url": "https://www.haigekassa.ee/",
+    "address": "Lastekodu 48 10113 Tallinn Harju maakond",
+    "services": [
+      {
+        "title": "Euroopa ravikindlustuskaardi tellimine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/reisimine_1/euroopa_ravikindlustuskaardi_tellimine",
+        "domain": "reisimine"
+      },
+      {
+        "title": "Hambaravi- ja proteesiteenuste info",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/tervis_ja_tervisekaitse/hambaravi_arve_info",
+        "domain": "tervis_ja_tervisekaitse"
+      },
+      {
+        "title": "Isiku töövõimetushüvitised (haigekassa)",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/tervis_ja_tervisekaitse/isiku_toovoimetusehuvitised_3",
+        "domain": "tervis_ja_tervisekaitse"
+      },
+      {
+        "title": "Minu arvelduskonto ja andmed haigekassas",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/tervis_ja_tervisekaitse/isiku_andmed_2",
+        "domain": "tervis_ja_tervisekaitse"
+      },
+      {
+        "title": "Ravikindlustuse ja perearsti info (haigekassa)",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/tervis_ja_tervisekaitse/kindlustatus_1",
+        "domain": "tervis_ja_tervisekaitse"
+      },
+      {
+        "title": "Retseptid",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/tervis_ja_tervisekaitse/retseptid_1",
+        "domain": "tervis_ja_tervisekaitse"
+      },
+      {
+        "title": "Retseptide vaatamised (haigekassa)",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/riik_ja_kodanik/rets_aj_teenus",
+        "domain": "riik_ja_kodanik"
+      },
+      {
+        "title": "Töötajate ravikindlustuse andmed haigekassas",
+        "url": "https://www.eesti.ee/est/teenused/ettevotja/tookeskkond_ja_personal_1/ravikindlustuse_andmed_haigekassas",
+        "domain": "tookeskkond_ja_personal"
+      }
+    ],
+    "related": []
+  },
+  {
+    "title": "Eesti Kultuurkapital",
+    "url": "http://www.kulka.ee/",
+    "address": "Suur-Karja 23 10148 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Eesti Kunstiakadeemia",
+    "url": "http://www.artun.ee",
+    "address": "Põhja puiestee 7 10412 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Eesti Maaülikool",
+    "url": "http://www.emu.ee",
+    "address": "Kreutzwaldi 1 51014 Tartu linn Tartu maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Eesti Muusika- ja Teatriakadeemia",
+    "url": "http://www.ema.edu.ee",
+    "address": "Tatari 13 10143 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Eesti Rahvusraamatukogu",
+    "url": "http://www.nlib.ee/",
+    "address": "Tõnismägi 2 15189 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Eesti Rahvusringhääling",
+    "url": "http://www.err.ee/",
+    "address": "Gonsiori 27 15029 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Eesti Teaduste Akadeemia",
+    "url": "http://www.akadeemia.ee/et/",
+    "address": "Kohtu 6 10130 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Eesti Teaduste Akadeemia Underi ja Tuglase kirjanduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/instituudid/eesti_teaduste_akadeemia_underi_ja_tuglase_kirjanduskeskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "instituudid"
+      },
+      {
+        "title": "Teaduste Akadeemia kirjastus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/instituudid/eesti_teaduste_akadeemia_kirjastus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "instituudid"
+      }
+    ]
+  },
+  {
+    "title": "Eesti Töötukassa",
+    "url": "http://www.tootukassa.ee/",
+    "address": "Lasnamäe 2 11412 Tallinn Harju maakond",
+    "services": [
+      {
+        "title": "Minu kohta töötukassasse tehtud päringud",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/riik_ja_kodanik/tkis_aj_teenus",
+        "domain": "riik_ja_kodanik"
+      },
+      {
+        "title": "Päringud sotsiaalteenuste ja -toetuste saamise kohta",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/riik_ja_kodanik/star_aj_teenus",
+        "domain": "riik_ja_kodanik"
+      }
+    ],
+    "related": []
+  },
+  {
+    "title": "Finantsinspektsioon",
+    "url": "http://www.fi.ee",
+    "address": "Sakala 4 15030 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Kaitseliit",
+    "url": "http://www.kaitseliit.ee/",
+    "address": "Toompea 8 10142 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Kaitseministeerium",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/ministeeriumid_1/kaitseministeerium",
+        "domain": "valitsusasutused",
+        "subdomain": "ministeeriumid"
+      },
+      {
+        "title": "Kaitsevägi",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/kaitsevagi_1",
+        "domain": "valitsusasutused",
+        "subdomain": "kaitsevagi"
+      }
+    ]
+  },
+  {
+    "title": "Keemilise ja Bioloogilise Füüsika Instituut",
+    "url": "http://www.kbfi.ee/",
+    "address": "Akadeemia tee 23 12618 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Kohtutäiturite ja Pankrotihaldurite Koda",
+    "url": "http://www.kpkoda.ee/",
+    "address": "Parda 4 10151 Tallinn Harju maakond",
+    "services": [
+      {
+        "title": "Elatisvõlgnevuse päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/perekond_1/elatisvolgnevus",
+        "domain": "perekond"
+      },
+      {
+        "title": "Minu vastu algatatud täitetoimikud",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/oigusabi_2/minu_vastu_algatatud_taitetoimikud",
+        "domain": "oigusabi_2"
+      }
+    ],
+    "related": []
+  },
+  {
+    "title": "Notarite Koda",
+    "url": "https://www.notar.ee/",
+    "address": "Tatari 25 10116 Tallinn Harju maakond",
+    "services": [
+      {
+        "title": "Pärandaja otsing",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/perekond_1/parimisregistri_andmed",
+        "domain": "perekond"
+      },
+      {
+        "title": "Notariaalsed dokumendid",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/riik_ja_kodanik/minu_notariaalsed_dokumendid_1",
+        "domain": "riik_ja_kodanik"
+      }
+    ],
+    "related": []
+  },
+  {
+    "title": "Patendivolinike Koda",
+    "url": "https://pvkoda.ee/et",
+    "address": "Toompuiestee 7 15041 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Patendiamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/patendiamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      }
+    ]
+  },
+  {
+    "title": "Rahvusooper Estonia",
+    "url": "http://www.opera.ee",
+    "address": "Estonia pst 4 10148 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Tagatisfond",
+    "url": "https://www.tf.ee/",
+    "address": "Sakala 4 15030 Tallinn Harju maakond",
+    "services": [],
+    "related": []
+  },
+  {
+    "title": "Tallinna Tehnikaülikool",
+    "url": "http://www.ttu.ee",
+    "address": "Ehitajate tee 5 19086 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Tallinna Tehnikaülikooli muuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/tallinna_tehnikaulikooli_muuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Tallinna Tehnikaülikooli raamatukogu",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/raamatukogud_1/harjumaa_4/tallinna_tehnikaulikooli_raamatukogu",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "raamatukogud"
+      }
+    ]
+  },
+  {
+    "title": "Tallinna Ülikool",
+    "url": "http://www.tlu.ee",
+    "address": "Narva mnt 25 10120 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Tallinna Ülikooli akadeemiline raamatukogu",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/raamatukogud_1/harjumaa_4/tallinna_ulikooli_akadeemiline_raamatukogu",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "raamatukogud"
+      }
+    ]
+  },
+  {
+    "title": "Tartu Ülikool",
+    "url": "http://www.ut.ee",
+    "address": "Ülikooli 18 50090",
+    "services": [],
+    "related": [
+      {
+        "title": "Tartu observatoorium",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/instituudid/tartu_observatoorium",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "instituudid"
+      }
+    ]
   }
 ]
