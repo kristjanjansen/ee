@@ -49,6 +49,22 @@ const App = {
             service: true,
           };
         });
+        const services2 = servicesData.value
+          .filter(
+            (service) =>
+              service.provider.name.toLowerCase() === d.title.toLowerCase()
+          )
+          .map((service) => {
+            return {
+              name: service.name,
+              color: color(d.title),
+              url: service.url,
+              service: true,
+              stats:
+                service.serviceStatistics[0].availableChannel[0]
+                  .channelStatistics.transaction,
+            };
+          });
         return {
           name: d.title,
           url: d.url,
@@ -58,7 +74,7 @@ const App = {
               name: "Teenused",
               color: color(d.title),
               service: true,
-              children: services,
+              children: [...services, ...services2],
             },
             ...domains.map((domain) => {
               const relatedDomains = d.related.filter(
@@ -152,7 +168,7 @@ const App = {
       v-for="el in elements"
       :cx="el.y + 7"
       :cy="el.x"
-      :r="el.data.stats ? Math.min(area2radius(el.data.stats) + 2, 500) : 0"
+      :r="el.data.stats ? Math.min(area2radius(el.data.stats) + 2, 250) : 0"
       :fill="el.data.color"
       opacity="0.2"
       style="mix-blend-mode: multiply"
