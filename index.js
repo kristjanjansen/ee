@@ -16,7 +16,7 @@ const App = {
     const fade = ref(0);
 
     const width = ref(1500);
-    const height = ref(20000);
+    const height = ref(27000);
 
     const sourceData = ref([]);
     fetch("./structure.json")
@@ -85,8 +85,6 @@ const App = {
             };
           });
 
-        console.log(systems);
-
         const allServices = [...services, ...services2];
         return {
           name: d.title,
@@ -138,20 +136,47 @@ const App = {
                             .channelStatistics.transaction,
                       };
                     });
+
+                  const systems = rihaData.value
+                    .filter(
+                      (system) =>
+                        system.details.owner.name.toLowerCase() ===
+                        r.title.toLowerCase()
+                    )
+                    .map((system) => {
+                      return {
+                        name: system.details.name,
+                        color: color(d.title),
+                        system: true,
+                        url: `https://www.riha.ee/Infos%C3%BCsteemid/Vaata/${system.details.short_name}`,
+                      };
+                    });
+
+                  let children = [];
+
+                  if (services.length) {
+                    children.push({
+                      name: "Teenused",
+                      color: color(d.title),
+                      service: true,
+                      children: services,
+                    });
+                  }
+
+                  if (systems.length) {
+                    children.push({
+                      name: "Infosüsteemid",
+                      color: color(d.title),
+                      system: true,
+                      children: systems,
+                    });
+                  }
+
                   return {
                     name: r.title,
                     url: r.url,
                     color: color(d.title),
-                    children: services.length
-                      ? [
-                          {
-                            name: "Teenused",
-                            color: color(d.title),
-                            service: true,
-                            children: services,
-                          },
-                        ]
-                      : [],
+                    children,
                   };
                 }),
               };
