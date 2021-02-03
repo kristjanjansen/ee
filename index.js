@@ -20,14 +20,14 @@ const App = {
     const tree = d3.tree().size([5000, 1000]);
     const data = computed(() => {
       const children = sourceData.value.map((d) => {
-        const domains = unique(d.related.map((r) => r.domain));
+        const domains = unique(d.related.map((r) => r.subdomain));
         return {
           name: d.title,
           // children: d.related.map((r) => r.title),
           children: domains.map((domain) => {
-            const relatedDomains = d.related.filter((r) => r.domain === domain);
-            const sd = unique(relatedDomains.map((rd) => rd.subdomain));
-            //console.log(sd);
+            const relatedDomains = d.related.filter(
+              (r) => r.subdomain === domain
+            );
             return {
               name: domain,
               children: relatedDomains.map((r) => r.title),
