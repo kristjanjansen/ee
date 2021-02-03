@@ -12,20 +12,23 @@ export const unique = (arr) => [...new Set(arr)];
 
 const App = {
   setup() {
-    const width = ref(1000);
-    const height = ref(7000);
+    const width = ref(1500);
+    const height = ref(10000);
 
     const sourceData = ref([]);
     fetch("./structure.json")
       .then((res) => res.json())
       .then((res) => (sourceData.value = res));
 
-    const tree = d3
-      .tree()
-      .size([height.value, width.value])
-      .separation((a, b) => {
-        return a.parent.depth === 1 ? 4 : 1;
-      });
+    const servicesData = ref([]);
+    fetch("./services.json")
+      .then((res) => res.json())
+      .then(
+        (res) =>
+          (servicesData.value = res.services.filter((s) => s.provider !== null))
+      );
+
+    const tree = d3.tree().size([height.value, width.value]);
 
     const data = computed(() => {
       const children = sourceData.value.map((d) => {
@@ -39,10 +42,22 @@ const App = {
             );
             return {
               name: domain,
-              children: relatedDomains.map((r) => ({
-                name: r.title,
-                url: r.url,
-              })),
+              children: relatedDomains.map((r) => {
+                const services = servicesData.value
+                  .filter(
+                    (service) =>
+                      service.provider.name.toLowerCase() ===
+                      r.title.toLowerCase()
+                  )
+                  .map((service) => {
+                    return { name: service.name, url: service.url };
+                  });
+                return {
+                  name: r.title,
+                  url: r.url,
+                  children: services,
+                };
+              }),
             };
           }),
         };
