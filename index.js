@@ -42,9 +42,26 @@ const App = {
       });
     });
 
-    const elements = computed(() => flattenTree(tree(data.value), "children"));
+    const link = d3
+      .linkHorizontal()
+      .x((d) => d.parent.x)
+      .y((d) => d.parent.y);
 
-    //watchEffect(() => console.log(elements.value));
+    const elements = computed(() =>
+      flattenTree(tree(data.value), "children").map((el) => {
+        return {
+          ...el,
+          link: el.parent
+            ? d3.linkHorizontal()({
+                source: [el.parent.x, el.x],
+                target: [el.parent.y, el.y],
+              })
+            : null,
+        };
+      })
+    );
+
+    watchEffect(() => console.log(elements.value));
 
     //const root = d3.hierarchy(data);
     //  console.log(root.descendants());
