@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "node-xlsx": "^0.16.1",
     "puppeteer": "^6.0.0"
   }
 }
