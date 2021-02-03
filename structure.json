@@ -1,0 +1,1600 @@
+[
+  {
+    "title": "Haridus- ja teadusministeerium",
+    "url": "http://www.hm.ee/",
+    "address": "Munga 18 50088",
+    "services": [
+      {
+        "title": "Andmed Eesti hariduse infosüsteemist (EHIS)",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/haridus_ja_teadus/isikukaart_eesti_ee_portaali",
+        "domain": "haridus_ja_teadus"
+      },
+      {
+        "title": "Kutsetunnistused",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/haridus_ja_teadus/minu_kutsetunnistused_1",
+        "domain": "haridus_ja_teadus"
+      },
+      {
+        "title": "Õpilase lõputunnistused",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/haridus_ja_teadus/opilase_loputunnistused",
+        "domain": "haridus_ja_teadus"
+      }
+    ],
+    "related": [
+      {
+        "title": "Ahtme kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/ida_virumaa_1/ahtme_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Eesti Biokeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/eesti_biokeskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Eesti Keele Instituut",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/instituudid/eesti_keele_instituut",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "instituudid"
+      },
+      {
+        "title": "Eesti Kirjandusmuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_kirjandusmuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Eesti Lennuakadeemia",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/eesti_lennuakadeemia",
+        "domain": "haridusasutused",
+        "subdomain": "korgkoolid"
+      },
+      {
+        "title": "Eesti Merekool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/eesti_merekool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "G. Otsa nim Tallinna muusikakool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/muusikakoolid/g_otsa_nim_tallinna_muusikakool",
+        "domain": "haridusasutused",
+        "subdomain": "muusikakoolid"
+      },
+      {
+        "title": "Haapsalu kutsehariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/haapsalu_kutsehariduskeskus",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Haapsalu Viigi kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/laanemaa_1/haapsalu_sanatoorne_internaatkool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Haridus- ja noorteamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/haridus_ja_noorteamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Heino Elleri nimeline Tartu muusikakool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/muusikakoolid/heino_elleri_nimeline_tartu_muusikakool",
+        "domain": "haridusasutused",
+        "subdomain": "muusikakoolid"
+      },
+      {
+        "title": "Hiiumaa ametikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/hiiumaa_ametikool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Hiiumaa gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/hiiumaa_1/hiiumaa_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Ida-Virumaa kutsehariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/ida_virumaa_kutsehariduskeskus",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Jõgevamaa gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/jogevamaa_1/jogevamaa_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Jõhvi gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/ida_virumaa_1/johvi_valla_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Järvamaa kutsehariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/jarvamaa_kutsehariduskeskus",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Järvamaa kutsehariduskeskus - Põltsamaa ametikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/poltsamaa_ametikool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Kallemäe kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/saaremaa_1/kallemae_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Kammeri kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/kammeri_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Keeleamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/keeleinspektsioon",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Kehtna kutsehariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/kehtna_majandus_ja_tehnoloogiakool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Kiigemetsa kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/jogevamaa_1/kiigemetsa_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Kohtla-Järve gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/ida_virumaa_1/kohtla_jarve_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Konstantin Pätsi Vabaõhukool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/harjumaa_1/tallinna_konstantin_patsi_vabaohukool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Kuressaare ametikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/kuressaare_ametikool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Kõrgem Kunstikool Pallas",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/tartu_korgem_kunstikool",
+        "domain": "haridusasutused",
+        "subdomain": "korgkoolid"
+      },
+      {
+        "title": "Lahmuse kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/viljandimaa_1/lahmuse_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Luua metsanduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/luua_metsanduskool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Läänemaa ühisgümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/laanemaa_1/laanemaa_uhisgumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Maarjamaa hariduskolleegium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/kaagvere_erikool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Maarjamaa hariduskolleegiumi Valgejõe õppekeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/laane_virumaa_1/tapa_erikool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Narva vanalinna riigikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/ida_virumaa_1/narva_vanalinna_riigikool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Noarootsi gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/laanemaa_1/noarootsi_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Nurme kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/jarvamaa_1/painurme_internaatkool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Nõo reaalgümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/noo_reaalgumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Olustvere teenindus- ja maamajanduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/olustvere_teenindus_ja_maamajanduskool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Paide riigigümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/jarvamaa_1/paide_riigigumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Porkuni kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/laane_virumaa_1/porkuni_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Põlva gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/polvamaa_1/polva_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Pärnu Koidula gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/parnumaa_1/parnu_koidula_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Pärnumaa kutsehariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/parnumaa_kutsehariduskeskus",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Raikküla kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/raplamaa_1/raikkula_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Rakvere ametikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/rakvere_ametikool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      },
+      {
+        "title": "Räpina aianduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/rapina_aianduskool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "SA Eesti Teadusagentuur",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_eesti_teadusfond",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Euroopa Kool",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sa_euroopa_kool",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Kutsekoda",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_kutsekoda",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Teaduskeskus AHHAA",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_teaduskeskus_ahhaa",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Spordikoolituse ja -Teabe SA",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/spordikoolituse_ja_teabe_sihtasutus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Tallinna balletikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_balletikool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna ehituskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_ehituskool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna Lasnamäe mehaanikakool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_lasnamae_mehaanikakool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna majanduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_majanduskool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna muusikakeskkool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/harjumaa_1/tallinna_muusikakeskkool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Tallinna polütehnikum",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_polutehnikum",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna teeninduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_teeninduskool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna Tehnikakõrgkool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/tallinna_tehnikakorgkool",
+        "domain": "haridusasutused",
+        "subdomain": "korgkoolid"
+      },
+      {
+        "title": "Tallinna Tervishoiu Kõrgkool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/tallinna_tervishoiu_korgkool",
+        "domain": "haridusasutused",
+        "subdomain": "korgkoolid"
+      },
+      {
+        "title": "Tallinna transpordikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_transpordikool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tallinna tööstushariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/tallinna_toostushariduskeskus",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Tartu Emajõe kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/tartu_emajoe_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Tartu Hiie kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/tartu_hiie_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Tartu kunstikool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/muusikakoolid/tartu_kunstikool",
+        "domain": "haridusasutused",
+        "subdomain": "muusikakoolid"
+      },
+      {
+        "title": "Tartu Tamme gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/tartumaa_1/tartu_tamme_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Tartu Tervishoiu Kõrgkool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/tartu_tervishoiu_korgkool",
+        "domain": "haridusasutused",
+        "subdomain": "korgkoolid"
+      },
+      {
+        "title": "Urvaste kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/vorumaa_1/urvaste_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Vaeküla kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/laane_virumaa_1/vaekula_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Valga gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/valgamaa_1/valga_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Valga Jaanikese kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/valgamaa_1/valga_jaanikese_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Valgamaa kutseõppekeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/valgamaa_kutseoppekeskus",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Vana-Vigala tehnika- ja teeninduskool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/vana_vigala_tehnika_ja_teeninduskool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Viimsi gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/harjumaa_1/viimsi_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Viljandi gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/viljandimaa_1/viljandi_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Viljandi kutseõppekeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/viljandi_uhendatud_kutsekeskkool",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Võru gümnaasium",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/vorumaa_1/voru_gumnaasium",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      },
+      {
+        "title": "Võrumaa kutsehariduskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/kutsehariduskeskused/vorumaa_kutsehariduskeskus",
+        "domain": "haridusasutused",
+        "subdomain": "kutsehariduskeskused"
+      },
+      {
+        "title": "Ämmuste kool",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/koolid/viljandimaa_1/ammuste_kool",
+        "domain": "haridusasutused",
+        "subdomain": "koolid"
+      }
+    ]
+  },
+  {
+    "title": "Justiitsministeerium",
+    "url": "http://www.just.ee/",
+    "address": "Suur-Ameerika 1 15006 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Andmekaitse inspektsioon",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/inspektsioonid_1/andmekaitse_inspektsioon",
+        "domain": "valitsusasutused",
+        "subdomain": "inspektsioonid"
+      },
+      {
+        "title": "AS Eesti Vanglatööstus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_vanglatoostus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Eesti Kohtuekspertiisi Instituut",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/instituudid/eesti_kohtuekspertiisi_instituut",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "instituudid"
+      },
+      {
+        "title": "Harku ja Murru vangla",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/vanglad/harku_ja_murru_vangla",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "vanglad"
+      },
+      {
+        "title": "Konkurentsiamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/konkurentsiamet_1",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Patendiamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/patendiamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Prokuratuur",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/prokuratuur",
+        "domain": "valitsusasutused",
+        "subdomain": "prokuratuur"
+      },
+      {
+        "title": "Registrite ja Infosüsteemide Keskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/registrite_ja_infosusteemide_keskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      },
+      {
+        "title": "Tallinna vangla",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/vanglad/tallinna_vangla",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "vanglad"
+      },
+      {
+        "title": "Tartu vangla",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/vanglad/tartu_vangla",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "vanglad"
+      },
+      {
+        "title": "Viru vangla",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/vanglad/viru_vangla",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "vanglad"
+      }
+    ]
+  },
+  {
+    "title": "Kaitseministeerium",
+    "url": "http://www.kaitseministeerium.ee",
+    "address": "Sakala 1 15094 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Eesti Sõjamuuseum - kindral Laidoneri Muuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_sojamuuseum_kindral_laidoneri_muuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Kaitseliit",
+        "url": "https://www.eesti.ee/est/kontaktid/avalik_oiguslikud_juriidilised_isikud_1/kaitseliit_1",
+        "domain": "avalik_oiguslikud_juriidilised_isikud",
+        "subdomain": "kaitseliit"
+      },
+      {
+        "title": "Kaitseressursside amet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/kaitseressursside_amet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Kaitseväe akadeemia",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/kaitsevae_akadeemia",
+        "domain": "haridusasutused",
+        "subdomain": "korgkoolid"
+      },
+      {
+        "title": "Kaitsevägi",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/kaitsevagi_1",
+        "domain": "valitsusasutused",
+        "subdomain": "kaitsevagi"
+      },
+      {
+        "title": "Rahvusvaheline Kaitseuuringute Keskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/rahvusvaheline_kaitseuuringute_keskus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Riigi Kaitseinvesteeringute Keskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/riigi_kaitseinvesteeringute_keskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      },
+      {
+        "title": "Seli tervisekeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/seli_tervisekeskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Välisluureamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/teabeamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      }
+    ]
+  },
+  {
+    "title": "Keskkonnaministeerium",
+    "url": "http://www.envir.ee/",
+    "address": "Narva mnt 7a 15172 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "AS Ökosil",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_okosil",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Eesti Keskkonnauuringute Keskus OÜ",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/osauhing_eesti_keskkonnauuringute_keskus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Eesti Loodusmuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_loodusmuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Keskkonnaagentuur",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/instituudid/keskkonnaagentuur",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "instituudid"
+      },
+      {
+        "title": "Keskkonnaamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/keskkonnaamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Keskkonnaministeeriumi Infotehnoloogiakeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/keskkonnaministeeriumi_infotehnoloogiakeskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Maa-amet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/maa_amet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Põlula Kalakasvatuskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/polula_kalakasvatuskeskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      },
+      {
+        "title": "Riigimetsa Majandamise Keskus (RMK)",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/riigimetsa_majandamise_keskus_rmk",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "SA Erametsakeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_erametsakeskus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Keskkonnainvesteeringute Keskus",
+        "url": "https://www.eesti.ee/est/kontaktid/asutuse_kontaktid/sihtasutus_keskkonnainvesteeringute_keskus",
+        "domain": "asutuse_kontaktid",
+        "subdomain": "sihtasutus_keskkonnainvesteeringute_keskus"
+      }
+    ]
+  },
+  {
+    "title": "Kultuuriministeerium",
+    "url": "http://www.kul.ee/",
+    "address": "Suur-Karja 23 15076 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Eesti Arhitektuurimuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_arhitektuurimuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Eesti Hoiuraamatukogu",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/raamatukogud_1/harjumaa_4/eesti_hoiuraamatukogu",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "raamatukogud"
+      },
+      {
+        "title": "Eesti Lastekirjanduse Keskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/eesti_lastekirjanduse_keskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Eesti Laulu- ja Tantsupeo SA",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/eesti_laulu_ja_tantsupeo_sihtasutus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Eesti Rahva Muuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_rahva_muuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Eesti Tarbekunsti- ja Disainimuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_tarbekunsti_ja_disainimuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Integratsiooni Sihtasutus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/integratsiooni_ja_migratsiooni_sihtasutus_meie_inimesed",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Muinsuskaitseamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/muinsuskaitseamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Palamuse O. Lutsu kihelkonnakoolimuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/palamuse_o_lutsu_kihelkonnakoolimuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Rahvakultuuri Keskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/rahvakultuuri_arendus_ja_koolituskeskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      },
+      {
+        "title": "SA A. H.Tammsaare Muuseum Vargamäel",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/sihtasutus_a_h_tammsaare_muuseum_vargamael",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Eesti Ajaloomuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_ajaloomuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Eesti Draamateater",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/sihtasutus_eesti_draamateater",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Eesti Filharmoonia Kammerkoor",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/eesti_filharmoonia_kammerkoor",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Eesti Filmi Instituut",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/eesti_filmi_sihtasutus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Eesti Kontsert",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/eesti_kontsert",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Eesti Kunstimuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_kunstimuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Eesti Meremuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_meremuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Eesti Noorsooteater",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/sihtasutus_nuku",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Eesti Riiklik Sümfooniaorkester",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/eesti_riiklik_sumfooniaorkester",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Eesti Spordi- ja Olümpiamuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_spordimuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Eesti Tervishoiu Muuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_tervishoiu_muuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Eesti Vabaõhumuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_vabaohumuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Endla Teater",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/parnu_teater_endla",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Haapsalu ja Läänemaa Muuseumid",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/sihtasutus_haapsalu_ja_laanemaa_muuseumid",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Hiiumaa Muuseumid",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sa_hiiumaa_muuseumid",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Jõulumäe Tervisespordikeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_joulumae_tervisespordikeskus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Kultuurileht",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_kultuurileht",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Kunstihoone",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sa_kunstihoone",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Kuressaare Teater",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/sa_kuressaare_teater",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Narva Muuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/narva_muuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Pärnu Muuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/sa_parnu_muuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Rakvere Teatrimaja",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/sihtasutus_rakvere_teatrimaja",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Saaremaa Muuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/sa_saaremaam_muuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "SA Sakala Teatrimaja",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/sihtasutus_vanalinna_teatrimaja",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Tartu Jaani Kirik",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutustartu_jaani_kirik",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Teater Vanemuine",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/sihtasutus_teater_vanemuine",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Tehvandi Spordikeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_tehvandi_spordikeskus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Ugala Teater",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/sihtasutus_ugala_teater",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA UNESCO Eesti Rahvuslik Komisjon",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_unesco_eesti_rahvuslik_komisjon",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Vene Teater",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/teatrid/sihtasutus_vene_teater",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "teatrid"
+      },
+      {
+        "title": "SA Virumaa Muuseumid",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_virumaa_muuseumid",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Tartu kunstimuuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/tartu_kunstimuuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Viljandi muuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/viljandi_muuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Võru Instituut",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/instituudid/voru_instituut",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "instituudid"
+      }
+    ]
+  },
+  {
+    "title": "Majandus- ja kommunikatsiooniministeerium",
+    "url": "https://www.mkm.ee",
+    "address": "Suur-Ameerika 1 10122 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "AS A. L. A. R. A.",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_a_l_a_r_a",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Liinirongid",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_eesti_liinirongid",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Loots",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_loots",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Post (Omniva)",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_post",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Raudtee",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_raudtee",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Teed",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_teed",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Eesti Vedelkütusevaru Agentuur",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_eesti_vedelkutusevaru_agentuur",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Metrosert",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_metrosert",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Nordic Aviation Group",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_nordic_aviation_group",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Operail",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_evr_cargo",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Saarte Liinid",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_saarte_liinid",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Tallinna Lennujaam",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_tallinna_lennujaam",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Tallinna Sadam",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_tallinna_sadam",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Teede Tehnokeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_teede_tehnokeskus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Eesti Geoloogiateenistus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/eesti_geoloogiateenistus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "eesti_geoloogiateenistus"
+      },
+      {
+        "title": "Eesti Interneti SA",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/eesti_interneti_sihtasutus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Elering AS",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/elering_ou",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Ettevõtluse Arendamise SA",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/ettevotluse_arendamise_sihtasutus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Kredex Krediidikindlustus AS",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/kredex_krediidikindlustus_aktsiaselts",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Lennuliiklusteeninduse AS",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/lennuliiklusteeninduse_aktsiaselts",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "OÜ Transpordi Varahaldus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/ou_transpordi_varahaldus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Rail Baltic Estonia OÜ",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/ou_rail_baltic_estonia",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Riigi Infokommunikatsiooni SA",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/riigi_infokommunikatsiooni_sihtasutus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Riigi infosüsteemi amet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/riigi_infosusteemi_amet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      },
+      {
+        "title": "SA Eesti Akrediteerimiskeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_eesti_akrediteerimiskeskus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Ida-Virumaa Tööstusalade Arendus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_ida_virumaa_toostusalade_arendus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA KredEx",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/krediidi_ja_ekspordi_garanteerimise_sihtasutus_kredex",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Tallinna Teaduspark Tehnopol",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_tallinna_teaduspark_tehnopol",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Tarbijakaitse ja tehnilise järelevalve amet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/tehnilise_jarelevalve_amet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Transpordiamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/maanteeamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      }
+    ]
+  },
+  {
+    "title": "Maaeluministeerium",
+    "url": "http://www.agri.ee",
+    "address": "Lai 39 / Lai 41 15056 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "AS Vireen",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/loomsete_jaatmete_kaitlemise_aktsiaselts",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Eesti Põllumajandusloomade Jõudluskontrolli AS",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/eesti_pollumajandusloomade_joudluskontrolli_as",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Eesti Taimekasvatuse Instituut",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/instituudid/jogeva_sordiaretuse_instituut",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "instituudid"
+      },
+      {
+        "title": "Maaelu Edendamise SA",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/maaelu_edendamise_sihtasutus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Põllumajanduse registrite ja informatsiooni amet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/pollumajanduse_registrite_ja_informatsiooni_amet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Põllumajandus- ja toiduamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/pollumajandus_ja_toiduamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Põllumajandusuuringute Keskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/pollumajandusuuringute_keskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      },
+      {
+        "title": "SA Eesti Maaelumuuseumid",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/sa_eesti_maaelumuuseumid",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Veterinaar- ja toidulaboratoorium",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/veterinaar_ja_toidulaboratoorium",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "veterinaar_ja_toidulaboratoorium"
+      }
+    ]
+  },
+  {
+    "title": "Rahandusministeerium",
+    "url": "https://www.rahandusministeerium.ee/et",
+    "address": "Suur-Ameerika 1 15001 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "AS Eesti Loto",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/aktsiaselts_eesti_loto",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Levira",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_levira",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Eesti Energia AS",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/eesti_energia_aktsiaselts",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Maksu- ja tolliamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/maksu_ja_tolliamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Rahandusministeeriumi Infotehnoloogiakeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/rahandusministeeriumi_infotehnoloogiakeskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Rahapesu Andmebüroo",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/rahapesu_andmeburoo",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "rahapesu_andmeburoo"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      },
+      {
+        "title": "Riigi Kinnisvara AS",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/riigi_kinnisvara_aktsiaselts",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "Riigi Tugiteenuste Keskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/kohtute_raamatupidamiskeskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Statistikaamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/statistikaamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      }
+    ]
+  },
+  {
+    "title": "Siseministeerium",
+    "url": "http://www.siseministeerium.ee",
+    "address": "Pikk 61 15065 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Eesti Siseturvalisuse Muuseum",
+        "url": "https://www.eesti.ee/est/kontaktid/kultuur_ja_vabaaeg/muuseumid_1/eesti_siseturvalisuse_muuseum",
+        "domain": "kultuur_ja_vabaaeg",
+        "subdomain": "muuseumid"
+      },
+      {
+        "title": "Kaitsepolitseiamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/kaitsepolitseiamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Politsei- ja piirivalveamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/politsei_ja_piirivalveamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Päästeamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/paasteamet_1",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      },
+      {
+        "title": "Sisekaitseakadeemia",
+        "url": "https://www.eesti.ee/est/kontaktid/haridusasutused/korgkoolid_1/sisekaitseakadeemia",
+        "domain": "haridusasutused",
+        "subdomain": "korgkoolid"
+      },
+      {
+        "title": "Siseministeeriumi infotehnoloogia- ja arenduskeskus (SMIT)",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/siseministeeriumi_infotehnoloogia_ja_arenduskeskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      }
+    ]
+  },
+  {
+    "title": "Sotsiaalministeerium",
+    "url": "https://www.sm.ee",
+    "address": "Suur-Ameerika 1 10122 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "AS Hoolekandeteenused",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/riigi_osalusega_ariuhingud_2/as_hoolekandeteenused",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "riigi_osalusega_ariuhingud_2"
+      },
+      {
+        "title": "AS Ida-Tallinna Keskhaigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_ida_tallinna_keskhaigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "AS Järvamaa Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_jarvamaa_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "AS Lõuna-Eesti Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_louna_eesti_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "AS Lääne-Tallinna Keskhaigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_laane_tallinna_keskhaigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "AS Põlva Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_polva_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "AS Rakvere Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_rakvere_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "Astangu Kutserehabilitatsiooni Keskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/astangu_kutserehabilitatsiooni_keskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "AS Valga Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/as_valga_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "Koeru Hooldekeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_koeru_hooldekeskus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "Ravimiamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/ravimiamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      },
+      {
+        "title": "Riikliku lepitaja kantselei",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/riikliku_lepitaja_kantselei",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "riikliku_lepitaja_kantselei"
+      },
+      {
+        "title": "SA Eesti Puuetega Inimeste Fond",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/eesti_puuetega_inimeste_koda",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Haapsalu Neuroloogiline Rehabilitatsioonikeskus",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_haapsalu_neuroloogiline_rehabilitatsioonikeskus",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Ida-Viru Keskhaigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/sa_ida_viru_keskhaigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "SA Jõgeva Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/sihtasutus_jogeva_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "SA Kuressaare Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/sa_kuressaare_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "SA Läänemaa Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/sa_laanemaa_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "SA Narva Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/sihtasutus_narva_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "SA Põhja-Eesti Regionaalhaigla",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_pohja_eesti_regionaalhaigla",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Pärnu Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/sa_parnu_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "SA Raplamaa Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/sa_raplamaa_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "SA Tallinna Lastehaigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/sa_tallinna_lastehaigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "SA Tartu Ülikooli Kliinikum",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_osalusega_ariuhingud_1/sihtasutused_1/sihtasutus_tartu_ulikooli_kliinikum",
+        "domain": "riigi_osalusega_ariuhingud",
+        "subdomain": "sihtasutused"
+      },
+      {
+        "title": "SA Viljandi Haigla",
+        "url": "https://www.eesti.ee/est/kontaktid/hoolekanne_1/haiglad/sihtasutus_viljandi_haigla",
+        "domain": "hoolekanne",
+        "subdomain": "haiglad"
+      },
+      {
+        "title": "Sotsiaalkindlustusamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/sotsiaalkindlustusamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Terviseamet",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigiametid/terviseamet",
+        "domain": "valitsusasutused",
+        "subdomain": "riigiametid"
+      },
+      {
+        "title": "Tervise Arengu Instituut",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/instituudid/tervise_arengu_instituut",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "instituudid"
+      },
+      {
+        "title": "Tervise ja Heaolu Infosüsteemide Keskus (TEHIK)",
+        "url": "https://www.eesti.ee/est/kontaktid/riigi_ja_valitsusasutused/keskused_1/tervise_ja_heaolu_infosusteemide_keskus",
+        "domain": "riigi_ja_valitsusasutused",
+        "subdomain": "keskused"
+      },
+      {
+        "title": "Tööinspektsioon",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/inspektsioonid_1/tooinspektsioon",
+        "domain": "valitsusasutused",
+        "subdomain": "inspektsioonid"
+      }
+    ]
+  },
+  {
+    "title": "Välisministeerium",
+    "url": "http://vm.ee/et",
+    "address": "Islandi väljak 1 15049 Tallinn Harju maakond",
+    "services": [],
+    "related": [
+      {
+        "title": "Riigikantselei - Vabariigi Valitsus",
+        "url": "https://www.eesti.ee/est/kontaktid/valitsusasutused/riigikantselei",
+        "domain": "valitsusasutused",
+        "subdomain": "riigikantselei"
+      }
+    ]
+  }
+]
