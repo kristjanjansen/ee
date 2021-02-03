@@ -12,12 +12,15 @@ export const unique = (arr) => [...new Set(arr)];
 
 const App = {
   setup() {
+    const width = ref(1000);
+    const height = ref(5000);
+
     const sourceData = ref([]);
     fetch("./structure.json")
       .then((res) => res.json())
       .then((res) => (sourceData.value = res));
 
-    const tree = d3.tree().size([5000, 1000]);
+    const tree = d3.tree().size([height.value, width.value]);
     const data = computed(() => {
       const children = sourceData.value.map((d) => {
         const domains = unique(d.related.map((r) => r.subdomain));
@@ -51,10 +54,10 @@ const App = {
       flattenTree(tree(data.value), "children").map((el) => {
         return {
           ...el,
-          link: el.parent
+          path: el.parent
             ? d3.linkHorizontal()({
-                source: [el.parent.x, el.x],
-                target: [el.parent.y, el.y],
+                source: [el.parent.y, el.parent.x],
+                target: [el.y, el.x],
               })
             : null,
         };
@@ -71,15 +74,32 @@ const App = {
     //   //children: d.descendants().map((d) => ({ node: tree(d) })),
     // }));
 
-    return { elements };
+    return { elements, width, height };
   },
   template: `
-  <div 
+  <svg :width="width" :height="height">
+  <path 
+    v-for="el in elements"
+    :d="el.path"
+    stroke="#bbb"
+    fill="none"
+  />
+  <!-- <text 
+    v-for="el in elements"
+    :x="el.y"
+    :y="el.x"
+    fill="black"
+  >{{el.data.name || el.name}}</text> -->
+  </svg>
+  <div
     v-for="el in elements"
     :style="{
       position: 'absolute',
       left: el.y + 'px',
       top: el.x + 'px',
+      whiteSpace: 'nowrap',
+      textShadow: '1px white',
+      transform: 'translateY(-0.6em)'
     }"
   >
     {{ el.data.name ? el.data.name : el.data }}
