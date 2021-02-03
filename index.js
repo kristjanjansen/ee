@@ -21,16 +21,18 @@ const App = {
     const data = computed(() => {
       const children = sourceData.value.map((d) => {
         const domains = unique(d.related.map((r) => r.domain));
-        console.log(domains);
         return {
           name: d.title,
           // children: d.related.map((r) => r.title),
-          children: domains.map((domain) => ({
-            name: domain,
-            children: d.related
-              .filter((r) => r.domain === domain)
-              .map((r) => r.title),
-          })),
+          children: domains.map((domain) => {
+            const relatedDomains = d.related.filter((r) => r.domain === domain);
+            const sd = unique(relatedDomains.map((rd) => rd.subdomain));
+            //console.log(sd);
+            return {
+              name: domain,
+              children: relatedDomains.map((r) => r.title),
+            };
+          }),
         };
       });
 
@@ -42,7 +44,7 @@ const App = {
 
     const elements = computed(() => flattenTree(tree(data.value), "children"));
 
-    watchEffect(() => console.log(elements.value));
+    //watchEffect(() => console.log(elements.value));
 
     //const root = d3.hierarchy(data);
     //  console.log(root.descendants());
