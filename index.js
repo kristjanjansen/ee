@@ -15,7 +15,7 @@ const App = {
     const zoom = ref(0.6);
 
     const width = ref(1500);
-    const height = ref(13000);
+    const height = ref(15000);
 
     const sourceData = ref([]);
     fetch("./structure.json")
@@ -65,17 +65,21 @@ const App = {
                   .channelStatistics.transaction,
             };
           });
+
+        const allServices = [...services, ...services2];
         return {
           name: d.title,
           url: d.url,
           color: color(d.title),
           children: [
-            {
-              name: "Teenused",
-              color: color(d.title),
-              service: true,
-              children: [...services, ...services2],
-            },
+            allServices.length
+              ? {
+                  name: "Teenused",
+                  color: color(d.title),
+                  service: true,
+                  children: allServices,
+                }
+              : null,
             ...domains.map((domain) => {
               const relatedDomains = d.related.filter(
                 (r) =>
@@ -123,7 +127,7 @@ const App = {
                 }),
               };
             }),
-          ],
+          ].filter((s) => s),
         };
       });
 
@@ -194,7 +198,7 @@ const App = {
     style="position: fixed; top: 10px; left: 10px"
     type="range"
     v-model="zoom"
-    min="0.2"
+    min="0.05"
     max="1"
     step="0.001"
   />
