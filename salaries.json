@@ -1,0 +1,5508 @@
+[
+  {
+    "name": "Andmekaitse Inspektsioon",
+    "count": 18,
+    "children": [
+      {
+        "name": "Andmekaitse Inspektsioon",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "name": "Haridus- ja Teadusministeerium",
+    "count": 143,
+    "children": [
+      {
+        "name": "Ministri vastutusala",
+        "count": 3
+      },
+      {
+        "name": "Siseauditi osakond",
+        "count": 6
+      },
+      {
+        "name": "Kantsleri vastutusala",
+        "count": 3
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 6
+      },
+      {
+        "name": "Välishindamisosakond",
+        "count": 17
+      },
+      {
+        "name": "EL ja rahvusvahelise koostöö osakond",
+        "count": 8
+      },
+      {
+        "name": "Planeerimise ja halduse asekantsleri vas",
+        "count": 1
+      },
+      {
+        "name": "Rahandusosakond",
+        "count": 15
+      },
+      {
+        "name": "Analüüsiosakond",
+        "count": 15
+      },
+      {
+        "name": "Riigivaraosakond",
+        "count": 1
+      },
+      {
+        "name": "E-teenuste osakond",
+        "count": 1
+      },
+      {
+        "name": "Kutsehariduse osakond",
+        "count": 8
+      },
+      {
+        "name": "Täiskasvanuhariduse osakond",
+        "count": 5
+      },
+      {
+        "name": "Üldharidus-, keele- ja noortepoliitika a",
+        "count": 1
+      },
+      {
+        "name": "Üldharidusosakond",
+        "count": 7
+      },
+      {
+        "name": "Noorteosakond",
+        "count": 5
+      },
+      {
+        "name": "Koolivõrgu osakond",
+        "count": 8
+      },
+      {
+        "name": "Hariduskorralduse osakond",
+        "count": 7
+      },
+      {
+        "name": "Kõrghariduse ja teaduse asekantsleri vas",
+        "count": 1
+      },
+      {
+        "name": "Teadusosakond",
+        "count": 12
+      },
+      {
+        "name": "Kõrghariduse osakond",
+        "count": 8
+      },
+      {
+        "name": "Keeleosakond",
+        "count": 4
+      },
+      {
+        "name": "Kutse- ja täiskasvanuhariduse ning kooli",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Harju Maakohus",
+    "count": 215,
+    "children": [
+      {
+        "name": "Kohtudirektori juhtimisvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Haldusosakond",
+        "count": 1
+      },
+      {
+        "name": "Kohtunikud",
+        "count": 61
+      },
+      {
+        "name": "Õigusteenistus",
+        "count": 65
+      },
+      {
+        "name": "Kantselei",
+        "count": 18
+      },
+      {
+        "name": "Kohtu esimehe juhtimisvaldkond",
+        "count": 3
+      },
+      {
+        "name": "Turvatalitus",
+        "count": 5
+      },
+      {
+        "name": "Kohtuistungiteenistus",
+        "count": 61
+      }
+    ]
+  },
+  {
+    "name": "Häirekeskus",
+    "count": 176,
+    "children": [
+      {
+        "name": "Häirekeskus",
+        "count": 3
+      },
+      {
+        "name": "arendusosakond",
+        "count": 2
+      },
+      {
+        "name": "koostöö korraldamise talitus",
+        "count": 9
+      },
+      {
+        "name": "infotehnoloogia koordineerimise talitus",
+        "count": 6
+      },
+      {
+        "name": "Põhja Keskus",
+        "count": 58
+      },
+      {
+        "name": "Ida Keskus",
+        "count": 29
+      },
+      {
+        "name": "Lõuna Keskus",
+        "count": 36
+      },
+      {
+        "name": "Lääne Keskus",
+        "count": 33
+      }
+    ]
+  },
+  {
+    "name": "Justiitsministeerium",
+    "count": 127,
+    "children": [
+      {
+        "name": "Justiitsministeerium",
+        "count": 4
+      },
+      {
+        "name": "Kantsleri vastutusvaldkond",
+        "count": 2
+      },
+      {
+        "name": "Kriminaalpoliitika valdkond",
+        "count": 1
+      },
+      {
+        "name": "Õiguspoliitika valdkond",
+        "count": 1
+      },
+      {
+        "name": "Justiitshalduspoliitika valdkond",
+        "count": 1
+      },
+      {
+        "name": "Vanglate valdkond",
+        "count": 2
+      },
+      {
+        "name": "Siseauditiosakond",
+        "count": 4
+      },
+      {
+        "name": "Infotehnoloogia ja andmeturbe talitus",
+        "count": 4
+      },
+      {
+        "name": "Kriminaalpoliitika osakond",
+        "count": 1
+      },
+      {
+        "name": "Karistusõiguse ja menetluse talitus",
+        "count": 7
+      },
+      {
+        "name": "Analüüsitalitus",
+        "count": 7
+      },
+      {
+        "name": "Rahvusvahelise justiitskoostöö talitus",
+        "count": 5
+      },
+      {
+        "name": "Õiguspoliitika osakond",
+        "count": 2
+      },
+      {
+        "name": "Avaliku õiguse talitus",
+        "count": 8
+      },
+      {
+        "name": "Õigusloome korralduse talitus",
+        "count": 12
+      },
+      {
+        "name": "Eraõiguse talitus",
+        "count": 9
+      },
+      {
+        "name": "Intellektuaalse omandi ja konkurentsi",
+        "count": 5
+      },
+      {
+        "name": "Vanglate osakond",
+        "count": 1
+      },
+      {
+        "name": "Karistuse täideviimise talitus",
+        "count": 7
+      },
+      {
+        "name": "Õiguse ja arenduse talitus",
+        "count": 6
+      },
+      {
+        "name": "Sisekontrolli talitus",
+        "count": 3
+      },
+      {
+        "name": "Taasühiskonnastamise talitus",
+        "count": 8
+      },
+      {
+        "name": "Kohtute talitus",
+        "count": 7
+      },
+      {
+        "name": "Vabakutsete talitus",
+        "count": 7
+      },
+      {
+        "name": "Riigi Teataja talitus",
+        "count": 10
+      },
+      {
+        "name": "Kohturegistrite talitus",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Kaitseliit",
+    "count": 18,
+    "children": [
+      {
+        "name": "Kaitseliit",
+        "count": 1
+      },
+      {
+        "name": "Kaitseliidu peastaap",
+        "count": 1
+      },
+      {
+        "name": "Põhja maakaitseringkond",
+        "count": 1
+      },
+      {
+        "name": "Tallinna malev",
+        "count": 1
+      },
+      {
+        "name": "Harju malev",
+        "count": 1
+      },
+      {
+        "name": "Rapla malev",
+        "count": 1
+      },
+      {
+        "name": "Viru malev",
+        "count": 1
+      },
+      {
+        "name": "Alutaguse malev",
+        "count": 1
+      },
+      {
+        "name": "Jõgeva malev",
+        "count": 1
+      },
+      {
+        "name": "Järva malev",
+        "count": 1
+      },
+      {
+        "name": "Tartu malev",
+        "count": 1
+      },
+      {
+        "name": "Põlva malev",
+        "count": 1
+      },
+      {
+        "name": "Sakala malev",
+        "count": 1
+      },
+      {
+        "name": "Valgamaa malev",
+        "count": 1
+      },
+      {
+        "name": "Pärnumaa malev",
+        "count": 1
+      },
+      {
+        "name": "Lääne malev",
+        "count": 1
+      },
+      {
+        "name": "Saaremaa malev",
+        "count": 1
+      },
+      {
+        "name": "Kaitseliidu kool",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Kaitseministeerium",
+    "count": 17,
+    "children": [
+      {
+        "name": "Kaitseministeerium",
+        "count": 2
+      },
+      {
+        "name": "Kantsleri vastutusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Kaitsepoliitika vastutusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Kaitseplaneerimise vastutusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Õigus- ja haldusküsimuste vastutusvaldko",
+        "count": 1
+      },
+      {
+        "name": "Auditi- ja arendusosakond",
+        "count": 1
+      },
+      {
+        "name": "Poliitika planeerimise osakond",
+        "count": 1
+      },
+      {
+        "name": "NATO ja Euroopa Liidu osakond",
+        "count": 1
+      },
+      {
+        "name": "Rahvusvahelise koostöö osakond",
+        "count": 1
+      },
+      {
+        "name": "Riigikaitse planeerimise osakond",
+        "count": 1
+      },
+      {
+        "name": "Kaitsevalmiduse osakond",
+        "count": 1
+      },
+      {
+        "name": "Kaitseväeteenistuse osakond",
+        "count": 1
+      },
+      {
+        "name": "Kaitseinvesteeringute osakond",
+        "count": 1
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 1
+      },
+      {
+        "name": "Julgeoleku- ja haldusosakond",
+        "count": 1
+      },
+      {
+        "name": "Küberpoliitika osakond",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Kaitseressursside Amet",
+    "count": 50,
+    "children": [
+      {
+        "name": "Kaitseressursside Amet",
+        "count": 3
+      },
+      {
+        "name": "Peadirektori asetäitja vastutusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Registrite osakond",
+        "count": 2
+      },
+      {
+        "name": "Kaitseväekohustuslaste Tallinna osakond",
+        "count": 15
+      },
+      {
+        "name": "Kaitseväekohustuslaste Tartu osakond",
+        "count": 16
+      },
+      {
+        "name": "Arstlike komisjonide osakond",
+        "count": 4
+      },
+      {
+        "name": "Mobilisatsiooniressursside osakond",
+        "count": 4
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "Kaitsevägi",
+    "count": 44,
+    "children": [
+      {
+        "name": "Kaitseväe juhataja",
+        "count": 4
+      },
+      {
+        "name": "Kaitseväe peastaap",
+        "count": 11
+      },
+      {
+        "name": "NATO staabielemendi (NFIU) Eesti kontingent",
+        "count": 1
+      },
+      {
+        "name": "1. jalaväebrigaad",
+        "count": 8
+      },
+      {
+        "name": "2. jalaväebrigaad",
+        "count": 3
+      },
+      {
+        "name": "Merevägi",
+        "count": 3
+      },
+      {
+        "name": "Õhuvägi",
+        "count": 3
+      },
+      {
+        "name": "NATO küberkaitsekoostöö keskuse Eesti kontingent",
+        "count": 1
+      },
+      {
+        "name": "Küberväejuhatus",
+        "count": 2
+      },
+      {
+        "name": "Kaitseväe Akadeemia",
+        "count": 2
+      },
+      {
+        "name": "Toetuse väejuhatus",
+        "count": 3
+      },
+      {
+        "name": "Sõjaväepolitsei",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Keeleinspektsioon",
+    "count": 13,
+    "children": [
+      {
+        "name": "Keeleinspektsioon",
+        "count": 3
+      },
+      {
+        "name": "Tallinna ja Harjumaa järelevalvetalitus",
+        "count": 6
+      },
+      {
+        "name": "Ida-Viru järelevalvetalitus",
+        "count": 3
+      },
+      {
+        "name": "Lõuna-Eesti järelevalvetalitus",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Keskkonnaamet",
+    "count": 244,
+    "children": [
+      {
+        "name": "Keskkonnaamet",
+        "count": 1
+      },
+      {
+        "name": "Eluslooduse valdkond",
+        "count": 1
+      },
+      {
+        "name": "Keskkonna valdkond",
+        "count": 1
+      },
+      {
+        "name": "Looduskaitse osakond",
+        "count": 5
+      },
+      {
+        "name": "Üldosakond",
+        "count": 6
+      },
+      {
+        "name": "Keskkonnaosakond",
+        "count": 12
+      },
+      {
+        "name": "Keskkonnatasubüroo",
+        "count": 6
+      },
+      {
+        "name": "Jäätmebüroo",
+        "count": 12
+      },
+      {
+        "name": "Kompleksloabüroo",
+        "count": 11
+      },
+      {
+        "name": "Maapõuebüroo",
+        "count": 12
+      },
+      {
+        "name": "Kiirgusosakond",
+        "count": 3
+      },
+      {
+        "name": "Kiirguskaitse büroo",
+        "count": 6
+      },
+      {
+        "name": "Kiirgusseire büroo",
+        "count": 1
+      },
+      {
+        "name": "Kaitse planeerimise büroo",
+        "count": 26
+      },
+      {
+        "name": "Liigikaitse büroo",
+        "count": 7
+      },
+      {
+        "name": "Maahoolduse büroo",
+        "count": 14
+      },
+      {
+        "name": "Metsaosakond",
+        "count": 47
+      },
+      {
+        "name": "Jahinduse ja vee-elustiku büroo",
+        "count": 9
+      },
+      {
+        "name": "Lõuna regioon",
+        "count": 20
+      },
+      {
+        "name": "Lääne regioon",
+        "count": 17
+      },
+      {
+        "name": "Põhja regioon",
+        "count": 27
+      }
+    ]
+  },
+  {
+    "name": "Keskkonnainspektsioon",
+    "count": 157,
+    "children": [
+      {
+        "name": "Keskkonnainspektsioon",
+        "count": 2
+      },
+      {
+        "name": "Looduskaitseosakond",
+        "count": 10
+      },
+      {
+        "name": "Keskkonnakaitseosakond",
+        "count": 8
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 7
+      },
+      {
+        "name": "Järelvalve vastutusala",
+        "count": 1
+      },
+      {
+        "name": "Harjumaa büroo",
+        "count": 19
+      },
+      {
+        "name": "Ida-Virumaa büroo",
+        "count": 10
+      },
+      {
+        "name": "Lääne-Virumaa büroo",
+        "count": 7
+      },
+      {
+        "name": "Tartumaa büroo",
+        "count": 11
+      },
+      {
+        "name": "Jõgevamaa büroo",
+        "count": 10
+      },
+      {
+        "name": "Põlvamaa büroo",
+        "count": 7
+      },
+      {
+        "name": "Valgamaa büroo",
+        "count": 5
+      },
+      {
+        "name": "Viljandimaa büroo",
+        "count": 6
+      },
+      {
+        "name": "Võrumaa büroo",
+        "count": 7
+      },
+      {
+        "name": "Pärnumaa büroo",
+        "count": 12
+      },
+      {
+        "name": "Läänemaa büroo",
+        "count": 7
+      },
+      {
+        "name": "Hiiumaa büroo",
+        "count": 5
+      },
+      {
+        "name": "Järvamaa büroo",
+        "count": 5
+      },
+      {
+        "name": "Raplamaa büroo",
+        "count": 5
+      },
+      {
+        "name": "Saaremaa büroo",
+        "count": 9
+      },
+      {
+        "name": "Uurimisosakond",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "Keskkonnaministeerium",
+    "count": 143,
+    "children": [
+      {
+        "name": "Keskkonnaministeerium",
+        "count": 4
+      },
+      {
+        "name": "Kantsleri vastutusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Keskkonnakorralduse ja välissuhete pü.",
+        "count": 2
+      },
+      {
+        "name": "Keskkonnakasutuse põhiüksus",
+        "count": 1
+      },
+      {
+        "name": "Kliima ja strateegilise planeerimise pü.",
+        "count": 2
+      },
+      {
+        "name": "Eluslooduse põhiüksus",
+        "count": 2
+      },
+      {
+        "name": "Tugiteenuste põhiüksus",
+        "count": 2
+      },
+      {
+        "name": "Avalike suhete osakond",
+        "count": 3
+      },
+      {
+        "name": "Siseauditi osakond",
+        "count": 4
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 14
+      },
+      {
+        "name": "Riigivaraosakond",
+        "count": 7
+      },
+      {
+        "name": "Eelarve- ja strateegiaosakond",
+        "count": 5
+      },
+      {
+        "name": "EL ja rahvusvahelise koostöö osakond",
+        "count": 10
+      },
+      {
+        "name": "Kliimaosakond",
+        "count": 8
+      },
+      {
+        "name": "Välisõhu ja kiirgusosakond",
+        "count": 6
+      },
+      {
+        "name": "Keskkonnakorralduse osakond",
+        "count": 17
+      },
+      {
+        "name": "Keskkonnatehnoloogia osakond",
+        "count": 9
+      },
+      {
+        "name": "Merekeskkonna osakond",
+        "count": 6
+      },
+      {
+        "name": "Veeosakond",
+        "count": 13
+      },
+      {
+        "name": "Kalavarude osakond",
+        "count": 8
+      },
+      {
+        "name": "Looduskaitse osakond",
+        "count": 12
+      },
+      {
+        "name": "Metsaosakond",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "Konkurentsiamet",
+    "count": 38,
+    "children": [
+      {
+        "name": "Konkurentsiamet",
+        "count": 1
+      },
+      {
+        "name": "Konkurentsiteenistus",
+        "count": 2
+      },
+      {
+        "name": "Järelevalveosakond",
+        "count": 10
+      },
+      {
+        "name": "Koondumiste kontrolli osakond",
+        "count": 4
+      },
+      {
+        "name": "Regulatsiooniteenistus",
+        "count": 1
+      },
+      {
+        "name": "Hinnaregulatsiooni osakond",
+        "count": 10
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 3
+      },
+      {
+        "name": "Energia- ja taristuosakond",
+        "count": 4
+      },
+      {
+        "name": "Energiaturgude osakond",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Kultuuriministeerium",
+    "count": 44,
+    "children": [
+      {
+        "name": "Kultuuriministeerium",
+        "count": 3
+      },
+      {
+        "name": "Kantsleri valdkond",
+        "count": 1
+      },
+      {
+        "name": "Õigus- ja varahaldusosakond",
+        "count": 3
+      },
+      {
+        "name": "Siseauditi osakond",
+        "count": 2
+      },
+      {
+        "name": "Välissuhete osakond",
+        "count": 5
+      },
+      {
+        "name": "Kunstide osakond",
+        "count": 8
+      },
+      {
+        "name": "Kunstide valdkond",
+        "count": 1
+      },
+      {
+        "name": "Kultuuriväärtuste osakond",
+        "count": 5
+      },
+      {
+        "name": "Kultuuriväärtuste valdkond",
+        "count": 1
+      },
+      {
+        "name": "Kultuurilise mitmekesisuse osakond",
+        "count": 5
+      },
+      {
+        "name": "Kultuurilise mitmekesisuse valdkond",
+        "count": 1
+      },
+      {
+        "name": "Spordiosakond",
+        "count": 3
+      },
+      {
+        "name": "Spordi valdkond",
+        "count": 1
+      },
+      {
+        "name": "Kultuurinõunikud välisriikides",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "Lennuamet",
+    "count": 28,
+    "children": [
+      {
+        "name": "Lennuamet",
+        "count": 5
+      },
+      {
+        "name": "Lennundusjulgestuse osakond",
+        "count": 3
+      },
+      {
+        "name": "Lennutegevuse osakond",
+        "count": 8
+      },
+      {
+        "name": "Lennundustehnika osakond",
+        "count": 6
+      },
+      {
+        "name": "Lennuliiklusteeninduse ja lennuväljade o",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "name": "Maa-amet",
+    "count": 156,
+    "children": [
+      {
+        "name": "Maa-amet",
+        "count": 1
+      },
+      {
+        "name": "Geomaatika valdkond",
+        "count": 1
+      },
+      {
+        "name": "Kinnisvara ja katastri valdkond",
+        "count": 1
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 8
+      },
+      {
+        "name": "Maareformi osakond",
+        "count": 4
+      },
+      {
+        "name": "Riigimaade büroo",
+        "count": 4
+      },
+      {
+        "name": "Eramaade büroo",
+        "count": 13
+      },
+      {
+        "name": "Munitsipaalmaade büroo",
+        "count": 7
+      },
+      {
+        "name": "Geodeesia osakond",
+        "count": 4
+      },
+      {
+        "name": "Geoloogia osakond",
+        "count": 8
+      },
+      {
+        "name": "Geoinformaatika osakond",
+        "count": 1
+      },
+      {
+        "name": "Geoinfosüsteemide büroo",
+        "count": 1
+      },
+      {
+        "name": "Ruumiandmeteenuste büroo",
+        "count": 3
+      },
+      {
+        "name": "Kinnisvara hindamise osakond",
+        "count": 2
+      },
+      {
+        "name": "Aadressiandmete osakond",
+        "count": 9
+      },
+      {
+        "name": "Katastrimõõdistamise ja -kontrolli ok.",
+        "count": 15
+      },
+      {
+        "name": "Katastri registriosakond",
+        "count": 39
+      },
+      {
+        "name": "Katastri arendusosakond",
+        "count": 2
+      },
+      {
+        "name": "Maakorralduse osakond",
+        "count": 3
+      },
+      {
+        "name": "Riigimaa haldamise osakond",
+        "count": 15
+      },
+      {
+        "name": "Planeeringute ja ehitusprojektide büroo",
+        "count": 5
+      },
+      {
+        "name": "Maatoimingute osakond",
+        "count": 1
+      },
+      {
+        "name": "Kasutusõiguste ja maade arvestuse büroo",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "Maaeluministeerium",
+    "count": 189,
+    "children": [
+      {
+        "name": "Maaeluministeerium",
+        "count": 3
+      },
+      {
+        "name": "Kantsleri vastutusvaldkond",
+        "count": 5
+      },
+      {
+        "name": "Põllumajandus- ja maaelupoliitika valdk",
+        "count": 1
+      },
+      {
+        "name": "Kalanduspoliitika ja välissuhete valdk",
+        "count": 1
+      },
+      {
+        "name": "Siseauditi osakond",
+        "count": 6
+      },
+      {
+        "name": "Avalike suhete osakond",
+        "count": 2
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 18
+      },
+      {
+        "name": "Personaliosakond",
+        "count": 2
+      },
+      {
+        "name": "Strateegia- ja finantsosakond",
+        "count": 9
+      },
+      {
+        "name": "Põllumajanduspoliitika osakond",
+        "count": 1
+      },
+      {
+        "name": "Põllumajandussaaduste tarneahela büroo",
+        "count": 8
+      },
+      {
+        "name": "Põllumajandus- ja toidusektori arengu bü",
+        "count": 4
+      },
+      {
+        "name": "Ekspordi ja turuarenduse büroo",
+        "count": 7
+      },
+      {
+        "name": "Maaelupoliitika ja analüüsi osakond",
+        "count": 1
+      },
+      {
+        "name": "Maamajanduse ja konkurentsipoliitika bür",
+        "count": 7
+      },
+      {
+        "name": "Majandus- ja keskkonnaanalüüsi büroo",
+        "count": 6
+      },
+      {
+        "name": "Maakasutuspoliitika osakond",
+        "count": 1
+      },
+      {
+        "name": "Otsetoetuste büroo",
+        "count": 5
+      },
+      {
+        "name": "Põllumajanduskeskkonna büroo",
+        "count": 7
+      },
+      {
+        "name": "Maaparanduse ja maakasutuse büroo",
+        "count": 5
+      },
+      {
+        "name": "Toiduohutuse osakond",
+        "count": 6
+      },
+      {
+        "name": "Toidu üldnõuete büroo",
+        "count": 6
+      },
+      {
+        "name": "Toidu keemilise ja bioloogilise ohutuse",
+        "count": 6
+      },
+      {
+        "name": "Loomatervise ja -heaolu büroo",
+        "count": 7
+      },
+      {
+        "name": "Taimetervise osakond",
+        "count": 13
+      },
+      {
+        "name": "Teadus- ja arendusosakond",
+        "count": 8
+      },
+      {
+        "name": "Kalamajandusosakond",
+        "count": 3
+      },
+      {
+        "name": "Kalanduse arengu büroo",
+        "count": 6
+      },
+      {
+        "name": "Turukorralduse ja kaubanduse büroo",
+        "count": 3
+      },
+      {
+        "name": "Kutselise kalapüügi korralduse büroo",
+        "count": 4
+      },
+      {
+        "name": "Välissuhete ja eurokoordinatsiooni osako",
+        "count": 16
+      },
+      {
+        "name": "Haldusosakond",
+        "count": 6
+      },
+      {
+        "name": "Asjaajamis- ja teenindusbüroo",
+        "count": 3
+      },
+      {
+        "name": "Infotehnoloogia osakond",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Maanteeamet",
+    "count": 319,
+    "children": [
+      {
+        "name": "Maanteeamet",
+        "count": 1
+      },
+      {
+        "name": "Riskijuhtimine",
+        "count": 2
+      },
+      {
+        "name": "Teehoiuteenistus",
+        "count": 1
+      },
+      {
+        "name": "Teehoiu korraldamise osakond",
+        "count": 11
+      },
+      {
+        "name": "Põhja teehoiu osakond",
+        "count": 20
+      },
+      {
+        "name": "Ida teehoiu osakond",
+        "count": 14
+      },
+      {
+        "name": "Lõuna teehoiu osakond",
+        "count": 19
+      },
+      {
+        "name": "Lääne teehoiu osakond",
+        "count": 18
+      },
+      {
+        "name": "Liiklusjuhtimiskeskus",
+        "count": 7
+      },
+      {
+        "name": "Teemaa osakond",
+        "count": 16
+      },
+      {
+        "name": "Teehoiu arendamise osakond",
+        "count": 6
+      },
+      {
+        "name": "Liiklusteenistus",
+        "count": 1
+      },
+      {
+        "name": "Klienditeenindusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Tallinna teenindusbüroo",
+        "count": 16
+      },
+      {
+        "name": "Jõhvi teenindusbüroo",
+        "count": 8
+      },
+      {
+        "name": "Tartu teenindusbüroo",
+        "count": 18
+      },
+      {
+        "name": "Pärnu teenindusbüroo",
+        "count": 8
+      },
+      {
+        "name": "Eksamiosakond",
+        "count": 10
+      },
+      {
+        "name": "Eksamikeskus",
+        "count": 36
+      },
+      {
+        "name": "Ühistranspordiosakond",
+        "count": 5
+      },
+      {
+        "name": "Ühistranspordi järelevalve talitus",
+        "count": 13
+      },
+      {
+        "name": "Tehnoosakond",
+        "count": 13
+      },
+      {
+        "name": "Sõidukite registriosakond",
+        "count": 5
+      },
+      {
+        "name": "Infotehnoloogia osakond",
+        "count": 1
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 1
+      },
+      {
+        "name": "Järelevalvekeskus",
+        "count": 10
+      },
+      {
+        "name": "Strateegilise planeerimise teenistus",
+        "count": 5
+      },
+      {
+        "name": "Strateegilise planeerimise osakond",
+        "count": 9
+      },
+      {
+        "name": "Taristu arendamise osakond",
+        "count": 3
+      },
+      {
+        "name": "Projekteerimisnõuete ja liikluskorraldus",
+        "count": 5
+      },
+      {
+        "name": "Keskkonnatalitus",
+        "count": 3
+      },
+      {
+        "name": "Projekteerimise talitus",
+        "count": 8
+      },
+      {
+        "name": "Taristu teenuste osakond",
+        "count": 16
+      },
+      {
+        "name": "Taristu haldamise osakond",
+        "count": 7
+      },
+      {
+        "name": "Teeregistri talitus",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Majandus- ja Kommunikatsiooniministeerium",
+    "count": 173,
+    "children": [
+      {
+        "name": "Majandus-ja Kommunikatsiooniministeerium",
+        "count": 6
+      },
+      {
+        "name": "Energeetika valdkond",
+        "count": 3
+      },
+      {
+        "name": "Majandusarengu valdkond",
+        "count": 2
+      },
+      {
+        "name": "Side ja riigi infosüsteemide valdkond",
+        "count": 4
+      },
+      {
+        "name": "Siseturu valdkond",
+        "count": 1
+      },
+      {
+        "name": "Transpordi valdkond",
+        "count": 3
+      },
+      {
+        "name": "Ehituse valdkond",
+        "count": 1
+      },
+      {
+        "name": "Siseauditi osakond",
+        "count": 2
+      },
+      {
+        "name": "Eelarveosakond",
+        "count": 2
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 5
+      },
+      {
+        "name": "Euroopa Liidu ja rahvusv koostöö osakond",
+        "count": 12
+      },
+      {
+        "name": "Majandusarengu osakond",
+        "count": 19
+      },
+      {
+        "name": "Välisvahendite osakond",
+        "count": 9
+      },
+      {
+        "name": "Lennundus- ja merendusosakond",
+        "count": 3
+      },
+      {
+        "name": "Lennundustalitus",
+        "count": 3
+      },
+      {
+        "name": "Merendustalitus",
+        "count": 4
+      },
+      {
+        "name": "Transpordi arengu ja invest osakond",
+        "count": 8
+      },
+      {
+        "name": "Teede- ja raudteeosakond",
+        "count": 3
+      },
+      {
+        "name": "Veondus- ja liiklustalitus",
+        "count": 6
+      },
+      {
+        "name": "Teedetalitus",
+        "count": 3
+      },
+      {
+        "name": "Raudteetalitus",
+        "count": 4
+      },
+      {
+        "name": "Energeetikaosakond",
+        "count": 10
+      },
+      {
+        "name": "Ehitus- ja elamuosakond",
+        "count": 7
+      },
+      {
+        "name": "Siseturuosakond",
+        "count": 3
+      },
+      {
+        "name": "Kaubanduse ja teenuste talitus",
+        "count": 8
+      },
+      {
+        "name": "Toote ohutuse ja tarbijakaitse talitus",
+        "count": 6
+      },
+      {
+        "name": "Siseturu toimimise talitus",
+        "count": 5
+      },
+      {
+        "name": "Sideosakond",
+        "count": 6
+      },
+      {
+        "name": "Riigi infosüsteemide osakond",
+        "count": 15
+      },
+      {
+        "name": "Infoühiskonna teenuste arendamise os",
+        "count": 7
+      },
+      {
+        "name": "Ohutusjuurdluse Keskus",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Maksu- ja Tolliamet",
+    "count": 1091,
+    "children": [
+      {
+        "name": "Maksu- ja Tolliamet",
+        "count": 3
+      },
+      {
+        "name": "Juriidiline osakond",
+        "count": 5
+      },
+      {
+        "name": "Õigusloome valdkond",
+        "count": 9
+      },
+      {
+        "name": "Kohtumenetluse valdkond",
+        "count": 23
+      },
+      {
+        "name": "Erimenetluse valdkond",
+        "count": 23
+      },
+      {
+        "name": "Eesti Vabariigi Alaline Esindus Euroopa Liidu juures ",
+        "count": 1
+      },
+      {
+        "name": "Teabeosakond",
+        "count": 2
+      },
+      {
+        "name": "Teabejuhtimiskeskus",
+        "count": 10
+      },
+      {
+        "name": "Strateegilise analüüsi valdkond",
+        "count": 10
+      },
+      {
+        "name": "Rahvusvahelise infovahetuse valdkond",
+        "count": 10
+      },
+      {
+        "name": "Profileerimise valdkond",
+        "count": 10
+      },
+      {
+        "name": "Andmehalduse ja arenduse valdkond",
+        "count": 13
+      },
+      {
+        "name": "Analüüsi valdkond",
+        "count": 11
+      },
+      {
+        "name": "Maksuauditi osakond",
+        "count": 265
+      },
+      {
+        "name": "Maksude osakond",
+        "count": 1
+      },
+      {
+        "name": "Otseste ja kaudsete maksude talitus",
+        "count": 24
+      },
+      {
+        "name": "Aktsiiside talitus",
+        "count": 20
+      },
+      {
+        "name": "Tolliosakond",
+        "count": 3
+      },
+      {
+        "name": "Tolliteenuste arenduse valdkond",
+        "count": 19
+      },
+      {
+        "name": "Tolliteeninduse valdkond",
+        "count": 73
+      },
+      {
+        "name": "Tollijärelevalve valdkond",
+        "count": 97
+      },
+      {
+        "name": "Tollijärelevalve arenduse valdkond",
+        "count": 9
+      },
+      {
+        "name": "Idapiiri tollijärelevalve valdkond",
+        "count": 4
+      },
+      {
+        "name": "Lõuna tollipunkt",
+        "count": 78
+      },
+      {
+        "name": "Ida tollipunkt",
+        "count": 68
+      },
+      {
+        "name": "Teenuste osakond",
+        "count": 1
+      },
+      {
+        "name": "Klienditeeninduse valdkond",
+        "count": 178
+      },
+      {
+        "name": "Avalike teenuste valdkond",
+        "count": 11
+      },
+      {
+        "name": "Arvestuse ja võlahalduse valdkond",
+        "count": 1
+      },
+      {
+        "name": "Arvestuse talitus",
+        "count": 10
+      },
+      {
+        "name": "Uurimisosakond",
+        "count": 2
+      },
+      {
+        "name": "Ida talitus",
+        "count": 12
+      },
+      {
+        "name": "Lõuna talitus",
+        "count": 15
+      },
+      {
+        "name": "Lääne talitus",
+        "count": 15
+      },
+      {
+        "name": "Põhja I talitus",
+        "count": 1
+      },
+      {
+        "name": "Põhja II talitus",
+        "count": 14
+      },
+      {
+        "name": "Rahvusvahelise kriminaalkoostöö talitus",
+        "count": 2
+      },
+      {
+        "name": "Koordinatsiooni ja arendustalitus",
+        "count": 1
+      },
+      {
+        "name": "Narkotalitus",
+        "count": 1
+      },
+      {
+        "name": "Sisekontrolli osakond",
+        "count": 7
+      },
+      {
+        "name": "Võlamenetluse talitus",
+        "count": 29
+      }
+    ]
+  },
+  {
+    "name": "Muinsuskaitseamet",
+    "count": 45,
+    "children": [
+      {
+        "name": "Muinsuskaitseamet",
+        "count": 1
+      },
+      {
+        "name": "Muuseumide ja kunstipärandi osakond",
+        "count": 3
+      },
+      {
+        "name": "Ehitiste ja arheoloogia osakond",
+        "count": 1
+      },
+      {
+        "name": "Ehitiste valdkond",
+        "count": 7
+      },
+      {
+        "name": "Arheoloogia valdkond",
+        "count": 5
+      },
+      {
+        "name": "Pärandihalduse osakond",
+        "count": 2
+      },
+      {
+        "name": "Järelevalveosakond",
+        "count": 4
+      },
+      {
+        "name": "Nõustamisosakond",
+        "count": 1
+      },
+      {
+        "name": "Harju-Rapla-Järva",
+        "count": 5
+      },
+      {
+        "name": "Saare-Hiiu-Lääne-Pärnu",
+        "count": 6
+      },
+      {
+        "name": "Viru-Jõgeva-Tartu",
+        "count": 6
+      },
+      {
+        "name": "Põlva-Valga-Viljandi-Võru",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "Patendiamet",
+    "count": 39,
+    "children": [
+      {
+        "name": "Patendiamet",
+        "count": 2
+      },
+      {
+        "name": "Peadirektori asetäitja valdkond",
+        "count": 1
+      },
+      {
+        "name": "Kaubamärgiosakond",
+        "count": 15
+      },
+      {
+        "name": "Patendiosakond",
+        "count": 14
+      },
+      {
+        "name": "Registriosakond",
+        "count": 4
+      },
+      {
+        "name": "Finants-ja haldusosakond",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Politsei- ja Piirivalveamet",
+    "count": 2433,
+    "children": [
+      {
+        "name": "Politsei- ja Piirivalveamet",
+        "count": 2
+      },
+      {
+        "name": "siseauditibüroo",
+        "count": 5
+      },
+      {
+        "name": "I talitus",
+        "count": 1
+      },
+      {
+        "name": "Ida sisekontrollitalitus",
+        "count": 1
+      },
+      {
+        "name": "II talitus",
+        "count": 1
+      },
+      {
+        "name": "III talitus",
+        "count": 1
+      },
+      {
+        "name": "Lääne sisekontrollitalitus",
+        "count": 1
+      },
+      {
+        "name": "arendusosakond",
+        "count": 1
+      },
+      {
+        "name": "identiteedi ja staatuste büroo",
+        "count": 16
+      },
+      {
+        "name": "õigusliku staatuse grupp",
+        "count": 5
+      },
+      {
+        "name": "integreeritud piirihalduse büroo",
+        "count": 8
+      },
+      {
+        "name": "piirikontrolli- ja operatiivteabegrupp",
+        "count": 6
+      },
+      {
+        "name": "piiri- ja migratsioonijärelevalvegrupp",
+        "count": 9
+      },
+      {
+        "name": "analüüsibüroo",
+        "count": 22
+      },
+      {
+        "name": "eelarvebüroo",
+        "count": 5
+      },
+      {
+        "name": "rahvusvahelise koostöö büroo",
+        "count": 13
+      },
+      {
+        "name": "valmisoleku ja reageerimise büroo",
+        "count": 3
+      },
+      {
+        "name": "alarmsõidu grupp",
+        "count": 5
+      },
+      {
+        "name": "esmareageerimise ja eriettevalmist grupp",
+        "count": 10
+      },
+      {
+        "name": "kriisireguleerimise grupp",
+        "count": 4
+      },
+      {
+        "name": "mereturvalisuse grupp",
+        "count": 6
+      },
+      {
+        "name": "ennetuse ja süüteomenetluse büroo",
+        "count": 10
+      },
+      {
+        "name": "kogukonnateenuste grupp",
+        "count": 7
+      },
+      {
+        "name": "süüteomenetlusteenuste grupp",
+        "count": 8
+      },
+      {
+        "name": "strateegiabüroo",
+        "count": 10
+      },
+      {
+        "name": "administratsioon",
+        "count": 1
+      },
+      {
+        "name": "dokumendihaldus- ja tõlkebüroo",
+        "count": 1
+      },
+      {
+        "name": "infoturbetalitus",
+        "count": 1
+      },
+      {
+        "name": "kommunikatsioonibüroo",
+        "count": 4
+      },
+      {
+        "name": "logistikabüroo",
+        "count": 1
+      },
+      {
+        "name": "Ida majandustalitus",
+        "count": 2
+      },
+      {
+        "name": "Lääne majandustalitus",
+        "count": 3
+      },
+      {
+        "name": "hoidlate grupp",
+        "count": 2
+      },
+      {
+        "name": "isikuvarustuse grupp",
+        "count": 1
+      },
+      {
+        "name": "maismaasõidukite grupp",
+        "count": 1
+      },
+      {
+        "name": "haldustalitus",
+        "count": 1
+      },
+      {
+        "name": "ostugrupp",
+        "count": 2
+      },
+      {
+        "name": "relvastusgrupp",
+        "count": 11
+      },
+      {
+        "name": "varade grupp",
+        "count": 1
+      },
+      {
+        "name": "personalibüroo",
+        "count": 2
+      },
+      {
+        "name": "Ida personalitalitus",
+        "count": 2
+      },
+      {
+        "name": "kaplanaat",
+        "count": 4
+      },
+      {
+        "name": "Lõuna personalitalitus",
+        "count": 3
+      },
+      {
+        "name": "Lääne personalitalitus",
+        "count": 2
+      },
+      {
+        "name": "personaliarvestuse ja -analüüsi talitus",
+        "count": 1
+      },
+      {
+        "name": "õigusbüroo",
+        "count": 4
+      },
+      {
+        "name": "teabehaldus- ja menetlusosakond",
+        "count": 2
+      },
+      {
+        "name": "teabehaldusbüroo",
+        "count": 1
+      },
+      {
+        "name": "infoteenistus",
+        "count": 13
+      },
+      {
+        "name": "merevalvekeskus",
+        "count": 1
+      },
+      {
+        "name": "kodakonds. ja rahv.vahelise kaitse büroo",
+        "count": 6
+      },
+      {
+        "name": "dokumentide ja kodakondsuse menetlusgr",
+        "count": 6
+      },
+      {
+        "name": "dokumenditrükikeskus",
+        "count": 10
+      },
+      {
+        "name": "rahv. kaitse ja e-resid menetlusgr",
+        "count": 9
+      },
+      {
+        "name": "laevastik",
+        "count": 1
+      },
+      {
+        "name": "piirivalvelaev Pvl-101 Kindral Kurvits",
+        "count": 2
+      },
+      {
+        "name": "piirivalvelaev Pvl-103 Pikker",
+        "count": 2
+      },
+      {
+        "name": "piirivalvelaev Pvl-112 Valve",
+        "count": 2
+      },
+      {
+        "name": "piirivalvelaev Pvl-203 Raju",
+        "count": 2
+      },
+      {
+        "name": "kopterite eskadrill",
+        "count": 1
+      },
+      {
+        "name": "lennukite eskadrill",
+        "count": 1
+      },
+      {
+        "name": "lennutehniline eskadrill",
+        "count": 1
+      },
+      {
+        "name": "Põhja prefektuur",
+        "count": 1
+      },
+      {
+        "name": "teabebüroo",
+        "count": 37
+      },
+      {
+        "name": "menetluskvaliteedi grupp",
+        "count": 6
+      },
+      {
+        "name": "operatiivteabetalitus",
+        "count": 2
+      },
+      {
+        "name": "teabegrupp I",
+        "count": 17
+      },
+      {
+        "name": "teabegrupp II",
+        "count": 16
+      },
+      {
+        "name": "teabegrupp III",
+        "count": 16
+      },
+      {
+        "name": "teabegrupp IV",
+        "count": 15
+      },
+      {
+        "name": "Ida-Harju politseijaoskond",
+        "count": 2
+      },
+      {
+        "name": "ennetus- ja menetlustalitus",
+        "count": 9
+      },
+      {
+        "name": "andmesisestuse ja -kvaliteedi grupp",
+        "count": 25
+      },
+      {
+        "name": "menetlusgrupp",
+        "count": 100
+      },
+      {
+        "name": "üldsüütegude menetlusgrupp",
+        "count": 14
+      },
+      {
+        "name": "Ida-Harju piirkonnagrupp",
+        "count": 15
+      },
+      {
+        "name": "Ida-Tallinna piirkonnagrupp",
+        "count": 15
+      },
+      {
+        "name": "lähisuhtevägival süütegude menetlusgrupp",
+        "count": 11
+      },
+      {
+        "name": "isikuvastaste süütegude menetlusgrupp",
+        "count": 7
+      },
+      {
+        "name": "patrullitalitus",
+        "count": 23
+      },
+      {
+        "name": "patrulligrupp I",
+        "count": 124
+      },
+      {
+        "name": "patrulligrupp II",
+        "count": 118
+      },
+      {
+        "name": "patrulligrupp III",
+        "count": 101
+      },
+      {
+        "name": "patrulligrupp IV",
+        "count": 102
+      },
+      {
+        "name": "patrulligrupp V",
+        "count": 43
+      },
+      {
+        "name": "Kesklinna politseijaoskond",
+        "count": 2
+      },
+      {
+        "name": "isikuvast ja lähisuhtevägiv süüteg grupp",
+        "count": 12
+      },
+      {
+        "name": "varavastaste süütegude grupp",
+        "count": 19
+      },
+      {
+        "name": "üldsüütegude grupp",
+        "count": 21
+      },
+      {
+        "name": "Põhja-Tallinna piirkonnagrupp",
+        "count": 11
+      },
+      {
+        "name": "Kesklinna piirkonnagrupp",
+        "count": 11
+      },
+      {
+        "name": "ajutise kinnipidamise grupp",
+        "count": 11
+      },
+      {
+        "name": "Lääne-Harju politseijaoskond",
+        "count": 2
+      },
+      {
+        "name": "isikuvast ja lähisuhtevä süütegude grupp",
+        "count": 11
+      },
+      {
+        "name": "Lääne-Harju piirkonnagrupp",
+        "count": 14
+      },
+      {
+        "name": "Nõmme-Haabersti piirkonnagrupp",
+        "count": 10
+      },
+      {
+        "name": "Mustamäe-Kristiine piirkonnagrupp",
+        "count": 10
+      },
+      {
+        "name": "teenindustalitus",
+        "count": 24
+      },
+      {
+        "name": "Tammsaare teenindus I",
+        "count": 23
+      },
+      {
+        "name": "Tammsaare teenindus II",
+        "count": 25
+      },
+      {
+        "name": "Pinna teenindus I",
+        "count": 15
+      },
+      {
+        "name": "Pinna teenindus II",
+        "count": 16
+      },
+      {
+        "name": "korrakaitsebüroo",
+        "count": 4
+      },
+      {
+        "name": "lubadegrupp",
+        "count": 27
+      },
+      {
+        "name": "liiklusjärelevalvekeskus",
+        "count": 2
+      },
+      {
+        "name": "avariimenetlusgrupp",
+        "count": 11
+      },
+      {
+        "name": "kohtuesindusgrupp",
+        "count": 9
+      },
+      {
+        "name": "liikluskuritegude grupp",
+        "count": 10
+      },
+      {
+        "name": "liiklusväärtegude grupp",
+        "count": 10
+      },
+      {
+        "name": "avariigrupp",
+        "count": 18
+      },
+      {
+        "name": "liiklusgrupp",
+        "count": 16
+      },
+      {
+        "name": "operatiivkeskus",
+        "count": 4
+      },
+      {
+        "name": "kinnipidamiskeskus",
+        "count": 1
+      },
+      {
+        "name": "kainestusmaja grupp",
+        "count": 13
+      },
+      {
+        "name": "konvoeerimisgrupp I",
+        "count": 12
+      },
+      {
+        "name": "konvoeerimisgrupp II",
+        "count": 10
+      },
+      {
+        "name": "valvetalitus",
+        "count": 3
+      },
+      {
+        "name": "valvegrupp I",
+        "count": 9
+      },
+      {
+        "name": "valvegrupp II",
+        "count": 12
+      },
+      {
+        "name": "valvegrupp III",
+        "count": 11
+      },
+      {
+        "name": "valvegrupp IV",
+        "count": 11
+      },
+      {
+        "name": "valvebüroo",
+        "count": 1
+      },
+      {
+        "name": "valitsusasut. ja saatkond. valvetalitus",
+        "count": 1
+      },
+      {
+        "name": "piirivalvebüroo",
+        "count": 3
+      },
+      {
+        "name": "piiri- ja migratsioonijärelevalvetalitus",
+        "count": 3
+      },
+      {
+        "name": "Tallinna kordon",
+        "count": 1
+      },
+      {
+        "name": "Tallinna piiripunkt",
+        "count": 1
+      },
+      {
+        "name": "Lõuna prefektuur",
+        "count": 1
+      },
+      {
+        "name": "Tartu politseijaoskond",
+        "count": 1
+      },
+      {
+        "name": "Jõgeva piirkonnagrupp",
+        "count": 7
+      },
+      {
+        "name": "Jõgeva menetlusgrupp",
+        "count": 11
+      },
+      {
+        "name": "liiklusväärtegude menetlusgrupp",
+        "count": 13
+      },
+      {
+        "name": "Tartumaa piirkonnagrupp",
+        "count": 12
+      },
+      {
+        "name": "Tartu piirkonnagrupp",
+        "count": 13
+      },
+      {
+        "name": "üldväärtegude menetlusgrupp",
+        "count": 12
+      },
+      {
+        "name": "varavastaste kuritegude menetlusgrupp",
+        "count": 13
+      },
+      {
+        "name": "vägivallakuritegude menetlusgrupp",
+        "count": 12
+      },
+      {
+        "name": "üldkuritegude menetlusgrupp",
+        "count": 9
+      },
+      {
+        "name": "operatiivne menetlusgrupp",
+        "count": 15
+      },
+      {
+        "name": "liiklusgrupp I",
+        "count": 12
+      },
+      {
+        "name": "liiklusgrupp II",
+        "count": 11
+      },
+      {
+        "name": "Tartu patrulligrupp I",
+        "count": 9
+      },
+      {
+        "name": "Tartu patrulligrupp II",
+        "count": 9
+      },
+      {
+        "name": "Tartu patrulligrupp III",
+        "count": 7
+      },
+      {
+        "name": "Tartu patrulligrupp IV",
+        "count": 10
+      },
+      {
+        "name": "Jõgeva patrulligrupp I",
+        "count": 11
+      },
+      {
+        "name": "Jõgeva patrulligrupp II",
+        "count": 11
+      },
+      {
+        "name": "Tartu arestimaja",
+        "count": 8
+      },
+      {
+        "name": "korrapidamisgrupp",
+        "count": 18
+      },
+      {
+        "name": "Viljandi politseijaoskond",
+        "count": 1
+      },
+      {
+        "name": "piirkonnagrupp",
+        "count": 62
+      },
+      {
+        "name": "arestimajagrupp",
+        "count": 83
+      },
+      {
+        "name": "Kagu politseijaoskond",
+        "count": 5
+      },
+      {
+        "name": "Põlva menetlusgrupp",
+        "count": 10
+      },
+      {
+        "name": "Põlva piirkonnagrupp",
+        "count": 14
+      },
+      {
+        "name": "Valga menetlusgrupp",
+        "count": 12
+      },
+      {
+        "name": "Võru menetlusgrupp",
+        "count": 13
+      },
+      {
+        "name": "Valga piirkonnagrupp",
+        "count": 16
+      },
+      {
+        "name": "Võru piirkonnagrupp",
+        "count": 16
+      },
+      {
+        "name": "Põlva patrulligrupp I",
+        "count": 12
+      },
+      {
+        "name": "Põlva patrulligrupp II",
+        "count": 11
+      },
+      {
+        "name": "Valga patrulligrupp II",
+        "count": 10
+      },
+      {
+        "name": "Võru patrulligrupp I",
+        "count": 12
+      },
+      {
+        "name": "Valga patrulligrupp I",
+        "count": 12
+      },
+      {
+        "name": "Võru patrulligrupp II",
+        "count": 13
+      },
+      {
+        "name": "Mustvee kordon",
+        "count": 1
+      },
+      {
+        "name": "Piusa kordon",
+        "count": 1
+      },
+      {
+        "name": "Saatse kordon",
+        "count": 1
+      },
+      {
+        "name": "Kagu piiripunkt",
+        "count": 1
+      },
+      {
+        "name": "Ida prefektuur",
+        "count": 1
+      },
+      {
+        "name": "liiklusmenetlustalitus",
+        "count": 10
+      },
+      {
+        "name": "Jõhvi politseijaoskond",
+        "count": 1
+      },
+      {
+        "name": "menetlusgrupp I",
+        "count": 42
+      },
+      {
+        "name": "menetlusgrupp II",
+        "count": 42
+      },
+      {
+        "name": "menetlusgrupp III",
+        "count": 43
+      },
+      {
+        "name": "menetlusgrupp IV",
+        "count": 9
+      },
+      {
+        "name": "Jõhvi piirkonnagrupp",
+        "count": 9
+      },
+      {
+        "name": "Kohtla-Järve piirkonnagrupp",
+        "count": 7
+      },
+      {
+        "name": "Jõhvi teenindus",
+        "count": 11
+      },
+      {
+        "name": "Jõhvi arestimaja",
+        "count": 9
+      },
+      {
+        "name": "Narva politseijaoskond",
+        "count": 2
+      },
+      {
+        "name": "Narva piirkonnagrupp",
+        "count": 13
+      },
+      {
+        "name": "Sillamäe piirkonnagrupp",
+        "count": 6
+      },
+      {
+        "name": "Narva teenindus",
+        "count": 11
+      },
+      {
+        "name": "Rakvere politseijaoskond",
+        "count": 1
+      },
+      {
+        "name": "Rakvere piirkonnagrupp",
+        "count": 13
+      },
+      {
+        "name": "Rakvere teenindus",
+        "count": 5
+      },
+      {
+        "name": "Narva kordon",
+        "count": 1
+      },
+      {
+        "name": "Narva piiripunkt",
+        "count": 1
+      },
+      {
+        "name": "Vasknarva kordon",
+        "count": 1
+      },
+      {
+        "name": "Lääne prefektuur",
+        "count": 1
+      },
+      {
+        "name": "Haapsalu politseijaoskond",
+        "count": 1
+      },
+      {
+        "name": "merepääste- ja patrulligrupp I",
+        "count": 17
+      },
+      {
+        "name": "merepääste- ja patrulligrupp II",
+        "count": 16
+      },
+      {
+        "name": "merepääste- ja patrulligrupp III",
+        "count": 9
+      },
+      {
+        "name": "merepääste- ja patrulligrupp IV",
+        "count": 11
+      },
+      {
+        "name": "Kuressaare politseijaoskond",
+        "count": 1
+      },
+      {
+        "name": "Kärdla politseijaoskond",
+        "count": 1
+      },
+      {
+        "name": "piirkonna- ja menetlusgrupp",
+        "count": 10
+      },
+      {
+        "name": "Paide politseijaoskond",
+        "count": 1
+      },
+      {
+        "name": "Pärnu politseijaoskond",
+        "count": 2
+      },
+      {
+        "name": "Pärnu piirkonnagrupp",
+        "count": 12
+      },
+      {
+        "name": "Pärnumaa piirkonnagrupp",
+        "count": 12
+      },
+      {
+        "name": "e-menetlusgrupp",
+        "count": 8
+      },
+      {
+        "name": "teenindusgrupp",
+        "count": 8
+      },
+      {
+        "name": "liikluse ja sisepiirigrupp",
+        "count": 9
+      },
+      {
+        "name": "Pärnu arestimaja",
+        "count": 15
+      },
+      {
+        "name": "Rapla politseijaoskond",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Prokuratuur",
+    "count": 206,
+    "children": [
+      {
+        "name": "Riigiprokuratuur",
+        "count": 2
+      },
+      {
+        "name": "Haldusosakond",
+        "count": 1
+      },
+      {
+        "name": "Järelevalveosakond",
+        "count": 11
+      },
+      {
+        "name": "Süüdistusosakond",
+        "count": 17
+      },
+      {
+        "name": "Põhja Ringkonnaprokuratuur",
+        "count": 3
+      },
+      {
+        "name": "Esimene osakond (narko,rasked kuriteod)",
+        "count": 16
+      },
+      {
+        "name": "Teine osakond (majanduskuriteod)",
+        "count": 13
+      },
+      {
+        "name": "Kolmas osakond (alaealised,lähisuhted)",
+        "count": 16
+      },
+      {
+        "name": "Neljas osakond (varavast./küberkuriteod)",
+        "count": 15
+      },
+      {
+        "name": "Viies osakond (üldkuritegude osakond)",
+        "count": 15
+      },
+      {
+        "name": "Lõuna Ringkonnaprokuratuur",
+        "count": 4
+      },
+      {
+        "name": "I osakond Tartu prokurörid",
+        "count": 11
+      },
+      {
+        "name": "II osakond",
+        "count": 12
+      },
+      {
+        "name": "III osakonna Viljandi prokurörid",
+        "count": 3
+      },
+      {
+        "name": "II osakonna Jõgeva prokurörid",
+        "count": 2
+      },
+      {
+        "name": "III osakonna Valga prokurörid",
+        "count": 4
+      },
+      {
+        "name": "III osakonna Võru prokurörid",
+        "count": 2
+      },
+      {
+        "name": "III osakonna Põlva prokurörid",
+        "count": 2
+      },
+      {
+        "name": "Viru Ringkonnaprokuratuur",
+        "count": 2
+      },
+      {
+        "name": "Esimene osakond (rasked kuriteod)",
+        "count": 9
+      },
+      {
+        "name": "Kolmas osakond",
+        "count": 8
+      },
+      {
+        "name": "Teine osakond",
+        "count": 13
+      },
+      {
+        "name": "Lääne Ringkonnaprokuratuur",
+        "count": 3
+      },
+      {
+        "name": "Pärnu osakond Pärnumaa prokurörid",
+        "count": 11
+      },
+      {
+        "name": "Rapla osakond",
+        "count": 4
+      },
+      {
+        "name": "Pärnu osakonna Saaremaa prokurörid",
+        "count": 2
+      },
+      {
+        "name": "Rapla osakonna Haapsalu prokurörid",
+        "count": 3
+      },
+      {
+        "name": "Rapla osakonna Paide prokurörid",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Põllumajandusamet",
+    "count": 177,
+    "children": [
+      {
+        "name": "Põllumajandusamet",
+        "count": 2
+      },
+      {
+        "name": "Taimetervise ja aianduse osakond",
+        "count": 11
+      },
+      {
+        "name": "Muuga piiripunkt",
+        "count": 5
+      },
+      {
+        "name": "Narva piiripunkt",
+        "count": 7
+      },
+      {
+        "name": "Luhamaa ja Koidula piiripunkt",
+        "count": 6
+      },
+      {
+        "name": "Taimekaitse ja väetiste osakond",
+        "count": 13
+      },
+      {
+        "name": "Mahepõllumajanduse ja seemne osakond",
+        "count": 13
+      },
+      {
+        "name": "Maaparanduse osakond",
+        "count": 13
+      },
+      {
+        "name": "Põhja regioon",
+        "count": 26
+      },
+      {
+        "name": "Lääne regioon",
+        "count": 25
+      },
+      {
+        "name": "Ida regioon",
+        "count": 30
+      },
+      {
+        "name": "Lõuna regioon",
+        "count": 26
+      }
+    ]
+  },
+  {
+    "name": "Põllumajanduse Registrite ja Informatsiooni Amet",
+    "count": 258,
+    "children": [
+      {
+        "name": "PRIA",
+        "count": 3
+      },
+      {
+        "name": "Peadir.aset. VV-fin.eelarve.analüüs.",
+        "count": 1
+      },
+      {
+        "name": "Peadir.aset. VV-jur.haldus.aren.toet.",
+        "count": 1
+      },
+      {
+        "name": "Peadir.aset. VV-otsetoet.registrid.it",
+        "count": 1
+      },
+      {
+        "name": "Siseauditi osakond",
+        "count": 3
+      },
+      {
+        "name": "Registrite osakond",
+        "count": 12
+      },
+      {
+        "name": "Juriidiline osakond",
+        "count": 10
+      },
+      {
+        "name": "Kontrolliosakond",
+        "count": 9
+      },
+      {
+        "name": "Arengutoetuste osakond",
+        "count": 4
+      },
+      {
+        "name": "Arendusbüroo",
+        "count": 15
+      },
+      {
+        "name": "Klienditeenindusbüroo",
+        "count": 4
+      },
+      {
+        "name": "Kvaliteedibüroo",
+        "count": 7
+      },
+      {
+        "name": "Menetlusbüroo",
+        "count": 51
+      },
+      {
+        "name": "Otsetoetuste osakond",
+        "count": 4
+      },
+      {
+        "name": "Kontrollibüroo",
+        "count": 12
+      },
+      {
+        "name": "Põldude registri büroo",
+        "count": 15
+      },
+      {
+        "name": "Regioonide osakond",
+        "count": 4
+      },
+      {
+        "name": "Kesk-Eesti büroo",
+        "count": 23
+      },
+      {
+        "name": "Lõuna-Eesti büroo",
+        "count": 22
+      },
+      {
+        "name": "Lääne-Eesti büroo",
+        "count": 24
+      },
+      {
+        "name": "Põhja-Eesti büroo",
+        "count": 19
+      },
+      {
+        "name": "Finantsosakond",
+        "count": 5
+      },
+      {
+        "name": "Arendusosakond",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "Pärnu Maakohus",
+    "count": 127,
+    "children": [
+      {
+        "name": "Kohtunikud",
+        "count": 20
+      },
+      {
+        "name": "Õigusteenistus",
+        "count": 41
+      },
+      {
+        "name": "Kantselei",
+        "count": 17
+      },
+      {
+        "name": "Haldusosakond",
+        "count": 13
+      },
+      {
+        "name": "Kohtu esimehe juhtimisvaldkond",
+        "count": 3
+      },
+      {
+        "name": "Maksekäsuosakond",
+        "count": 33
+      }
+    ]
+  },
+  {
+    "name": "Päästeamet",
+    "count": 768,
+    "children": [
+      {
+        "name": "Planeerimise talitus",
+        "count": 6
+      },
+      {
+        "name": "Valmisoleku talitus",
+        "count": 10
+      },
+      {
+        "name": "Päästetöö osakond",
+        "count": 1
+      },
+      {
+        "name": "Ohutusjärelevalve osakond",
+        "count": 8
+      },
+      {
+        "name": "Ennetustöö osakond",
+        "count": 10
+      },
+      {
+        "name": "Hädaolukorraks valmisoleku osakond",
+        "count": 10
+      },
+      {
+        "name": "põhivaldkond",
+        "count": 4
+      },
+      {
+        "name": "Päästeamet",
+        "count": 3
+      },
+      {
+        "name": "halduse valdkond",
+        "count": 3
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 5
+      },
+      {
+        "name": "Haldusosakond",
+        "count": 1
+      },
+      {
+        "name": "Põhja haldusgrupp",
+        "count": 1
+      },
+      {
+        "name": "Lõuna haldusgrupp",
+        "count": 3
+      },
+      {
+        "name": "Haldusarenduse talitus",
+        "count": 6
+      },
+      {
+        "name": "Logistikagrupp",
+        "count": 4
+      },
+      {
+        "name": "Varahalduse talitus",
+        "count": 1
+      },
+      {
+        "name": "Valmisoleku büroo",
+        "count": 50
+      },
+      {
+        "name": "Lilleküla PK 3",
+        "count": 12
+      },
+      {
+        "name": "Lasnamäe PK 3",
+        "count": 6
+      },
+      {
+        "name": "Nõmme PK 3",
+        "count": 13
+      },
+      {
+        "name": "Kopli PK 3",
+        "count": 7
+      },
+      {
+        "name": "Keila PK 3",
+        "count": 6
+      },
+      {
+        "name": "Paldiski PK 2",
+        "count": 5
+      },
+      {
+        "name": "Kesklinna PK 3",
+        "count": 13
+      },
+      {
+        "name": "Pirita PK 3",
+        "count": 7
+      },
+      {
+        "name": "Assaku PK 2",
+        "count": 7
+      },
+      {
+        "name": "Kose PK 2",
+        "count": 4
+      },
+      {
+        "name": "Loksa PK 2",
+        "count": 6
+      },
+      {
+        "name": "Muuga PK 3",
+        "count": 7
+      },
+      {
+        "name": "Kehra PK 2",
+        "count": 6
+      },
+      {
+        "name": "Harjumaa päästepiirkond",
+        "count": 2
+      },
+      {
+        "name": "Ohutusjärelevalve büroo",
+        "count": 88
+      },
+      {
+        "name": "Ennetusbüroo",
+        "count": 30
+      },
+      {
+        "name": "Põhja päästekeskus",
+        "count": 1
+      },
+      {
+        "name": "Lääne-Virumaa päästepiirkond",
+        "count": 1
+      },
+      {
+        "name": "Rakvere korrapidamisgrupp",
+        "count": 5
+      },
+      {
+        "name": "Rakvere PK 3",
+        "count": 7
+      },
+      {
+        "name": "Tapa PK 2",
+        "count": 7
+      },
+      {
+        "name": "Kunda PK 2",
+        "count": 6
+      },
+      {
+        "name": "Väike-Maarja PK 2",
+        "count": 6
+      },
+      {
+        "name": "Ida-Virumaa päästepiirkond",
+        "count": 1
+      },
+      {
+        "name": "Jõhvi korrapidamisgrupp",
+        "count": 4
+      },
+      {
+        "name": "Narva PK 3",
+        "count": 12
+      },
+      {
+        "name": "Narva-Jõesuu PK 2",
+        "count": 6
+      },
+      {
+        "name": "Jõhvi PK 3",
+        "count": 12
+      },
+      {
+        "name": "Sillamäe PK 3",
+        "count": 6
+      },
+      {
+        "name": "Kohtla-Järve PK 3",
+        "count": 6
+      },
+      {
+        "name": "Kiviõli PK 2",
+        "count": 7
+      },
+      {
+        "name": "Iisaku PK 2",
+        "count": 6
+      },
+      {
+        "name": "Ida päästekeskus",
+        "count": 1
+      },
+      {
+        "name": "Jõgevamaa päästepiirkond",
+        "count": 2
+      },
+      {
+        "name": "Jõgeva PK 2",
+        "count": 6
+      },
+      {
+        "name": "Põltsamaa PK 2",
+        "count": 7
+      },
+      {
+        "name": "Mustvee PK 2",
+        "count": 7
+      },
+      {
+        "name": "Tabivere PK 2",
+        "count": 6
+      },
+      {
+        "name": "Põlvamaa päästepiirkond",
+        "count": 2
+      },
+      {
+        "name": "Põlva PK 2",
+        "count": 7
+      },
+      {
+        "name": "Räpina PK 2",
+        "count": 6
+      },
+      {
+        "name": "Värska PK 2",
+        "count": 2
+      },
+      {
+        "name": "Tartumaa päästepiirkond",
+        "count": 1
+      },
+      {
+        "name": "Tartu korrapidamisgrupp",
+        "count": 5
+      },
+      {
+        "name": "Annelinna PK 3",
+        "count": 13
+      },
+      {
+        "name": "Alatskivi PK 2",
+        "count": 6
+      },
+      {
+        "name": "Tartu PK 3",
+        "count": 6
+      },
+      {
+        "name": "Elva PK 2",
+        "count": 7
+      },
+      {
+        "name": "Valgamaa päästepiirkond",
+        "count": 2
+      },
+      {
+        "name": "Valga PK 2",
+        "count": 6
+      },
+      {
+        "name": "Tõrva PK 2",
+        "count": 7
+      },
+      {
+        "name": "Otepää PK 2",
+        "count": 7
+      },
+      {
+        "name": "Viljandimaa päästepiirkond",
+        "count": 1
+      },
+      {
+        "name": "Viljandi korrapidamisgrupp",
+        "count": 5
+      },
+      {
+        "name": "Viljandi PK 3",
+        "count": 7
+      },
+      {
+        "name": "Suure-Jaani PK 2",
+        "count": 6
+      },
+      {
+        "name": "Mustla PK 2",
+        "count": 6
+      },
+      {
+        "name": "Abja-Paluoja PK 2",
+        "count": 5
+      },
+      {
+        "name": "Võrumaa päästepiirkond",
+        "count": 1
+      },
+      {
+        "name": "Võru korrapidamisgrupp",
+        "count": 5
+      },
+      {
+        "name": "Võru PK 3",
+        "count": 6
+      },
+      {
+        "name": "Antsla PK 2",
+        "count": 6
+      },
+      {
+        "name": "Mõniste PK 2",
+        "count": 6
+      },
+      {
+        "name": "Vastseliina PK 2",
+        "count": 6
+      },
+      {
+        "name": "Lõuna päästekeskus",
+        "count": 1
+      },
+      {
+        "name": "Hiiumaa päästepiirkond",
+        "count": 1
+      },
+      {
+        "name": "Kärdla PK 2",
+        "count": 6
+      },
+      {
+        "name": "Käina PK 2",
+        "count": 6
+      },
+      {
+        "name": "Järvamaa päästepiirkond",
+        "count": 1
+      },
+      {
+        "name": "Paide korrapidamisgrupp",
+        "count": 5
+      },
+      {
+        "name": "Paide PK 2",
+        "count": 6
+      },
+      {
+        "name": "Aravete PK 2",
+        "count": 5
+      },
+      {
+        "name": "Koeru PK 2",
+        "count": 6
+      },
+      {
+        "name": "Türi PK 2",
+        "count": 7
+      },
+      {
+        "name": "Haapsalu korrapidamisgrupp",
+        "count": 4
+      },
+      {
+        "name": "Haapsalu PK 2",
+        "count": 6
+      },
+      {
+        "name": "Vormsi PK 2",
+        "count": 1
+      },
+      {
+        "name": "Lihula PK 2",
+        "count": 6
+      },
+      {
+        "name": "Nõva PK 2",
+        "count": 1
+      },
+      {
+        "name": "Risti PK 2",
+        "count": 6
+      },
+      {
+        "name": "Pärnumaa päästepiirkond",
+        "count": 1
+      },
+      {
+        "name": "Pärnu korrapidamisgrupp",
+        "count": 5
+      },
+      {
+        "name": "Pärnu PK 3",
+        "count": 13
+      },
+      {
+        "name": "Häädemeeste PK 2",
+        "count": 6
+      },
+      {
+        "name": "Kilingi-Nõmme PK 2",
+        "count": 6
+      },
+      {
+        "name": "Pärnu-Jaagupi PK 2",
+        "count": 7
+      },
+      {
+        "name": "Tõstamaa PK 2",
+        "count": 1
+      },
+      {
+        "name": "Kihnu PK 2",
+        "count": 1
+      },
+      {
+        "name": "Vändra PK 2",
+        "count": 6
+      },
+      {
+        "name": "Raplamaa päästepiirkond",
+        "count": 2
+      },
+      {
+        "name": "Rapla PK 2",
+        "count": 6
+      },
+      {
+        "name": "Järvakandi PK 2",
+        "count": 4
+      },
+      {
+        "name": "Kohila PK 2",
+        "count": 6
+      },
+      {
+        "name": "Märjamaa PK 2",
+        "count": 6
+      },
+      {
+        "name": "Saaremaa päästepiirkond",
+        "count": 1
+      },
+      {
+        "name": "Kuressaare korrapidamisgrupp",
+        "count": 5
+      },
+      {
+        "name": "Kuressaare PK 2",
+        "count": 6
+      },
+      {
+        "name": "Kihelkonna PK 2",
+        "count": 6
+      },
+      {
+        "name": "Orissaare PK 2",
+        "count": 7
+      },
+      {
+        "name": "Lääne päästekeskus",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Rahandusministeerium",
+    "count": 259,
+    "children": [
+      {
+        "name": "Rahandusministeerium",
+        "count": 8
+      },
+      {
+        "name": "Kantsleri vastutusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Halduspoliitika",
+        "count": 2
+      },
+      {
+        "name": "Maksu- ja tollipoliitika",
+        "count": 1
+      },
+      {
+        "name": "Finantspoliitika ja välissuhted",
+        "count": 1
+      },
+      {
+        "name": "Eelarvepoliitika",
+        "count": 1
+      },
+      {
+        "name": "Regionaalvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Planeeringute osakond",
+        "count": 7
+      },
+      {
+        "name": "Regionaalarengu osakond",
+        "count": 2
+      },
+      {
+        "name": "Regionaalpoliitika talitus",
+        "count": 8
+      },
+      {
+        "name": "Euroopa territoriaalse koostöö talitus",
+        "count": 3
+      },
+      {
+        "name": "Regionaalhalduspoliitika osakond",
+        "count": 7
+      },
+      {
+        "name": "Regionaalhalduse osakond",
+        "count": 1
+      },
+      {
+        "name": "Harju talitus",
+        "count": 7
+      },
+      {
+        "name": "Hiiu talitus",
+        "count": 2
+      },
+      {
+        "name": "Ida-Viru talitus",
+        "count": 2
+      },
+      {
+        "name": "Jõgeva talitus",
+        "count": 2
+      },
+      {
+        "name": "Järva talitus",
+        "count": 4
+      },
+      {
+        "name": "Lääne talitus",
+        "count": 3
+      },
+      {
+        "name": "Lääne-Viru talitus",
+        "count": 2
+      },
+      {
+        "name": "Põlva talitus",
+        "count": 2
+      },
+      {
+        "name": "Pärnu talitus",
+        "count": 4
+      },
+      {
+        "name": "Rapla talitus",
+        "count": 2
+      },
+      {
+        "name": "Saare talitus",
+        "count": 2
+      },
+      {
+        "name": "Tartu talitus",
+        "count": 4
+      },
+      {
+        "name": "Valga talitus",
+        "count": 2
+      },
+      {
+        "name": "Võru talitus",
+        "count": 3
+      },
+      {
+        "name": "Viljandi talitus",
+        "count": 2
+      },
+      {
+        "name": "Siseauditi osakond",
+        "count": 3
+      },
+      {
+        "name": "Finantskontrolli osakond",
+        "count": 2
+      },
+      {
+        "name": "I auditi talitus",
+        "count": 8
+      },
+      {
+        "name": "II auditi talitus",
+        "count": 7
+      },
+      {
+        "name": "Maksupoliitika osakond",
+        "count": 14
+      },
+      {
+        "name": "Tolli-ja aktsiisipoliitika osakond",
+        "count": 11
+      },
+      {
+        "name": "Euroopa Liidu ja rahvus.vah koostöö osak",
+        "count": 9
+      },
+      {
+        "name": "Kindlustuspoliitika osakond",
+        "count": 7
+      },
+      {
+        "name": "Ettevõtluse ja arvestuspoliitika osakond",
+        "count": 6
+      },
+      {
+        "name": "Finantsturgude poliitika osakond",
+        "count": 7
+      },
+      {
+        "name": "Riigieelarve osakond",
+        "count": 33
+      },
+      {
+        "name": "Eelarvearenduste osakond",
+        "count": 1
+      },
+      {
+        "name": "KOV finantsjuhtimise osakond",
+        "count": 4
+      },
+      {
+        "name": "Fiskaalpoliitika osakond",
+        "count": 15
+      },
+      {
+        "name": "Riigi rahanduse talitus",
+        "count": 1
+      },
+      {
+        "name": "Riigihalduse ja avaliku teenistuse osak.",
+        "count": 11
+      },
+      {
+        "name": "Riigivara osakond",
+        "count": 12
+      },
+      {
+        "name": "Riigikassa osakond",
+        "count": 1
+      },
+      {
+        "name": "Riigihangete ja riigiabi osak",
+        "count": 14
+      },
+      {
+        "name": "Riigihangete Vaidlustuskomisjon",
+        "count": 4
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Rahvusarhiiv",
+    "count": 77,
+    "children": [
+      {
+        "name": "Rahvusarhiiv",
+        "count": 5
+      },
+      {
+        "name": "Tartu kogumisosakond",
+        "count": 6
+      },
+      {
+        "name": "Tartu säilitusosakond",
+        "count": 1
+      },
+      {
+        "name": "Tartu kasutusosakond",
+        "count": 18
+      },
+      {
+        "name": "Tallinna kogumisosakond",
+        "count": 21
+      },
+      {
+        "name": "Tallinna säilitus-ja kasutusosakond",
+        "count": 14
+      },
+      {
+        "name": "Tln osakondade ra asetäitja VV",
+        "count": 1
+      },
+      {
+        "name": "Filmiarhiivi",
+        "count": 8
+      },
+      {
+        "name": "Digitaalarhiiv",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Ravimiamet",
+    "count": 75,
+    "children": [
+      {
+        "name": "Ravimiamet",
+        "count": 6
+      },
+      {
+        "name": "PD aset. val",
+        "count": 1
+      },
+      {
+        "name": "Kvaliteedi hindamise büroo",
+        "count": 15
+      },
+      {
+        "name": "Kliinilise hindamise büroo",
+        "count": 11
+      },
+      {
+        "name": "Müügilubade osakond",
+        "count": 3
+      },
+      {
+        "name": "Statistika büroo",
+        "count": 2
+      },
+      {
+        "name": "Ohutusjärelevalve büroo",
+        "count": 6
+      },
+      {
+        "name": "Ravimiohutuse osakond",
+        "count": 1
+      },
+      {
+        "name": "Inspektsiooniosakond",
+        "count": 11
+      },
+      {
+        "name": "Tegevuslubade ja inspektisooni büroo",
+        "count": 8
+      },
+      {
+        "name": "Labor",
+        "count": 7
+      },
+      {
+        "name": "Bioloogiliste preparaatide osakond",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "Riigi Infosüsteemi Amet",
+    "count": 4,
+    "children": [
+      {
+        "name": "Riigi Infosüsteemi Amet",
+        "count": 1
+      },
+      {
+        "name": "Administratiivosakond",
+        "count": 1
+      },
+      {
+        "name": "Riigi infosüsteemi teenistus",
+        "count": 1
+      },
+      {
+        "name": "Andmevahetuse osakond",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Riigi Tugiteenuste Keskus",
+    "count": 55,
+    "children": [
+      {
+        "name": "Riigi Tugiteenuste Keskus",
+        "count": 1
+      },
+      {
+        "name": "Peadirektori asetäitja vastutusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Finantsarvestuse osakond",
+        "count": 1
+      },
+      {
+        "name": "Riiginõuete osakond",
+        "count": 1
+      },
+      {
+        "name": "Maareformi nõuete halduse talitus",
+        "count": 4
+      },
+      {
+        "name": "Toetuste arendamise osakond",
+        "count": 1
+      },
+      {
+        "name": "Toetuste korraldamise talitus",
+        "count": 8
+      },
+      {
+        "name": "Teenuse disaini talitus",
+        "count": 5
+      },
+      {
+        "name": "Riskijuhtimise ja järelevalve talitus",
+        "count": 3
+      },
+      {
+        "name": "Piiriülese koostöö programmide korraldam",
+        "count": 2
+      },
+      {
+        "name": "Toetuste rakendamise osakond",
+        "count": 1
+      },
+      {
+        "name": "Sotsiaalse taristu, finantsinstrumentide",
+        "count": 11
+      },
+      {
+        "name": "Interreg projektide kontrolli talitus",
+        "count": 10
+      },
+      {
+        "name": "Toetuste maksete osakond",
+        "count": 5
+      },
+      {
+        "name": "Norra ja Euroopa Majanduspiirkonna serti",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Riigikantselei",
+    "count": 59,
+    "children": [
+      {
+        "name": "Riigikantselei",
+        "count": 3
+      },
+      {
+        "name": "Tugitegevuste osakond",
+        "count": 3
+      },
+      {
+        "name": "Peaministri büroo",
+        "count": 9
+      },
+      {
+        "name": "Strateegiabüroo",
+        "count": 10
+      },
+      {
+        "name": "Istungiosakond",
+        "count": 4
+      },
+      {
+        "name": "Õigusloomeosakond",
+        "count": 11
+      },
+      {
+        "name": "Euroopa Liidu sekretariaat",
+        "count": 11
+      },
+      {
+        "name": "Valitsuse kommunikatsioonibüroo",
+        "count": 4
+      },
+      {
+        "name": "Tippjuhtide kompetentsikeskus",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "Riigikogu Kantselei",
+    "count": 110,
+    "children": [
+      {
+        "count": 5
+      },
+      {
+        "name": "Riigikogu esimehe büroo",
+        "count": 3
+      },
+      {
+        "name": "Riigikogu I aseesimehe büroo",
+        "count": 1
+      },
+      {
+        "name": "Riigikogu II aseesimehe büroo",
+        "count": 3
+      },
+      {
+        "name": "Avalike suhete osakond",
+        "count": 2
+      },
+      {
+        "name": "Õigus- ja analüüsiosakond",
+        "count": 10
+      },
+      {
+        "name": "Istungiosakond",
+        "count": 3
+      },
+      {
+        "name": "Personaliosakond",
+        "count": 2
+      },
+      {
+        "name": "Infotehnoloogia osakond",
+        "count": 2
+      },
+      {
+        "name": "Välissuhete osakond",
+        "count": 1
+      },
+      {
+        "name": "Majandusosakond",
+        "count": 1
+      },
+      {
+        "name": "Euroopa Liidu asjade komisjon",
+        "count": 4
+      },
+      {
+        "name": "Keskkonnakomisjon",
+        "count": 3
+      },
+      {
+        "name": "Kultuurikomisjon",
+        "count": 3
+      },
+      {
+        "name": "Maaelukomisjon",
+        "count": 3
+      },
+      {
+        "name": "Majanduskomisjon",
+        "count": 5
+      },
+      {
+        "name": "Põhiseaduskomisjon",
+        "count": 4
+      },
+      {
+        "name": "Rahanduskomisjon",
+        "count": 5
+      },
+      {
+        "name": "Riigikaitsekomisjon",
+        "count": 3
+      },
+      {
+        "name": "Sotsiaalkomisjon",
+        "count": 5
+      },
+      {
+        "name": "Väliskomisjon",
+        "count": 3
+      },
+      {
+        "name": "Õiguskomisjon",
+        "count": 3
+      },
+      {
+        "name": "Julgeolekuasutuste järelevalve erikomisjon",
+        "count": 2
+      },
+      {
+        "name": "Korruptsioonivastane erikomisjon",
+        "count": 1
+      },
+      {
+        "name": "Riigieelarve kontrolli erikomisjon",
+        "count": 2
+      },
+      {
+        "name": "Eesti Keskerakonna fraktsioon",
+        "count": 5
+      },
+      {
+        "name": "Eesti Konservatiivse Rahvaerakonna fraktsioon",
+        "count": 6
+      },
+      {
+        "name": "Eesti Reformierakonna fraktsioon",
+        "count": 10
+      },
+      {
+        "name": "Isamaa fraktsioon",
+        "count": 4
+      },
+      {
+        "name": "Sotsiaaldemokraatliku Erakonna fraktsioon",
+        "count": 4
+      },
+      {
+        "name": "Riigi valimisteenistus",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Riigikohus",
+    "count": 76,
+    "children": [
+      {
+        "name": "Riigikohus",
+        "count": 2
+      },
+      {
+        "name": "administratsioon",
+        "count": 1
+      },
+      {
+        "name": "personaliosakond",
+        "count": 3
+      },
+      {
+        "name": "üldosakond",
+        "count": 8
+      },
+      {
+        "name": "õigusteabe- ja koolitusosakond",
+        "count": 4
+      },
+      {
+        "name": "majandusosakond",
+        "count": 4
+      },
+      {
+        "name": "põhiseaduslikkuse järelevalve kolleegium",
+        "count": 4
+      },
+      {
+        "name": "halduskolleegium",
+        "count": 15
+      },
+      {
+        "name": "kriminaalkolleegium",
+        "count": 14
+      },
+      {
+        "name": "tsiviilkolleegium",
+        "count": 21
+      }
+    ]
+  },
+  {
+    "name": "Riigikontroll",
+    "count": 61,
+    "children": [
+      {
+        "name": "Riigikontroll",
+        "count": 2
+      },
+      {
+        "name": "Auditiosakond",
+        "count": 50
+      },
+      {
+        "name": "Analüüsiosakond",
+        "count": 4
+      },
+      {
+        "name": "Arendus- ja haldusteenistus",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "Riikliku Lepitaja Kantselei",
+    "count": 1,
+    "children": [
+      {
+        "name": "Riikliku Lepitaja Kantselei",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Sisekaitseakadeemia",
+    "count": 73,
+    "children": [
+      {
+        "name": "õigus- ja sotsiaalteaduste keskus",
+        "count": 1
+      },
+      {
+        "name": "Politsei- ja piirivalvekolledž",
+        "count": 4
+      },
+      {
+        "name": "direktori asetäitja vastutusala",
+        "count": 3
+      },
+      {
+        "name": "süüteomenetluse õppetool",
+        "count": 7
+      },
+      {
+        "name": "turvataktika õppetool",
+        "count": 8
+      },
+      {
+        "name": "piirihalduse õppetool",
+        "count": 4
+      },
+      {
+        "name": "teenistuskoerte koolituskeskus",
+        "count": 5
+      },
+      {
+        "name": "korrakaitse õppetool",
+        "count": 5
+      },
+      {
+        "name": "Päästekolledž",
+        "count": 7
+      },
+      {
+        "name": "kriisireguleerimise ja tuleohutuse ÕT",
+        "count": 9
+      },
+      {
+        "name": "droonikeskus",
+        "count": 1
+      },
+      {
+        "name": "päästetööde õppetool",
+        "count": 10
+      },
+      {
+        "name": "Justiitskolledž",
+        "count": 1
+      },
+      {
+        "name": "vangistuskorralduse õppetool",
+        "count": 4
+      },
+      {
+        "name": "sisejulgeoleku instituut",
+        "count": 1
+      },
+      {
+        "name": "täiendusõppe keskus",
+        "count": 1
+      },
+      {
+        "name": "haldusosakond",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Siseministeerium",
+    "count": 133,
+    "children": [
+      {
+        "name": "Siseministeerium",
+        "count": 10
+      },
+      {
+        "name": "RKP asekantsleri valdkond",
+        "count": 1
+      },
+      {
+        "name": "rahvastiku toimingute osakond",
+        "count": 26
+      },
+      {
+        "name": "usuasjade osakond",
+        "count": 2
+      },
+      {
+        "name": "rahvastiku- ja perepoliitika osakond",
+        "count": 4
+      },
+      {
+        "name": "kodanikuühiskonna ja kohanemispoliitika",
+        "count": 4
+      },
+      {
+        "name": "SJKKMP asekantsleri valdkond",
+        "count": 1
+      },
+      {
+        "name": "korrakaitse- ja kriminaalpoliitika osak",
+        "count": 8
+      },
+      {
+        "name": "kodakondsus- ja rändepoliitika osakond",
+        "count": 12
+      },
+      {
+        "name": "piirivalvepoliitika osakond",
+        "count": 5
+      },
+      {
+        "name": "PHK asekantsleri valdkond",
+        "count": 1
+      },
+      {
+        "name": "pääste- ja kriisireguleerimispoliitika o",
+        "count": 9
+      },
+      {
+        "name": "teabeseireosakond",
+        "count": 10
+      },
+      {
+        "name": "välisvahendite osakond",
+        "count": 10
+      },
+      {
+        "name": "kantsleri juhtimisala",
+        "count": 1
+      },
+      {
+        "name": "personalipoliitika osakond",
+        "count": 4
+      },
+      {
+        "name": "siseauditi osakond",
+        "count": 7
+      },
+      {
+        "name": "Euroopa Liidu ja välissuhete osakond",
+        "count": 6
+      },
+      {
+        "name": "strateegia- ja arendusosakond",
+        "count": 5
+      },
+      {
+        "name": "VPT asekantsleri valdkond",
+        "count": 1
+      },
+      {
+        "name": "õigusosakond",
+        "count": 4
+      },
+      {
+        "name": "info- ja varahaldusosakond",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Soolise võrdõiguslikkuse ja võrdse kohtlemise voliniku kantselei",
+    "count": 5,
+    "children": [
+      {
+        "name": "Soolise võrdõiguslikkuse volinik",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "Sotsiaalkindlustusamet",
+    "count": 392,
+    "children": [
+      {
+        "name": "Sotsiaalkindlustusamet",
+        "count": 2
+      },
+      {
+        "name": "Finants- ja arendusosakond",
+        "count": 2
+      },
+      {
+        "name": "Finantsarvestuse talitus",
+        "count": 5
+      },
+      {
+        "name": "Sissenõudmise talitus",
+        "count": 7
+      },
+      {
+        "name": "Analüüsitalitus",
+        "count": 1
+      },
+      {
+        "name": "Kvaliteediosakond",
+        "count": 2
+      },
+      {
+        "name": "Õiguse talitus",
+        "count": 11
+      },
+      {
+        "name": "Järelevalve talitus",
+        "count": 9
+      },
+      {
+        "name": "Hüvitiste osakond",
+        "count": 1
+      },
+      {
+        "name": "Äriteenuste talitus",
+        "count": 7
+      },
+      {
+        "name": "Menetlustalitus",
+        "count": 110
+      },
+      {
+        "name": "Ekspertiisi ja sotsiaaltoetuste talitus",
+        "count": 29
+      },
+      {
+        "name": "Erihoolekande ja rehabilitatsiooni talit",
+        "count": 48
+      },
+      {
+        "name": "Abivahendite talitus",
+        "count": 3
+      },
+      {
+        "name": "Ohvriabi ja ennetusteenuste osakond",
+        "count": 3
+      },
+      {
+        "name": "Ennetustalitus",
+        "count": 1
+      },
+      {
+        "name": "Ohvriabi talitus",
+        "count": 29
+      },
+      {
+        "name": "Lastekaitse osakond",
+        "count": 6
+      },
+      {
+        "name": "Arendus- ja ennetustalitus",
+        "count": 16
+      },
+      {
+        "name": "Nõustamisteenuste talitus",
+        "count": 14
+      },
+      {
+        "name": "Asendushoolduse talitus",
+        "count": 10
+      },
+      {
+        "name": "Klienditeeninduse osakond",
+        "count": 76
+      }
+    ]
+  },
+  {
+    "name": "Sotsiaalministeerium",
+    "count": 150,
+    "children": [
+      {
+        "name": "Sotsiaalministeerium",
+        "count": 5
+      },
+      {
+        "name": "Kantsleri vastutusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Siseauditi osakond",
+        "count": 4
+      },
+      {
+        "name": "Analüüsi ja statistika osakond",
+        "count": 16
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 8
+      },
+      {
+        "name": "Euroopa Liidu ja väliskoostöö osakond",
+        "count": 8
+      },
+      {
+        "name": "e-teenuste asekantsleri vastutusvaldkond",
+        "count": 2
+      },
+      {
+        "name": "Nutika arengu toetamise osakond",
+        "count": 18
+      },
+      {
+        "name": "Finantsosakond",
+        "count": 6
+      },
+      {
+        "name": "Tööala asekantsleri vastutusvaldkond",
+        "count": 2
+      },
+      {
+        "name": "Tööhõive osakond",
+        "count": 9
+      },
+      {
+        "name": "Töö- ja pensionipoliitika osakond",
+        "count": 10
+      },
+      {
+        "name": "Sotsiaalala asekantsleri vastutusvaldkon",
+        "count": 1
+      },
+      {
+        "name": "Hoolekande osakond",
+        "count": 13
+      },
+      {
+        "name": "Võrdsuspoliitikate osakond",
+        "count": 9
+      },
+      {
+        "name": "Laste heaolu osakond",
+        "count": 6
+      },
+      {
+        "name": "Terviseala asekantsleri vastutusvaldkond",
+        "count": 2
+      },
+      {
+        "name": "Tervisesüsteemi arendamise osakond",
+        "count": 15
+      },
+      {
+        "name": "Rahvatervise osakond",
+        "count": 11
+      },
+      {
+        "name": "Ravimiosakond",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "Statistikaamet",
+    "count": 132,
+    "children": [
+      {
+        "name": "Statistikaamet",
+        "count": 2
+      },
+      {
+        "name": "Peadirektori asetäitja infotehnoloogia",
+        "count": 1
+      },
+      {
+        "name": "Peadirektori asetäitja",
+        "count": 2
+      },
+      {
+        "name": "Äritehnoloogia osakond",
+        "count": 4
+      },
+      {
+        "name": "Finantsosakond",
+        "count": 3
+      },
+      {
+        "name": "Andmetöötluse arendusosakond",
+        "count": 10
+      },
+      {
+        "name": "Andmehõive ja töötluse osakond",
+        "count": 20
+      },
+      {
+        "name": "Rahvastiku- ja sotsiaalstatistika osakon",
+        "count": 22
+      },
+      {
+        "name": "Ettevõtlus- ja põllumajandusstatistika o",
+        "count": 28
+      },
+      {
+        "name": "Majandus- ja keskkonnastatistika osakond",
+        "count": 40
+      }
+    ]
+  },
+  {
+    "name": "Tallinna Halduskohus",
+    "count": 46,
+    "children": [
+      {
+        "name": "Kohtunikud",
+        "count": 15
+      },
+      {
+        "name": "Õigusteenistus",
+        "count": 16
+      },
+      {
+        "name": "Kantselei",
+        "count": 5
+      },
+      {
+        "name": "Kohtu esimehe juhtimisvaldkond",
+        "count": 2
+      },
+      {
+        "name": "Kohtuistungiteenistus",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "Tallinna Ringkonnakohus",
+    "count": 72,
+    "children": [
+      {
+        "name": "Õigusteenistus",
+        "count": 7
+      },
+      {
+        "name": "Kantselei",
+        "count": 3
+      },
+      {
+        "name": "Haldusosakond",
+        "count": 2
+      },
+      {
+        "name": "Kriminaalkolleegium",
+        "count": 15
+      },
+      {
+        "name": "Tsiviilkolleegium",
+        "count": 30
+      },
+      {
+        "name": "Halduskolleegium",
+        "count": 13
+      },
+      {
+        "name": "Kohtu esimehe juhtimisvaldkond",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Tallinna Vangla",
+    "count": 322,
+    "children": [
+      {
+        "name": "Tallinna Vangla",
+        "count": 1
+      },
+      {
+        "name": "Direktori asetäitja I vastutusala",
+        "count": 1
+      },
+      {
+        "name": "Direktori asetäitja II vastutusala",
+        "count": 1
+      },
+      {
+        "name": "Direktori asetäitja III vastutusala",
+        "count": 1
+      },
+      {
+        "name": "Personal",
+        "count": 3
+      },
+      {
+        "name": "Teabe- ja uurimisosakond",
+        "count": 12
+      },
+      {
+        "name": "Sisekontroll",
+        "count": 3
+      },
+      {
+        "name": "Taasühiskonnastamine",
+        "count": 20
+      },
+      {
+        "name": "Pärnu kriminaalhooldusosakond",
+        "count": 2
+      },
+      {
+        "name": "Haapsalu esindus",
+        "count": 3
+      },
+      {
+        "name": "Rapla esindus",
+        "count": 3
+      },
+      {
+        "name": "Kuressaare esindus",
+        "count": 2
+      },
+      {
+        "name": "Paide esindus",
+        "count": 2
+      },
+      {
+        "name": "Pärnu esindus",
+        "count": 7
+      },
+      {
+        "name": "Ida-Harju kriminaalhooldusosakond",
+        "count": 20
+      },
+      {
+        "name": "Lääne-Harju kriminaalhooldusosakond",
+        "count": 24
+      },
+      {
+        "name": "Järelevalveosakond",
+        "count": 73
+      },
+      {
+        "name": "Esimene üksus",
+        "count": 25
+      },
+      {
+        "name": "Teine üksus",
+        "count": 26
+      },
+      {
+        "name": "Kolmas üksus",
+        "count": 28
+      },
+      {
+        "name": "Neljas üksus",
+        "count": 23
+      },
+      {
+        "name": "Viies üksus",
+        "count": 20
+      },
+      {
+        "name": "Avavangla",
+        "count": 12
+      },
+      {
+        "name": "Saateüksus",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "name": "Tarbijakaitse ja Tehnilise Järelevalve Amet",
+    "count": 101,
+    "children": [
+      {
+        "name": "Sideosakond",
+        "count": 2
+      },
+      {
+        "name": "Tarbijakaitse ja Tehnilise Järelevalve A",
+        "count": 1
+      },
+      {
+        "name": "Tugiteenuste osakond",
+        "count": 4
+      },
+      {
+        "name": "Transpordiosakond",
+        "count": 13
+      },
+      {
+        "name": "Sagedushalduse talitus",
+        "count": 14
+      },
+      {
+        "name": "Side-ja meediateenuste talitus",
+        "count": 12
+      },
+      {
+        "name": "Ehitusosakond",
+        "count": 12
+      },
+      {
+        "name": "Tehnikaosakond",
+        "count": 18
+      },
+      {
+        "name": "Tarbimiskeskkonna osakond",
+        "count": 6
+      },
+      {
+        "name": "Tarbijavaidluste komisjoni sekretariaat",
+        "count": 9
+      },
+      {
+        "name": "Euroopa Liidu tarbija nõustamiskeskus",
+        "count": 1
+      },
+      {
+        "name": "Kaubandustalitus",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "Tartu Halduskohus",
+    "count": 29,
+    "children": [
+      {
+        "name": "Kohtunikud",
+        "count": 7
+      },
+      {
+        "name": "Õigusteenistus",
+        "count": 16
+      },
+      {
+        "name": "Kantselei",
+        "count": 4
+      },
+      {
+        "name": "Kohtu esimehe juhtimisvaldkond",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Tartu Maakohus",
+    "count": 215,
+    "children": [
+      {
+        "name": "Kohtunikud",
+        "count": 30
+      },
+      {
+        "name": "Õigusteenistus",
+        "count": 70
+      },
+      {
+        "name": "Kohtu esimehe juhtimisvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Kantselei",
+        "count": 31
+      },
+      {
+        "name": "Kinnistusosakond",
+        "count": 27
+      },
+      {
+        "name": "Registriosakond",
+        "count": 20
+      },
+      {
+        "name": "Kinnistus- ja registriosakonna kohtudir",
+        "count": 1
+      },
+      {
+        "name": "Kinnistusosakonna kantselei",
+        "count": 12
+      },
+      {
+        "name": "Registriosakonna kantselei",
+        "count": 23
+      }
+    ]
+  },
+  {
+    "name": "Tartu Ringkonnakohus",
+    "count": 47,
+    "children": [
+      {
+        "name": "Õigusteenistus",
+        "count": 16
+      },
+      {
+        "name": "Kohtu esimehe juhtimisvaldkond",
+        "count": 2
+      },
+      {
+        "name": "Halduskolleegium",
+        "count": 4
+      },
+      {
+        "name": "Kriminaalkolleegium",
+        "count": 5
+      },
+      {
+        "name": "Tsiviilkolleegium",
+        "count": 6
+      },
+      {
+        "name": "Kantselei",
+        "count": 7
+      },
+      {
+        "name": "Haldusosakond",
+        "count": 6
+      },
+      {
+        "name": "Kohtudirektori juhtimisvaldkond",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Tartu Vangla",
+    "count": 286,
+    "children": [
+      {
+        "name": "Tartu Vangla",
+        "count": 1
+      },
+      {
+        "name": "Direktori asetäitja vastutusala",
+        "count": 1
+      },
+      {
+        "name": "Direktori asetäitja II vastutusala",
+        "count": 1
+      },
+      {
+        "name": "Personal",
+        "count": 3
+      },
+      {
+        "name": "Teabe- ja uurimisosakond",
+        "count": 10
+      },
+      {
+        "name": "Sisekontroll",
+        "count": 3
+      },
+      {
+        "name": "Taasühiskonnastamine",
+        "count": 18
+      },
+      {
+        "name": "Avavangla",
+        "count": 10
+      },
+      {
+        "name": "Kriminaalhooldusosakond",
+        "count": 1
+      },
+      {
+        "name": "Tartu esindus",
+        "count": 18
+      },
+      {
+        "name": "Jõgeva esindus",
+        "count": 1
+      },
+      {
+        "name": "Võru esindus",
+        "count": 2
+      },
+      {
+        "name": "Põlva esindus",
+        "count": 2
+      },
+      {
+        "name": "Valga esindus",
+        "count": 2
+      },
+      {
+        "name": "Viljandi esindus",
+        "count": 2
+      },
+      {
+        "name": "Järelevalveosakond",
+        "count": 61
+      },
+      {
+        "name": "Esimene üksus",
+        "count": 38
+      },
+      {
+        "name": "Teine üksus",
+        "count": 14
+      },
+      {
+        "name": "Kolmas üksus",
+        "count": 26
+      },
+      {
+        "name": "Neljas üksus",
+        "count": 30
+      },
+      {
+        "name": "Viies üksus",
+        "count": 28
+      },
+      {
+        "name": "Registrite arendamine",
+        "count": 3
+      },
+      {
+        "name": "Saateüksus",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "name": "Terviseamet",
+    "count": 126,
+    "children": [
+      {
+        "name": "Peadirektori asetäitja tervisekaitse ala",
+        "count": 1
+      },
+      {
+        "name": "Peadirektori vastutusvaldkond",
+        "count": 2
+      },
+      {
+        "name": "Meditsiiniseadmete osakond",
+        "count": 6
+      },
+      {
+        "name": "Erakorralise meditsiini osakond",
+        "count": 5
+      },
+      {
+        "name": "Tervishoiuteenuste osakond",
+        "count": 12
+      },
+      {
+        "name": "Nakkushaiguste seire ja epideemiat. osak",
+        "count": 8
+      },
+      {
+        "name": "Gripikeskus",
+        "count": 1
+      },
+      {
+        "name": "Keskkonnatervise osakond",
+        "count": 7
+      },
+      {
+        "name": "Kemikaaliohutuse osakond",
+        "count": 12
+      },
+      {
+        "name": "Kemikaali ja tooteohutuse büroo",
+        "count": 3
+      },
+      {
+        "name": "Põhja regionaalosakond",
+        "count": 23
+      },
+      {
+        "name": "Järvamaa esindus",
+        "count": 2
+      },
+      {
+        "name": "Raplamaa esindus",
+        "count": 1
+      },
+      {
+        "name": "Lõuna regionaalosakond",
+        "count": 13
+      },
+      {
+        "name": "Jõgevamaa esindus",
+        "count": 1
+      },
+      {
+        "name": "Põlvamaa esindus",
+        "count": 1
+      },
+      {
+        "name": "Valgamaa esindus",
+        "count": 1
+      },
+      {
+        "name": "Viljandimaa esindus",
+        "count": 2
+      },
+      {
+        "name": "Võrumaa esindus",
+        "count": 1
+      },
+      {
+        "name": "Ida regionaalosakond",
+        "count": 7
+      },
+      {
+        "name": "Lääne-Virumaa esindus",
+        "count": 3
+      },
+      {
+        "name": "Narva esindus",
+        "count": 1
+      },
+      {
+        "name": "Lääne regionaalosakond",
+        "count": 7
+      },
+      {
+        "name": "Hiiumaa esindus",
+        "count": 1
+      },
+      {
+        "name": "Läänemaa esindus",
+        "count": 2
+      },
+      {
+        "name": "Saaremaa esindus",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Tööinspektsioon",
+    "count": 60,
+    "children": [
+      {
+        "name": "Tööinspektsioon",
+        "count": 3
+      },
+      {
+        "name": "Järelevalve osakond",
+        "count": 6
+      },
+      {
+        "name": "Tootmise- ja tööstussektor",
+        "count": 8
+      },
+      {
+        "name": "Ehitus- ja taristusektor",
+        "count": 7
+      },
+      {
+        "name": "Teenindus ja avalik haldus",
+        "count": 6
+      },
+      {
+        "name": "Töötervishoid",
+        "count": 4
+      },
+      {
+        "name": "Transpordisektor ja sõidukijuhid",
+        "count": 3
+      },
+      {
+        "name": "Töösuhted ja majandustegevus",
+        "count": 8
+      },
+      {
+        "name": "Uurimistalitus",
+        "count": 7
+      },
+      {
+        "name": "Töövaidluskomisjonid",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "Vabariigi Presidendi Kantselei",
+    "count": 11,
+    "children": [
+      {
+        "count": 8
+      },
+      {
+        "name": "Siseosakond",
+        "count": 2
+      },
+      {
+        "name": "Välisosakond",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Veeteede Amet",
+    "count": 43,
+    "children": [
+      {
+        "name": "Veeteede Amet",
+        "count": 1
+      },
+      {
+        "name": "Üldteenistus",
+        "count": 1
+      },
+      {
+        "name": "Meresõiduohutuse teenistus",
+        "count": 1
+      },
+      {
+        "name": "Laevade järelevalve osakond",
+        "count": 15
+      },
+      {
+        "name": "Väike- ja siseveelaevade osakond",
+        "count": 8
+      },
+      {
+        "name": "Sadamate järelevalve osakond",
+        "count": 4
+      },
+      {
+        "name": "Meremeeste diplomeerimise osakond",
+        "count": 7
+      },
+      {
+        "name": "Hüdrograafia ja navigatsioonimärg teenis",
+        "count": 1
+      },
+      {
+        "name": "Laevateede osakond",
+        "count": 2
+      },
+      {
+        "name": "Hüdrograafiaosakond",
+        "count": 2
+      },
+      {
+        "name": "Navigatsioonimärgistuse osakond",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Veterinaar- ja Toiduamet",
+    "count": 290,
+    "children": [
+      {
+        "name": "Veterinaar- ja Toiduamet",
+        "count": 6
+      },
+      {
+        "name": "Loomatervise ja -heaolu osakond",
+        "count": 28
+      },
+      {
+        "name": "Kalapüügi- ja turukorralduse osakond",
+        "count": 27
+      },
+      {
+        "name": "Toiduosakond",
+        "count": 18
+      },
+      {
+        "name": "Õigusosakond",
+        "count": 3
+      },
+      {
+        "name": "Luhamaa piiripunkt",
+        "count": 7
+      },
+      {
+        "name": "Narva piiripunkt",
+        "count": 7
+      },
+      {
+        "name": "Muuga ja Paldiski piiripunkt",
+        "count": 7
+      },
+      {
+        "name": "Koidula piiripunkt",
+        "count": 1
+      },
+      {
+        "name": "Põhja regioon",
+        "count": 46
+      },
+      {
+        "name": "Ida regioon",
+        "count": 52
+      },
+      {
+        "name": "Lõuna regioon",
+        "count": 41
+      },
+      {
+        "name": "Lääne regioon",
+        "count": 47
+      }
+    ]
+  },
+  {
+    "name": "Viru Maakohus",
+    "count": 112,
+    "children": [
+      {
+        "name": "Õigusteenistus",
+        "count": 27
+      },
+      {
+        "name": "Kantselei",
+        "count": 43
+      },
+      {
+        "name": "Haldusosakond",
+        "count": 12
+      },
+      {
+        "name": "Kohtunikud",
+        "count": 27
+      },
+      {
+        "name": "Kohtu esimehe juhtimisvaldkond",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Viru Vangla",
+    "count": 302,
+    "children": [
+      {
+        "name": "Viru Vangla",
+        "count": 1
+      },
+      {
+        "name": "Direktori asetäitja vastutusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Direktori asetäitja III vastutusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Personal",
+        "count": 3
+      },
+      {
+        "name": "Teabe-ja uurimisosakond",
+        "count": 10
+      },
+      {
+        "name": "Sisekontroll",
+        "count": 3
+      },
+      {
+        "name": "Taasühiskonnastamise ametnikud",
+        "count": 10
+      },
+      {
+        "name": "Avavanglaosakond",
+        "count": 8
+      },
+      {
+        "name": "Kriminaalhooldusosakond",
+        "count": 5
+      },
+      {
+        "name": "Jõhvi talitus",
+        "count": 6
+      },
+      {
+        "name": "Rakvere talitus",
+        "count": 6
+      },
+      {
+        "name": "Narva talitus",
+        "count": 7
+      },
+      {
+        "name": "Sillamäe esindus",
+        "count": 1
+      },
+      {
+        "name": "Järelevalveosakond",
+        "count": 69
+      },
+      {
+        "name": "Esimene üksus",
+        "count": 23
+      },
+      {
+        "name": "Teine üksus",
+        "count": 20
+      },
+      {
+        "name": "Kolmas üksus",
+        "count": 67
+      },
+      {
+        "name": "Neljas üksus",
+        "count": 24
+      },
+      {
+        "name": "Viies üksus",
+        "count": 22
+      },
+      {
+        "name": "Relvastatud üksus",
+        "count": 2
+      },
+      {
+        "name": "Saateüksus",
+        "count": 9
+      },
+      {
+        "name": "Haldusosakond",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "Välisministeerium",
+    "count": 70,
+    "children": [
+      {
+        "name": "Välisministeerium",
+        "count": 2
+      },
+      {
+        "name": "Kantsleri vastutusvaldkond",
+        "count": 2
+      },
+      {
+        "name": "Poliitikavaldkond",
+        "count": 1
+      },
+      {
+        "name": "Välismajanduse ja arengukoostöövaldkond",
+        "count": 1
+      },
+      {
+        "name": "Euroopa valdkond",
+        "count": 1
+      },
+      {
+        "name": "Juriidiline ja konsulaarvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Haldusvaldkond",
+        "count": 1
+      },
+      {
+        "name": "Poliitikaosakond",
+        "count": 1
+      },
+      {
+        "name": "Seireosakond",
+        "count": 1
+      },
+      {
+        "name": "Välismajanduse ja arengukoostöö osakond",
+        "count": 1
+      },
+      {
+        "name": "Juriidiline osakond",
+        "count": 1
+      },
+      {
+        "name": "Riikliku protokolli osakond",
+        "count": 1
+      },
+      {
+        "name": "Avalike suhete osakond",
+        "count": 3
+      },
+      {
+        "name": "Personaliosakond",
+        "count": 1
+      },
+      {
+        "name": "Personaliosakond 1. büroo (personalibüroo)",
+        "count": 1
+      },
+      {
+        "name": "Haldusosakond",
+        "count": 1
+      },
+      {
+        "name": "Konsulaarosakond",
+        "count": 1
+      },
+      {
+        "name": "Rahandusosakond",
+        "count": 1
+      },
+      {
+        "name": "Infotehnoloogia osakond",
+        "count": 1
+      },
+      {
+        "name": "Siseauditiosakond",
+        "count": 1
+      },
+      {
+        "name": "Euroopa osakond",
+        "count": 1
+      },
+      {
+        "name": "Poliitika planeerimise osakond",
+        "count": 1
+      },
+      {
+        "name": "Küberdiplomaatia osakond",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Kopenhaagenis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Vilniuses",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Riias",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Pariisis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Stockholmis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Berliinis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Helsingis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Londonis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Washingtonis",
+        "count": 1
+      },
+      {
+        "name": "Alaline esindus ÜRO juures",
+        "count": 1
+      },
+      {
+        "name": "Alaline esindus Genfis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Viinis",
+        "count": 1
+      },
+      {
+        "name": "Alaline esindus Euroopa Nõukogu juures",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Moskvas",
+        "count": 1
+      },
+      {
+        "name": "Peakonsulaat Peterburis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Kiievis",
+        "count": 1
+      },
+      {
+        "name": "Alaline esindus OSCE juures",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Varssavis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Minskis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Tokyos",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Roomas",
+        "count": 1
+      },
+      {
+        "name": "Alaline esindus Euroopa Liidu juures",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Haagis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Madridis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Dublinis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Ateenas",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Lissabonis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Prahas",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Pekingis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Ottawas",
+        "count": 1
+      },
+      {
+        "name": "Alaline esindus NATO juures",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Budapestis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Ankaras",
+        "count": 1
+      },
+      {
+        "name": "Peakonsulaat New Yorgis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond New Delhis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Thbilisis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Tel Avivis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Kairos",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Nur-Sultanis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Canberras",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Bukarestis",
+        "count": 1
+      },
+      {
+        "name": "Suursaatkond Abu Dhabis",
+        "count": 1
+      },
+      {
+        "name": "Peakonsulaat San Franciscos",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Õigukantsleri Kantselei",
+    "count": 36,
+    "children": [
+      {
+        "name": "Juhtkond",
+        "count": 5
+      },
+      {
+        "name": "Õigusteenistus",
+        "count": 4
+      },
+      {
+        "name": "Sotsiaalstete õiguste osakond",
+        "count": 6
+      },
+      {
+        "name": "Ettevõtluskeskkonna osakond",
+        "count": 5
+      },
+      {
+        "name": "Õiguskorra kaitse osakond",
+        "count": 6
+      },
+      {
+        "name": "Kontrollkäikude osakond",
+        "count": 5
+      },
+      {
+        "name": "Laste ja noorte õiguste osakond",
+        "count": 4
+      },
+      {
+        "name": "Üldosakond",
+        "count": 1
+      }
+    ]
+  }
+]
