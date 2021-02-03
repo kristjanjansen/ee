@@ -84,6 +84,9 @@ const App = {
                         color: color(d.title),
                         url: service.url,
                         service: true,
+                        stats:
+                          service.serviceStatistics[0].availableChannel[0]
+                            .channelStatistics.transaction,
                       };
                     });
                   return {
@@ -128,7 +131,7 @@ const App = {
       })
     );
 
-    watchEffect(() => console.log(elements.value));
+    //watchEffect(() => console.log(elements.value));
 
     return { elements, width, height, zoom };
   },
@@ -157,7 +160,7 @@ const App = {
     }"
   >
     <component :is="el.data.url ? 'a' : 'div'" :href="el.data.url" target="_blank">
-    <span :style="{color: el.data.color}">{{ el.data.service ? '✋' : el.data.name.endsWith('ministeerium') ? '🕋' : '🏢'}}</span> {{ el.data.name ? el.data.name : el.data }}
+    <span :style="{color: el.data.color}">{{ el.data.service ? '✋' : el.data.name.endsWith('ministeerium') ? '🕋' : '🏢'}}</span> {{ el.data.name ? el.data.name : el.data }} {{ el.data.stats}}
     </component>
   </div>
   </div>
