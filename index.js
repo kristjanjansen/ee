@@ -109,7 +109,8 @@ const App = {
       :d="el.path"
       :stroke="el.data.color"
       fill="none"
-      opacity="0.2"
+      :opacity="1 - zoom + 0.2"
+
     />
   </svg>
   <div
