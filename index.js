@@ -7,7 +7,8 @@ import {
 
 import * as d3 from "https://cdn.skypack.dev/d3";
 import flattenTree from "https://cdn.skypack.dev/tree-flatten";
-console.log(flattenTree);
+
+export const unique = (arr) => [...new Set(arr)];
 
 const App = {
   setup() {
@@ -18,10 +19,20 @@ const App = {
 
     const tree = d3.tree().size([5000, 1000]);
     const data = computed(() => {
-      const children = sourceData.value.map((d) => ({
-        name: d.title,
-        children: d.related.map((c) => c.title),
-      }));
+      const children = sourceData.value.map((d) => {
+        const domains = unique(d.related.map((r) => r.domain));
+        console.log(domains);
+        return {
+          name: d.title,
+          // children: d.related.map((r) => r.title),
+          children: domains.map((domain) => ({
+            name: domain,
+            children: d.related
+              .filter((r) => r.domain === domain)
+              .map((r) => r.title),
+          })),
+        };
+      });
 
       return d3.hierarchy({
         name: "Ministeeriumid",
@@ -47,7 +58,6 @@ const App = {
   <div 
     v-for="el in elements"
     :style="{
-      border: '1px solid red',
       position: 'absolute',
       left: el.y + 'px',
       top: el.x + 'px',
