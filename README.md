@@ -1,8 +1,12 @@
 ## About
 
-Estonian goverment structure analyzer, based on open data.
+Estonian goverment structure analyzer and visualizer, based on open data.
 
-## Usage
+## Demo
+
+https://kristjanjansen.github.io/ee/
+
+## Getting the data
 
 ### Ministries structure
 
