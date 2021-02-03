@@ -123,7 +123,7 @@ const App = {
                     .filter(
                       (service) =>
                         service.provider.name.toLowerCase() ===
-                        r.title.toLowerCase()
+                        r.title.replace(" (RMK)", "").toLowerCase()
                     )
                     .map((service) => {
                       return {
@@ -141,7 +141,7 @@ const App = {
                     .filter(
                       (system) =>
                         system.details.owner.name.toLowerCase() ===
-                        r.title.toLowerCase()
+                        r.title.replace(" (RMK)", "").toLowerCase()
                     )
                     .map((system) => {
                       return {
@@ -173,7 +173,7 @@ const App = {
                   }
 
                   return {
-                    name: r.title,
+                    name: r.title.replace(" (RMK)", ""),
                     url: r.url,
                     color: color(d.title),
                     children,
