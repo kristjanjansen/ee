@@ -15,7 +15,7 @@ const App = {
     const zoom = ref(0.6);
 
     const width = ref(1500);
-    const height = ref(10000);
+    const height = ref(13000);
 
     const sourceData = ref([]);
     fetch("./structure.json")
@@ -52,7 +52,12 @@ const App = {
           url: d.url,
           color: color(d.title),
           children: [
-            { name: "Teenused", color: color(d.title), children: services },
+            {
+              name: "Teenused",
+              color: color(d.title),
+              service: true,
+              children: services,
+            },
             ...domains.map((domain) => {
               const relatedDomains = d.related.filter(
                 (r) => r.subdomain === domain
@@ -79,7 +84,16 @@ const App = {
                     name: r.title,
                     url: r.url,
                     color: color(d.title),
-                    children: services,
+                    children: services.length
+                      ? [
+                          {
+                            name: "Teenused",
+                            color: color(d.title),
+                            service: true,
+                            children: services,
+                          },
+                        ]
+                      : [],
                   };
                 }),
               };
@@ -133,7 +147,7 @@ const App = {
       top: el.x + 'px',
       whiteSpace: 'nowrap',
       textShadow: '1px white',
-      transform: 'translateY(-0.6em)',
+      transform: 'translateY(-12px)',
     }"
   >
     <component :is="el.data.url ? 'a' : 'div'" :href="el.data.url" target="_blank">
