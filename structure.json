@@ -501,7 +501,58 @@
     "title": "Justiitsministeerium",
     "url": "http://www.just.ee/",
     "address": "Suur-Ameerika 1 15006 Tallinn Harju maakond",
-    "services": [],
+    "services": [
+      {
+        "title": "Kinnistusraamatu teadete vaatamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/puudutatud_isiku_teadete_paring",
+        "domain": "eluase"
+      },
+      {
+        "title": "Kodaniku kinnistud",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/kodaniku_kinnistud_1",
+        "domain": "eluase"
+      },
+      {
+        "title": "Menetluses olevad kinnistamisavaldused",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/mind_puudutavad_menetluses_olevad_kinnistamisavaldused",
+        "domain": "eluase"
+      },
+      {
+        "title": "Pärandvara hoiumeetmete kanne",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/oigusabi_2/parandvara_hoiumeetmete_kanne",
+        "domain": "oigusabi_2"
+      },
+      {
+        "title": "Pärimismenetluse algatamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/oigusabi_2/parimismenetluse_algatamise_kanne",
+        "domain": "oigusabi_2"
+      },
+      {
+        "title": "Pärimistunnistuse tõestamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/oigusabi_2/parimistunnistuse_kanne",
+        "domain": "oigusabi_2"
+      },
+      {
+        "title": "Testamendi või pärimislepingu tõestamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/oigusabi_2/testament_parimisleping",
+        "domain": "oigusabi_2"
+      },
+      {
+        "title": "Kodusest testamendist teavitamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/raha_ja_omand_1/kodusest_testamendist_teavitamine",
+        "domain": "raha_ja_omand"
+      },
+      {
+        "title": "Minu testamendid ja minuga seotud pärimismenetlused",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/perekond_1/minu_parimisregistri_andmed",
+        "domain": "perekond"
+      },
+      {
+        "title": "Pärandaja otsing",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/perekond_1/parimisregistri_andmed",
+        "domain": "perekond"
+      }
+    ],
     "related": [
       {
         "title": "Andmekaitse inspektsioon",
@@ -1013,7 +1064,53 @@
     "title": "Majandus- ja kommunikatsiooniministeerium",
     "url": "https://www.mkm.ee",
     "address": "Suur-Ameerika 1 10122 Tallinn Harju maakond",
-    "services": [],
+    "services": [
+      {
+        "title": "Minuga seotud dokumendid ehitisregistris",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/isikuga_seotud_dokumendid_ehitisregistris_2",
+        "domain": "eluase"
+      },
+      {
+        "title": "Minuga seotud vallasvara ehitisregistris",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/registreeritud_vallasvara_andmeid_ehitisregistris",
+        "domain": "eluase"
+      },
+      {
+        "title": "Minu kinnistul paiknevad ehitised ehitisregistris",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/ehitised_katastriuksustel_alamparing",
+        "domain": "eluase"
+      },
+      {
+        "title": "Isiklike sõidukite päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/liiklus_ja_liiklusvahendid/paring1",
+        "domain": "liiklus_ja_liiklusvahendid"
+      },
+      {
+        "title": "Juhilubade ja tunnistuste kehtivuse kontrollimine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/liiklus_ja_liiklusvahendid/kod_muu_dok",
+        "domain": "liiklus_ja_liiklusvahendid"
+      },
+      {
+        "title": "Juhilubade päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/liiklus_ja_liiklusvahendid/jlparing1",
+        "domain": "liiklus_ja_liiklusvahendid"
+      },
+      {
+        "title": "Kodaniku väikelaevade päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/liiklus_ja_liiklusvahendid/vlaev_kod",
+        "domain": "liiklus_ja_liiklusvahendid"
+      },
+      {
+        "title": "Sisenemine majandustegevuse registrisse (MTR)",
+        "url": "https://www.eesti.ee/est/teenused/ettevotja/load_ja_registreeringud/sisenemine_mtr_i_ettevotja_kasutajana_1",
+        "domain": "load_ja_registreeringud"
+      },
+      {
+        "title": "Kiri ettevõtjalt (erinevad asutused ja vallad)",
+        "url": "https://www.eesti.ee/est/teenused/ettevotja/kohalikud_omavalitsused_1/kiri_ettevotjalt",
+        "domain": "kohalikud_omavalitsused"
+      }
+    ],
     "related": [
       {
         "title": "AS A. L. A. R. A.",
@@ -1343,7 +1440,103 @@
     "title": "Siseministeerium",
     "url": "http://www.siseministeerium.ee",
     "address": "Pikk 61 15065 Tallinn Harju maakond",
-    "services": [],
+    "services": [
+      {
+        "title": "Elukohateate esitamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/rahvastikuregister_elukohateade",
+        "domain": "eluase"
+      },
+      {
+        "title": "Eluruumi omaniku õigustatud nõudmine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/eluruumi_omaniku_oigustatud_noudmine_1",
+        "domain": "eluase"
+      },
+      {
+        "title": "Enda andmete päring (rahvastikuregister)",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/enda_andmete_paring_1",
+        "domain": "eluase"
+      },
+      {
+        "title": "Enda ja oma alaealiste laste andmete päring (rahvastikuregister)",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/eluase_1/isikkodanik",
+        "domain": "eluase"
+      },
+      {
+        "title": "Enda andmete muutmine rahvastikuregistris",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/riik_ja_kodanik/kodaniku_voimalus_teavitada_oma_statistiliste_andmete_rahvus_emakeel_haridus_tegevusala_muutumisest",
+        "domain": "riik_ja_kodanik"
+      },
+      {
+        "title": "Isikut tõendavate dokumentide päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/riik_ja_kodanik/isikukaart",
+        "domain": "riik_ja_kodanik"
+      },
+      {
+        "title": "Vea leidmine rahvastikuregistri andmetest",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/riik_ja_kodanik/vea_leidmine_rahvastikuregistri_andmetest",
+        "domain": "riik_ja_kodanik"
+      },
+      {
+        "title": "Aadressi päring (RR partnerile)",
+        "url": "https://www.eesti.ee/est/teenused/ametnik/rr_partnerile/aadressiparing",
+        "domain": "rr_partnerile"
+      },
+      {
+        "title": "Dokumentide päring (RR partnerile)",
+        "url": "https://www.eesti.ee/est/teenused/ametnik/rr_partnerile/dokumendiparing",
+        "domain": "rr_partnerile"
+      },
+      {
+        "title": "Isikuandmete päring (RR partnerile)",
+        "url": "https://www.eesti.ee/est/teenused/ametnik/rr_partnerile/isikuandmete_paring",
+        "domain": "rr_partnerile"
+      },
+      {
+        "title": "Isikut tõendava dokumendi kehtivuse kontroll (RR partnerile)",
+        "url": "https://www.eesti.ee/est/teenused/ametnik/rr_partnerile/rr_dokumendi_kehtivuse_kontroll",
+        "domain": "rr_partnerile"
+      },
+      {
+        "title": "Minu tehtud päringud rahvastikuregistris (RR partnerile)",
+        "url": "https://www.eesti.ee/est/teenused/ametnik/rr_partnerile/rr_minu_tehtud_paringud",
+        "domain": "rr_partnerile"
+      },
+      {
+        "title": "Lapse sünni registreerimine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/perekond_1/lapse_sunni_registreerimine",
+        "domain": "perekond"
+      },
+      {
+        "title": "Nimede statistika päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/perekond_1/nimede_statistika_paring_1",
+        "domain": "perekond"
+      },
+      {
+        "title": "Nime sobivus sünni registreerimiseks",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/perekond_1/nime_paring_sunni_registreerimiseks",
+        "domain": "perekond"
+      },
+      {
+        "title": "Perekonnasündmuse dokumendi sisestamise tellimine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/perekond_1/perekonnaseisudokumendi_sisestamise_tellimine",
+        "domain": "perekond"
+      },
+      {
+        "title": "Perekonnasündmuse tõendi väljastamine",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/perekond_1/perekonnasundmuse_toendi_valjastamine",
+        "domain": "perekond"
+      },
+      {
+        "title": "Sugulussuhete päring",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/perekond_1/sugulussuhete_paring_1",
+        "domain": "perekond"
+      },
+      {
+        "title": "Rahvastikuregister",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/rahvastikuregister_2",
+        "domain": "rahvastikuregister_2"
+      }
+    ],
     "related": [
       {
         "title": "Eesti Siseturvalisuse Muuseum",
@@ -1393,7 +1586,13 @@
     "title": "Sotsiaalministeerium",
     "url": "https://www.sm.ee",
     "address": "Suur-Ameerika 1 10122 Tallinn Harju maakond",
-    "services": [],
+    "services": [
+      {
+        "title": "Sisenemine ohutu tööelu andmekogusse (Tööbik)",
+        "url": "https://www.eesti.ee/est/teenused/kodanik/too_ja_toosuhted/sisenemine_ohutu_tooelu_andmekogusse",
+        "domain": "too_ja_toosuhted"
+      }
+    ],
     "related": [
       {
         "title": "AS Hoolekandeteenused",

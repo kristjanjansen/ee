@@ -35,7 +35,7 @@ const url = (min) =>
           .textContent.trim();
 
         const services = Array.from(
-          document.querySelectorAll(".tab-content-a ul li.target_KALN a")
+          document.querySelectorAll("#tab-content-teenused ul li a")
         ).map((el) => {
           const path = el
             .getAttribute("href")

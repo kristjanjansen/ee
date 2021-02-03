@@ -15,7 +15,7 @@ const App = {
     const zoom = ref(0.6);
 
     const width = ref(1500);
-    const height = ref(10000);
+    const height = ref(13000);
 
     const sourceData = ref([]);
     fetch("./structure.json")
@@ -38,42 +38,67 @@ const App = {
         .domain(sourceData.value.map((min) => min.title));
 
       const children = sourceData.value.map((d) => {
-        console.log(color(d.title));
         const domains = unique(d.related.map((r) => r.subdomain));
+        const services = d.services.map((s) => {
+          return {
+            name: s.title,
+            url: s.url,
+            color: color(d.title),
+            service: true,
+          };
+        });
         return {
           name: d.title,
           url: d.url,
           color: color(d.title),
-          children: domains.map((domain) => {
-            const relatedDomains = d.related.filter(
-              (r) => r.subdomain === domain
-            );
-            return {
-              name: domain,
+          children: [
+            {
+              name: "Teenused",
               color: color(d.title),
-              children: relatedDomains.map((r) => {
-                const services = servicesData.value
-                  .filter(
-                    (service) =>
-                      service.provider.name.toLowerCase() ===
-                      r.title.toLowerCase()
-                  )
-                  .map((service) => {
-                    return {
-                      name: service.name,
-                      color: color(d.title),
-                      url: service.url,
-                    };
-                  });
-                return {
-                  name: r.title,
-                  url: r.url,
-                  color: color(d.title),
-                  children: services,
-                };
-              }),
-            };
-          }),
+              service: true,
+              children: services,
+            },
+            ...domains.map((domain) => {
+              const relatedDomains = d.related.filter(
+                (r) => r.subdomain === domain
+              );
+              return {
+                name: domain,
+                color: color(d.title),
+                children: relatedDomains.map((r) => {
+                  const services = servicesData.value
+                    .filter(
+                      (service) =>
+                        service.provider.name.toLowerCase() ===
+                        r.title.toLowerCase()
+                    )
+                    .map((service) => {
+                      return {
+                        name: service.name,
+                        color: color(d.title),
+                        url: service.url,
+                        service: true,
+                      };
+                    });
+                  return {
+                    name: r.title,
+                    url: r.url,
+                    color: color(d.title),
+                    children: services.length
+                      ? [
+                          {
+                            name: "Teenused",
+                            color: color(d.title),
+                            service: true,
+                            children: services,
+                          },
+                        ]
+                      : [],
+                  };
+                }),
+              };
+            }),
+          ],
         };
       });
 
@@ -107,7 +132,7 @@ const App = {
     <path 
       v-for="el in elements"
       :d="el.path"
-      :stroke="el.data.color"
+      :stroke="el.data.color || 'black'"
       stroke-width="2"
       fill="none"
       opacity="0.2"
@@ -122,11 +147,11 @@ const App = {
       top: el.x + 'px',
       whiteSpace: 'nowrap',
       textShadow: '1px white',
-      transform: 'translateY(-0.6em)',
+      transform: 'translateY(-12px)',
     }"
   >
     <component :is="el.data.url ? 'a' : 'div'" :href="el.data.url" target="_blank">
-    <span :style="{color: el.data.color}">•</span> {{ el.data.name ? el.data.name : el.data }}
+    <span :style="{color: el.data.color}">{{ el.data.service ? '✋' : '🏢'}}</span> {{ el.data.name ? el.data.name : el.data }}
     </component>
   </div>
   </div>
