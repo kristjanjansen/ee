@@ -12,6 +12,8 @@ export const unique = (arr) => [...new Set(arr)];
 
 const App = {
   setup() {
+    const zoom = ref(0.6);
+
     const width = ref(1500);
     const height = ref(10000);
 
@@ -97,9 +99,10 @@ const App = {
 
     watchEffect(() => console.log(elements.value));
 
-    return { elements, width, height };
+    return { elements, width, height, zoom };
   },
   template: `
+  <div :style="{transform: 'scale(' + zoom + ')', transformOrigin: '0 0'}">
   <svg :width="width" :height="height">
     <path 
       v-for="el in elements"
@@ -124,6 +127,15 @@ const App = {
     <span :style="{color: el.data.color}">•</span> {{ el.data.name ? el.data.name : el.data }}
     </component>
   </div>
+  </div>
+  <input
+    style="position: fixed; top: 10px; left: 10px"
+    type="range"
+    v-model="zoom"
+    min="0.2"
+    max="1"
+    step="0.001"
+  />
   `,
 };
 
