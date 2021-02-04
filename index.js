@@ -16,7 +16,7 @@ const App = {
     const fade = ref(0.2);
 
     const width = ref(1500);
-    const height = ref(35000);
+    const height = ref(55000);
 
     const sourceData = ref([]);
     fetch("./structure.json")
@@ -45,7 +45,7 @@ const App = {
 
     const data = computed(() => {
       const color = d3
-        .scaleOrdinal(d3.schemeCategory10)
+        .scaleOrdinal([...d3.schemeCategory10, ...d3.schemeDark2])
         .domain(sourceData.value.map((min) => min.title));
 
       const children = sourceData.value.map((d) => {
@@ -97,13 +97,12 @@ const App = {
               ...dep,
               name: "Osakonnad",
               color: color(d.title),
+              dep: true,
               children: dep.children.map((c) => {
-                return { ...c, color: color(d.title) };
+                return { ...c, color: color(d.title), dep: true };
               }),
             };
           });
-
-        console.log(deps);
 
         const allServices = [...services, ...services2];
         return {
@@ -194,7 +193,13 @@ const App = {
                     children.push({
                       name: "Osakonnad",
                       color: color(d.title),
-                      children: deps[0].children,
+                      dep: true,
+                      children: deps[0].children.map((c) => ({
+                        ...c,
+                        color: color(d.title),
+                        dep: true,
+                      })),
+                      stats: deps[0].stats,
                     });
                   }
 
@@ -270,9 +275,11 @@ const App = {
       v-for="el in elements"
       :cx="el.y + 7"
       :cy="el.x"
-      :r="el.data.stats ? Math.min(area2radius(el.data.stats) + 2, 250) : 0"
-      :fill="el.data.color"
-      :opacity="fade"
+      :r="el.data.stats ? el.data.dep ? area2radius(el.data.stats * 30) :  Math.min(area2radius(el.data.stats) + 2, 250) : 0"
+      :fill="el.data.dep ? 'none' : el.data.color"
+      :stroke="el.data.dep ?  el.data.color : 'none'"
+      stroke-width="3"
+      :opacity="fade * 1.5"
       style="mix-blend-mode: multiply"
     />
   </svg>
@@ -288,7 +295,7 @@ const App = {
     }"
   >
     <component :is="el.data.url ? 'a' : 'div'" :href="el.data.url" target="_blank">
-      <div><span :style="{color: el.data.color}">{{ el.data.system ? '⚙️' : el.data.service ? '✋' : el.data.name?.endsWith('ministeerium') ? '🕋' : '🏢'}}</span>{{ el.data.name ? el.data.name : el.data }} <span :style="{color: el.data.color, opacity: 0.75}">{{ el.data.stats }}</span></div>
+      <div><span :style="{filter: 'saturate(70%)',color: el.data.color}">{{ el.data.dep ? '🧠' : el.data.system ? '⚙️' : el.data.service ? '✋' : el.data.name?.endsWith('ministeerium') ? '🕋' : '🏢'}}</span>{{ el.data.name ? el.data.name : el.data }} <span :style="{color: el.data.color, opacity: 0.75}">{{ el.data.stats }}</span></div>
     </component>
   </div>
   </div>
