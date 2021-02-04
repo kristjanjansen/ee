@@ -202,14 +202,14 @@ const App = {
     max="1"
     step="0.001"
   />
-  <input
+  <!-- <input
     style="position: fixed; top: 20px; right: 20px; width: 100px"
     type="range"
     v-model="fade"
     min="0"
     max="0.2"
     step="0.001"
-  />
+  /> -->
   `,
 };
 
