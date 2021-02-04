@@ -16,7 +16,7 @@ const App = {
     const fade = ref(0);
 
     const width = ref(1500);
-    const height = ref(15000);
+    const height = ref(27000);
 
     const sourceData = ref([]);
     fetch("./structure.json")
@@ -30,6 +30,11 @@ const App = {
         (res) =>
           (servicesData.value = res.services.filter((s) => s.provider !== null))
       );
+
+    const rihaData = ref([]);
+    fetch("./riha.json")
+      .then((res) => res.json())
+      .then((res) => (rihaData.value = res.content));
 
     const tree = d3.tree().size([height.value, width.value]);
 
@@ -66,6 +71,20 @@ const App = {
             };
           });
 
+        const systems = rihaData.value
+          .filter(
+            (system) =>
+              system.details.owner.name.toLowerCase() === d.title.toLowerCase()
+          )
+          .map((system) => {
+            return {
+              name: system.details.name,
+              color: color(d.title),
+              system: true,
+              url: `https://www.riha.ee/Infos%C3%BCsteemid/Vaata/${system.details.short_name}`,
+            };
+          });
+
         const allServices = [...services, ...services2];
         return {
           name: d.title,
@@ -78,6 +97,14 @@ const App = {
                   color: color(d.title),
                   service: true,
                   children: allServices,
+                }
+              : null,
+            systems.length
+              ? {
+                  name: "Infosüsteemid",
+                  color: color(d.title),
+                  system: true,
+                  children: systems,
                 }
               : null,
             ...domains.map((domain) => {
@@ -96,7 +123,7 @@ const App = {
                     .filter(
                       (service) =>
                         service.provider.name.toLowerCase() ===
-                        r.title.toLowerCase()
+                        r.title.replace(" (RMK)", "").toLowerCase()
                     )
                     .map((service) => {
                       return {
@@ -109,20 +136,53 @@ const App = {
                             .channelStatistics.transaction,
                       };
                     });
+
+                  const clean = (str) =>
+                    str
+                      .replace(" (RMK)", "")
+                      .replace(" Aktsiaselts", "")
+                      .replace(" AS", "")
+                      .toLowerCase();
+
+                  const systems = rihaData.value
+                    .filter(
+                      (system) =>
+                        clean(system.details.owner.name) === clean(r.title)
+                    )
+                    .map((system) => {
+                      return {
+                        name: system.details.name,
+                        color: color(d.title),
+                        system: true,
+                        url: `https://www.riha.ee/Infos%C3%BCsteemid/Vaata/${system.details.short_name}`,
+                      };
+                    });
+
+                  let children = [];
+
+                  if (services.length) {
+                    children.push({
+                      name: "Teenused",
+                      color: color(d.title),
+                      service: true,
+                      children: services,
+                    });
+                  }
+
+                  if (systems.length) {
+                    children.push({
+                      name: "Infosüsteemid",
+                      color: color(d.title),
+                      system: true,
+                      children: systems,
+                    });
+                  }
+
                   return {
-                    name: r.title,
+                    name: r.title.replace(" (RMK)", ""),
                     url: r.url,
                     color: color(d.title),
-                    children: services.length
-                      ? [
-                          {
-                            name: "Teenused",
-                            color: color(d.title),
-                            service: true,
-                            children: services,
-                          },
-                        ]
-                      : [],
+                    children,
                   };
                 }),
               };
@@ -190,7 +250,7 @@ const App = {
     }"
   >
     <component :is="el.data.url ? 'a' : 'div'" :href="el.data.url" target="_blank">
-      <div><span :style="{color: el.data.color}">{{ el.data.service ? '✋' : el.data.name.endsWith('ministeerium') ? '🕋' : '🏢'}}</span>{{ el.data.name ? el.data.name : el.data }} <span :style="{color: el.data.color, opacity: 0.75}">{{ el.data.stats }}</span></div>
+      <div><span :style="{color: el.data.color}">{{ el.data.system ? '⚙️' : el.data.service ? '✋' : el.data.name.endsWith('ministeerium') ? '🕋' : '🏢'}}</span>{{ el.data.name ? el.data.name : el.data }} <span :style="{color: el.data.color, opacity: 0.75}">{{ el.data.stats }}</span></div>
     </component>
   </div>
   </div>
