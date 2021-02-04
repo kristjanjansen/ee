@@ -13,7 +13,7 @@ export const unique = (arr) => [...new Set(arr)];
 const App = {
   setup() {
     const zoom = ref(0.6);
-    const fade = ref(0);
+    const fade = ref(0.2);
 
     const width = ref(1500);
     const height = ref(15000);
