@@ -13,10 +13,10 @@ export const unique = (arr) => [...new Set(arr)];
 const App = {
   setup() {
     const zoom = ref(0.6);
-    const fade = ref(0);
+    const fade = ref(0.2);
 
     const width = ref(1500);
-    const height = ref(27000);
+    const height = ref(35000);
 
     const sourceData = ref([]);
     fetch("./structure.json")
@@ -35,6 +35,11 @@ const App = {
     fetch("./riha.json")
       .then((res) => res.json())
       .then((res) => (rihaData.value = res.content));
+
+    const depsData = ref([]);
+    fetch("./salaries.json")
+      .then((res) => res.json())
+      .then((res) => (depsData.value = res));
 
     const tree = d3.tree().size([height.value, width.value]);
 
@@ -85,12 +90,28 @@ const App = {
             };
           });
 
+        const deps = depsData.value
+          .filter((dep) => dep.name.toLowerCase() === d.title.toLowerCase())
+          .map((dep) => {
+            return {
+              ...dep,
+              name: "Osakonnad",
+              color: color(d.title),
+              children: dep.children.map((c) => {
+                return { ...c, color: color(d.title) };
+              }),
+            };
+          });
+
+        console.log(deps);
+
         const allServices = [...services, ...services2];
         return {
           name: d.title,
           url: d.url,
           color: color(d.title),
           children: [
+            ...deps,
             allServices.length
               ? {
                   name: "Teenused",
@@ -158,7 +179,24 @@ const App = {
                       };
                     });
 
+                  const deps = depsData.value.filter(
+                    (dep) => clean(dep.name) === clean(r.title)
+                  );
+                  // .map((dep) => {
+                  //   return dep.children.map((c) => {
+                  //     return { ...c, color: color(d.title) };
+                  //   });
+                  // });
+
                   let children = [];
+
+                  if (deps.length) {
+                    children.push({
+                      name: "Osakonnad",
+                      color: color(d.title),
+                      children: deps[0].children,
+                    });
+                  }
 
                   if (services.length) {
                     children.push({
@@ -250,7 +288,7 @@ const App = {
     }"
   >
     <component :is="el.data.url ? 'a' : 'div'" :href="el.data.url" target="_blank">
-      <div><span :style="{color: el.data.color}">{{ el.data.system ? '⚙️' : el.data.service ? '✋' : el.data.name.endsWith('ministeerium') ? '🕋' : '🏢'}}</span>{{ el.data.name ? el.data.name : el.data }} <span :style="{color: el.data.color, opacity: 0.75}">{{ el.data.stats }}</span></div>
+      <div><span :style="{color: el.data.color}">{{ el.data.system ? '⚙️' : el.data.service ? '✋' : el.data.name?.endsWith('ministeerium') ? '🕋' : '🏢'}}</span>{{ el.data.name ? el.data.name : el.data }} <span :style="{color: el.data.color, opacity: 0.75}">{{ el.data.stats }}</span></div>
     </component>
   </div>
   </div>
