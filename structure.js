@@ -110,7 +110,18 @@ const piUrls = pis.map((pi) => `https://www.eesti.ee/est/kontaktid/${pi}`);
     })
   );
 
-  console.log(JSON.stringify(data, null, 2));
+  const extras = [
+    {
+      title: "Riigikantselei",
+      url: "https://www.riigikantselei.ee/et",
+      services: [],
+      related: [],
+    },
+  ];
+
+  const final = [...data, ...extras];
+
+  console.log(JSON.stringify(final, null, 2));
 
   await browser.close();
 })();

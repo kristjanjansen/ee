@@ -10,6 +10,15 @@ import flattenTree from "https://cdn.skypack.dev/tree-flatten";
 
 export const unique = (arr) => [...new Set(arr)];
 
+const clean = (str) =>
+  str
+    .replace(" (RMK)", "")
+    .replace(" Aktsiaselts", "")
+    .replace(" AS", "")
+    .replace("- Vabariigi Valitsus")
+    .replace("Transpordiamet", "Maanteeamet")
+    .toLowerCase();
+
 const App = {
   setup() {
     const zoom = ref(0.6);
@@ -61,10 +70,7 @@ const App = {
           };
         });
         const services2 = servicesData.value
-          .filter(
-            (service) =>
-              service.provider.name.toLowerCase() === d.title.toLowerCase()
-          )
+          .filter((service) => clean(service.provider.name) === clean(d.title))
           .map((service) => {
             return {
               name: service.name,
@@ -78,8 +84,7 @@ const App = {
 
         const systems = rihaData.value
           .filter(
-            (system) =>
-              system.details.owner.name.toLowerCase() === d.title.toLowerCase()
+            (system) => clean(system.details.owner.name) === clean(d.title)
           )
           .map((system) => {
             return {
@@ -91,7 +96,7 @@ const App = {
           });
 
         const deps = depsData.value
-          .filter((dep) => dep.name.toLowerCase() === d.title.toLowerCase())
+          .filter((dep) => clean(dep.name) === clean(d.title))
           .map((dep) => {
             return {
               ...dep,
@@ -142,8 +147,7 @@ const App = {
                   const services = servicesData.value
                     .filter(
                       (service) =>
-                        service.provider.name.toLowerCase() ===
-                        r.title.replace(" (RMK)", "").toLowerCase()
+                        clean(service.provider.name) === clean(r.title)
                     )
                     .map((service) => {
                       return {
@@ -156,13 +160,6 @@ const App = {
                             .channelStatistics.transaction,
                       };
                     });
-
-                  const clean = (str) =>
-                    str
-                      .replace(" (RMK)", "")
-                      .replace(" Aktsiaselts", "")
-                      .replace(" AS", "")
-                      .toLowerCase();
 
                   const systems = rihaData.value
                     .filter(

@@ -2152,5 +2152,11 @@
         "subdomain": "instituudid"
       }
     ]
+  },
+  {
+    "title": "Riigikantselei",
+    "url": "https://www.riigikantselei.ee/et",
+    "services": [],
+    "related": []
   }
 ]
